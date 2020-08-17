@@ -1,9 +1,9 @@
-# 👋 Hi, I'm [Andrew](https://andrewm.codes) and I am looking for a job! 💎
+# 👋 Hi, I'm [Andrew](https://andrewm.codes) 💎
 
 <samp>
 I am a full stack Ruby on Rails and OSS developer.
 
-You can find everything you need to know [on my website](https://www.andrewm.codes/), including a copy of my resume if you or your team is interested in hiring me to write Rails application code for your company. 👀
+You can find everything you need to know [on my website](https://www.andrewm.codes/).
 
 Outside of development, I enjoy talking about Ruby on [podcasts](https://www.andrewm.codes/podcasts/), [blogging](https://www.andrewm.codes/posts/), and surfing 🤘.
 
