@@ -40,8 +40,6 @@ jobs:
           plugin_posts_source: dev.to
           plugin_stars: yes
           plugin_stars_limit: 4
-          plugin_tweets: yes
-          plugin_tweets_limit: 2
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_limit: 15
