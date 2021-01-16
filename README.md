@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/andrewmcodes?template=classic&languages=1&posts=1&stars=1&tweets=1&posts.limit=4&posts.source=dev.to&tweets.limit=2&stars.limit=4&config.timezone=America%2FNew_York)
+![Metrics](https://github.com/andrewmcodes/andrewmcodes/blob/main/github-metrics.svg)
