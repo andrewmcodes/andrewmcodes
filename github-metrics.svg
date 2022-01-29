@@ -32,7 +32,7 @@
                                 <g>
                                     <rect class="day" x="0" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
+                                    <rect class="day" x="30" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="45" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="60" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="75" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5388 Commits
+                            5391 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -340,14 +340,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="414.06424986566185" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="414.06424986566185" y="0" width="28.52145890792039" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="442.58570877358227" y="0" width="12.142596113386062" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="454.7283048869683" y="0" width="3.780407678866893" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="458.5087125658352" y="0" width="0.7339489049819865" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="459.24266147081715" y="0" width="0.4963532836358587" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.739014754453" y="0" width="0.1965444441773343" height="8" fill="#384d54"/>
-                    <rect mask="url(#languages-bar)" x="459.93555919863036" y="0" width="0.0644408013696178" height="8" fill="#67b8de"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="410.6690515349503" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="410.6690515349503" y="0" width="30.63772484382603" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="441.30677637877636" y="0" width="13.034367091862357" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="454.34114347063877" y="0" width="4.05804664695428" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="458.399190117593" y="0" width="0.7878512440728709" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="459.1870413616659" y="0" width="0.5328062340003947" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.7198475956663" y="0" width="0.21097897116492628" height="8" fill="#384d54"/>
+                    <rect mask="url(#languages-bar)" x="459.9308265668312" y="0" width="0.06917343316882829" height="8" fill="#67b8de"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -598,7 +598,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~6.89
+                            Average per day at ~6.90
                         </div>
                     </section>
                 </div>
@@ -2568,10 +2568,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.107142857142857 0,1.1071428571428572 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1071428571428572 1.7,2.107142857142857 z"/>
                             </g>
-                            <g transform="translate(-8.5, 9.285714285714285)">
+                            <g transform="translate(-8.5, 9.125)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.7142857142857144 0,2.7142857142857144 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.7142857142857144 1.7,3.7142857142857144 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.875 0,2.875 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.875 1.7,3.875 z"/>
                             </g>
                         </g>
                     </g>
@@ -2594,7 +2594,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phibr0/obsidian-customizable-sidebar</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 13 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This Plugin allows you to add every Command to Obsidian's Sidebar Ribbon and add Custom Icons.</div>
@@ -2615,7 +2615,7 @@
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                             <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                         </svg>
-                                        28
+                                        29
                                     </div>
                                     <div>
                                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2970,7 +2970,7 @@ Co-authored-by: Andrew Mason &lt;andrewmcodes@protonmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 28 Jan 2022, 23:27:52 (timezone America/New_York) with lowlighter/metrics@3.18.0</span>
+                <span>Last updated 29 Jan 2022, 03:24:55 (timezone America/New_York) with lowlighter/metrics@3.18.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
