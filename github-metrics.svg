@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6486" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6430" class="">
     <defs>
         <style/>
     </defs>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5628 Commits
+                            5627 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 2634 repositories
+                            Starred 2635 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -411,8 +411,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="296.1 329"/>
-                                <text x="60" y="60" dominant-baseline="central">90</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -632,27 +632,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 54.06839090435688%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54.05900728913572%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 10.056587398021177%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 10.054842068726138%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">13%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 8.029161603888214%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 8.027768136063866%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 6.348897760805415%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.3616799722318635%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Starlark</span>
-                                <div class="bar" style="width: 1.496962332928311%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.4967025338424158%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                         </div>
@@ -1221,15 +1221,15 @@
                                 <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.476923076923077 0,2.476923076923077 z"/>
                                 <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.476923076923077 1.7,3.476923076923077 z"/>
                             </g>
-                            <g transform="translate(-3.4, 4.676923076923076)">
+                            <g transform="translate(-3.4, 4.769230769230769)">
                                 <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.323076923076924 0,4.323076923076924 z"/>
-                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.323076923076924 1.7,5.323076923076924 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5.230769230769231 0,4.230769230769231 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4.230769230769231 1.7,5.230769230769231 z"/>
                             </g>
-                            <g transform="translate(-5.1, 6.7846153846153845)">
+                            <g transform="translate(-5.1, 6.6923076923076925)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.2153846153846155 0,3.2153846153846155 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.2153846153846155 1.7,4.2153846153846155 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.307692307692308 0,3.307692307692308 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.307692307692308 1.7,4.307692307692308 z"/>
                             </g>
                             <g transform="translate(-6.8, 9.63076923076923)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1342,15 +1342,15 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.5538461538461537 0,1.5538461538461539 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.5538461538461539 1.7,2.5538461538461537 z"/>
                             </g>
-                            <g transform="translate(-6.8, 8.338461538461537)">
+                            <g transform="translate(-6.8, 8.430769230769231)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.661538461538462 0,2.661538461538462 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.661538461538462 1.7,3.661538461538462 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.5692307692307694 0,2.5692307692307694 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.5692307692307694 1.7,3.5692307692307694 z"/>
                             </g>
-                            <g transform="translate(-8.5, 8.96923076923077)">
+                            <g transform="translate(-8.5, 8.876923076923077)">
                                 <path fill="#30a14e" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.030769230769231 0,3.0307692307692307 z"/>
-                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.0307692307692307 1.7,4.030769230769231 z"/>
+                                <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.123076923076923 0,3.123076923076923 z"/>
+                                <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.123076923076923 1.7,4.123076923076923 z"/>
                             </g>
                             <g transform="translate(-10.2, 11.538461538461538)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
@@ -1871,7 +1871,7 @@
                                 </svg>
                                 Alfred
                             </h2>
-                            <div class="count">19 repositories</div>
+                            <div class="count">20 repositories</div>
                             <div class="description"></div>
                             <div class="languages">
                                 <div class="row">
@@ -1899,7 +1899,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>21.05%</div>
+                                                <div>20%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -1911,7 +1911,7 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>10.53%</div>
+                                                <div>10%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1923,7 +1923,7 @@
                                                 Swift
                                             </div>
                                             <small>
-                                                <div>5.26%</div>
+                                                <div>5%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1935,7 +1935,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>5.26%</div>
+                                                <div>5%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1949,7 +1949,7 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>15.79%</div>
+                                                <div>15%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1961,7 +1961,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>10.53%</div>
+                                                <div>10%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1973,7 +1973,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>5.26%</div>
+                                                <div>5%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2515,7 +2515,7 @@
                                 </svg>
                                 Obsidian
                             </h2>
-                            <div class="count">52 repositories</div>
+                            <div class="count">53 repositories</div>
                             <div class="description">Plugins, themes, snippets, vaults, etc.</div>
                             <div class="languages">
                                 <div class="row">
@@ -2542,7 +2542,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>69.23%</div>
+                                                <div>67.92%</div>
                                                 <div>36★</div>
                                             </small>
                                         </div>
@@ -2554,7 +2554,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>7.69%</div>
+                                                <div>7.55%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -2566,7 +2566,7 @@
                                                 TeX
                                             </div>
                                             <small>
-                                                <div>1.92%</div>
+                                                <div>1.89%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2580,7 +2580,7 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>13.46%</div>
+                                                <div>13.21%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
@@ -2592,7 +2592,7 @@
                                                 Elm
                                             </div>
                                             <small>
-                                                <div>1.92%</div>
+                                                <div>1.89%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2604,7 +2604,7 @@
                                                 SCSS
                                             </div>
                                             <small>
-                                                <div>1.92%</div>
+                                                <div>1.89%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2936,6 +2936,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">chaosarium/Obsidian-Alfred-Workflow</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -3018,29 +3031,6 @@
                                         <code class="language-multiline language-suggestion" xml:space="preserve">payer = Podia::Affiliate::Payer.new(
       affiliate: affiliate,
 <span class="token trimmed">(2 more lines were trimmed)</span></code>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#5752 [Checkout] Coupons, conversions, affiliates and referrals</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by websebdev in <span class="repo">podia/podia</span></div>
-                                    <div class="comment">
-                                        I wonder if we can think of a different name for this method to match more of what it's doing? We aren't just checking the coupon here, we are also archiving them under certain conditions. Maybe
-                                        <code>archive_coupons</code>
-                                        or
-                                        <code>archive_limited_use_coupons</code>
-                                        . WDYT? Not blocking merging just wanted to bring it up.
                                     </div>
                                 </div>
                             </section>
@@ -3137,7 +3127,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="168.84666666666666 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="168.95000000000002 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3156,7 +3146,7 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 2634 repositories</div>
+                                <div class="text">Starred 2635 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -3932,7 +3922,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Mar 2022, 18:28:22 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 29 Mar 2022, 19:29:55 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
