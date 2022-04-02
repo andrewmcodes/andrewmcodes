@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.93m added, 1.48m removed
+                                    2.44m added, 1.79m removed
                                 </div>
                             </section>
                             <section>
@@ -2514,7 +2514,7 @@
                                 </svg>
                                 Obsidian
                             </h2>
-                            <div class="count">59 repositories</div>
+                            <div class="count">60 repositories</div>
                             <div class="description">Plugins, themes, snippets, vaults, etc.</div>
                             <div class="languages">
                                 <div class="row">
@@ -2523,12 +2523,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="315" height="8" fill="#2b7489"/>
-                                        <rect mask="url(#languages-bar)" x="315" y="0" width="52.5" height="8" fill="#563d7c"/>
-                                        <rect mask="url(#languages-bar)" x="367.5" y="0" width="30" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="397.5" y="0" width="7.5" height="8" fill="#60b5cc"/>
-                                        <rect mask="url(#languages-bar)" x="405" y="0" width="7.5" height="8" fill="#3d6117"/>
-                                        <rect mask="url(#languages-bar)" x="412.5" y="0" width="7.5" height="8" fill="#c6538c"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="316.8421052631579" height="8" fill="#2b7489"/>
+                                        <rect mask="url(#languages-bar)" x="316.8421052631579" y="0" width="51.57894736842105" height="8" fill="#563d7c"/>
+                                        <rect mask="url(#languages-bar)" x="368.42105263157896" y="0" width="29.473684210526315" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="397.89473684210526" y="0" width="7.368421052631579" height="8" fill="#60b5cc"/>
+                                        <rect mask="url(#languages-bar)" x="405.2631578947369" y="0" width="7.368421052631579" height="8" fill="#3d6117"/>
+                                        <rect mask="url(#languages-bar)" x="412.6315789473685" y="0" width="7.368421052631579" height="8" fill="#c6538c"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -2541,8 +2541,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>71.19%</div>
-                                                <div>42★</div>
+                                                <div>71.67%</div>
+                                                <div>43★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -2553,7 +2553,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>6.78%</div>
+                                                <div>6.67%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -2565,7 +2565,7 @@
                                                 TeX
                                             </div>
                                             <small>
-                                                <div>1.69%</div>
+                                                <div>1.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2579,7 +2579,7 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>11.86%</div>
+                                                <div>11.67%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
@@ -2591,7 +2591,7 @@
                                                 Elm
                                             </div>
                                             <small>
-                                                <div>1.69%</div>
+                                                <div>1.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2603,7 +2603,7 @@
                                                 SCSS
                                             </div>
                                             <small>
-                                                <div>1.69%</div>
+                                                <div>1.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -4021,7 +4021,7 @@ notes/youtube/youtube.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2022, 22:01:26 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 1 Apr 2022, 23:01:18 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
