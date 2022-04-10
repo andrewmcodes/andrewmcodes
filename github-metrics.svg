@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6259" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6279" class="">
     <defs>
         <style/>
     </defs>
@@ -2427,11 +2427,24 @@
                                         <mask id="languages-bar">
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="420" height="8" fill="#d1d5da"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="420" height="8" fill="#2b7489"/>
                                     </svg>
                                 </div>
                                 <div class="row">
                                     <section>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                TypeScript
+                                            </div>
+                                            <small>
+                                                <div>100%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
                                     </section>
                                     <section>
                                     </section>
@@ -3358,7 +3371,7 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.855000000000004 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.89375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3383,7 +3396,7 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
                                     maintainer
                                     <span class="gh">ranked 14.2k out of 298m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 2364 stars</div>
+                                <div class="text">Maintaining a repository with 2365 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -3902,7 +3915,7 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Apr 2022, 09:01:15 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 10 Apr 2022, 10:02:57 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
