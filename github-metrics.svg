@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6215" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6195" class="">
     <defs>
         <style/>
     </defs>
@@ -603,22 +603,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 38.08493475682088%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 38.08132087109171%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">48%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 33.527605490594816%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 33.524424050590014%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">42%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Starlark</span>
-                                <div class="bar" style="width: 5.280189798339264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.279688760259999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 3.1072699542450435%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.114566318058276%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
@@ -2411,24 +2411,11 @@
                                         <mask id="languages-bar">
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="420" height="8" fill="#2b7489"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="420" height="8" fill="#d1d5da"/>
                                     </svg>
                                 </div>
                                 <div class="row">
                                     <section>
-                                        <div class="field language details">
-                                            <div class="field">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                TypeScript
-                                            </div>
-                                            <small>
-                                                <div>100%</div>
-                                                <div>1★</div>
-                                            </small>
-                                        </div>
                                     </section>
                                     <section>
                                     </section>
@@ -3892,7 +3879,7 @@ Co-authored-by: github-actions[bot] &lt;41898282+github-actions[bot]@users.norep
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Apr 2022, 10:03:29 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 16 Apr 2022, 11:01:18 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
