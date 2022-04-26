@@ -3473,7 +3473,7 @@ Hide new address form behind a new feature flag that will get removed in a follo
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.474999999999994 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="53.51375 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3498,7 +3498,7 @@ Hide new address form behind a new feature flag that will get removed in a follo
                                     maintainer
                                     <span class="gh">ranked 14.2k out of 302m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 2380 stars</div>
+                                <div class="text">Maintaining a repository with 2381 stars</div>
                             </div>
                         </div>
                         <div class="achievement b largeable-width-half">
@@ -4017,7 +4017,7 @@ Hide new address form behind a new feature flag that will get removed in a follo
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 25 Apr 2022, 18:28:54 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 25 Apr 2022, 19:41:18 (timezone America/Phoenix) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
