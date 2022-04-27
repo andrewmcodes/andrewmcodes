@@ -603,22 +603,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 54.19083648591845%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 54.657789173317894%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">68%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 17.970575872215218%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.630370952400646%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 4.079024800336276%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.013068111327075%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haml</span>
-                                <div class="bar" style="width: 1.0155527532576714%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.9991315495637071%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                         </div>
@@ -2042,7 +2042,7 @@
                                 </svg>
                                 Code Tools
                             </h2>
-                            <div class="count">4 repositories</div>
+                            <div class="count">5 repositories</div>
                             <div class="description">Linters, formatters, etc. Anything that modifies or creates code.</div>
                             <div class="languages">
                                 <div class="row">
@@ -2051,13 +2051,39 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="105" height="8" fill="#244776"/>
-                                        <rect mask="url(#languages-bar)" x="105" y="0" width="105" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="210" y="0" width="105" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="315" y="0" width="105" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="168" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="168" y="0" width="84" height="8" fill="#244776"/>
+                                        <rect mask="url(#languages-bar)" x="252.00000000000003" y="0" width="84" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="336" y="0" width="84" height="8" fill="#701516"/>
                                     </svg>
                                 </div>
                                 <div class="row">
+                                    <section>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#00add8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Go
+                                            </div>
+                                            <small>
+                                                <div>40%</div>
+                                                <div>2★</div>
+                                            </small>
+                                        </div>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Rust
+                                            </div>
+                                            <small>
+                                                <div>20%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
+                                    </section>
                                     <section>
                                         <div class="field language details">
                                             <div class="field">
@@ -2067,33 +2093,7 @@
                                                 CoffeeScript
                                             </div>
                                             <small>
-                                                <div>25%</div>
-                                                <div>1★</div>
-                                            </small>
-                                        </div>
-                                        <div class="field language details">
-                                            <div class="field">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#00add8" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                Go
-                                            </div>
-                                            <small>
-                                                <div>25%</div>
-                                                <div>1★</div>
-                                            </small>
-                                        </div>
-                                    </section>
-                                    <section>
-                                        <div class="field language details">
-                                            <div class="field">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#dea584" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                Rust
-                                            </div>
-                                            <small>
-                                                <div>25%</div>
+                                                <div>20%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2105,7 +2105,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>25%</div>
+                                                <div>20%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2403,7 +2403,7 @@
                                 </svg>
                                 GitHub Meta
                             </h2>
-                            <div class="count">13 repositories</div>
+                            <div class="count">14 repositories</div>
                             <div class="description">GitHub Actions, repo visualizers, personal readmes, etc.</div>
                             <div class="languages">
                                 <div class="row">
@@ -2428,7 +2428,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>53.85%</div>
+                                                <div>50%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
@@ -2440,7 +2440,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>7.69%</div>
+                                                <div>7.14%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2454,7 +2454,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>23.08%</div>
+                                                <div>21.43%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -2466,7 +2466,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>7.69%</div>
+                                                <div>7.14%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -4008,7 +4008,7 @@ fixes rollbar error #32946</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Apr 2022, 10:11:35 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 27 Apr 2022, 11:06:22 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
