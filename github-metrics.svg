@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            5680 Commits
+                            5681 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    2.64m added, 1.83m removed
+                                    1.96m added, 1.49m removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="384.94342774450666" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="384.94342774450666" y="0" width="46.31318351846833" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="431.256611262975" y="0" width="12.86582026918701" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.122431532162" y="0" width="9.945609751702806" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="454.06804128386483" y="0" width="2.8790035688260662" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="456.94704485269085" y="0" width="2.156532675330785" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.1035775280217" y="0" width="0.4741797522303242" height="8" fill="#89e051"/>
-                    <rect mask="url(#languages-bar)" x="459.577757280252" y="0" width="0.4222427197480055" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="379.2427558745628" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="379.2427558745628" y="0" width="49.894501946500384" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="429.1372578210632" y="0" width="13.757388786239687" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="442.8946466073029" y="0" width="10.714686562576432" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.60933316987933" y="0" width="3.1016319383765047" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="456.71096510825583" y="0" width="2.323293619495541" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.03425872775136" y="0" width="0.510847252839194" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="459.54510598059056" y="0" width="0.45489401940942675" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -425,7 +425,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 32.8 characters per line of code written</li>
+                        <li>Has approximately 32.6 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -471,8 +471,8 @@
                             06
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             07
                         </div>
                         <div class="entry">
@@ -551,8 +551,8 @@
                             22
                         </div>
                         <div class="entry">
-                            <span class="value"></span>
-                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
+                            <span class="value">1</span>
+                            <div class="bar" style="height: 2.272727272727273px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             23
                         </div>
                     </div>
@@ -567,18 +567,18 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">10</span>
-                                <div class="bar" style="height: 13.88888888888889px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">11</span>
+                                <div class="bar" style="height: 15.714285714285714px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">6</span>
-                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.571428571428571px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">2</span>
-                                <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 2.857142857142857px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -587,7 +587,7 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">36</span>
+                                <span class="value">35</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
@@ -602,24 +602,24 @@
                         <h3>Language activity</h3>
                         <div class="chart-bars horizontal">
                             <div class="entry">
-                                <span class="name">Ruby</span>
-                                <div class="bar" style="width: 57.02061783125748%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="name">JavaScript</span>
+                                <div class="bar" style="width: 56.51174326568465%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">71%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 16.418267539230172%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">21%</span>
+                                <span class="name">Ruby</span>
+                                <div class="bar" style="width: 17.476222313283152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">22%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.4142565618183096%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <span class="name">HTML</span>
+                                <div class="bar" style="width: 5.035477818275929%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haml</span>
-                                <div class="bar" style="width: 0.8500457392161003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">1%</span>
+                                <div class="bar" style="width: 0.26053011840317464%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">0%</span>
                             </div>
                         </div>
                     </section>
@@ -718,7 +718,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.83
+                            Average per day at ~5.84
                         </div>
                     </section>
                 </div>
@@ -1706,10 +1706,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-1.7, 6.90625)">
+                            <g transform="translate(-1.7, 6.8125)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.09375 0,1.09375 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.09375 1.7,2.09375 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.1875 0,1.1875 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.1875 1.7,2.1875 z"/>
                             </g>
                         </g>
                     </g>
@@ -3085,6 +3085,915 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2fe3a6d</div>
+                                        <div class="message">chore(): backup vault 2022-05-02 23:35:57
+
+Affected files:
+.markdownlint.jsonc
+.obsidian/app.json
+.obsidian/command-palette.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+.obsidian/hotkeys.json
+.obsidian/plugins/advanced-toolbar/data.json
+.obsidian/plugins/auto-moc/main.js
+.obsidian/plugins/auto-moc/manifest.json
+.obsidian/plugins/breadcrumbs/main.js
+.obsidian/plugins/breadcrumbs/manifest.json
+.obsidian/plugins/breadcrumbs/styles.css
+.obsidian/plugins/obsidian-custom-frames/main.js
+.obsidian/plugins/obsidian-custom-frames/manifest.json
+.obsidian/plugins/obsidian-git/main.js
+.obsidian/plugins/obsidian-git/manifest.json
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/4kFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/4kLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AdminFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlarmFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlbumFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlbumLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlertFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlertLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignBottom.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignCenter.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignJustify.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignLeft.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignRight.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignTop.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignVertically.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AncientPavilionFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AngularjsFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Anticlockwise2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AnticlockwiseFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Apps2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArchiveDrawerFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArchiveDrawerLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArchiveFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArchiveLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDownCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDownCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDownFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDownLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDownSFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDownSLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropDownFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropDownLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropLeftFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropLeftLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropRightFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropRightLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropUpFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropUpLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowGoBackFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowGoBackLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowGoForwardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowGoForwardLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftDownFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftDownLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftRightFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftRightLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftSFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftSLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftUpFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftUpLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightDownFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightDownLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightSFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightSLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightUpFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightUpLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpDownFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpDownLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpSFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpSLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Artboard2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Artboard2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArtboardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArtboardLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArticleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArticleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AspectRatioFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AspectRatioLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Asterisk.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AttachmentLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AwardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BankCard2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BankCard2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BankCardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BankCardLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BankFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BankLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChart2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChart2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartGroupedFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartGroupedLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartHorizontalFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartHorizontalLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarcodeBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarcodeBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarcodeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarcodeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarricadeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarricadeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Battery2ChargeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Battery2ChargeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Battery2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Battery2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryChargeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryChargeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryLowFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryLowLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatterySaverFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatterySaverLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryShareFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BillFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BillLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BitCoinFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BlurOffFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Bold.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Book2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Book2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Book3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Book3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookMarkFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookMarkLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookOpenFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookOpenLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookReadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookReadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookletFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BookletLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Bookmark2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Bookmark2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BracketsFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BracketsLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Briefcase2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Briefcase2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Briefcase3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Briefcase3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Briefcase4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Briefcase4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Briefcase5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BriefcaseFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BriefcaseLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BringForward.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BringToFront.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Brush3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Brush3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Brush4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Brush4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Building2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Building2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Building3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Building3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Building4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Building4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BuildingFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BuildingLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BusFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BusLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CakeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CakeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalculatorFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalculatorLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Calendar2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Calendar2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarCheckFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarEventFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarEventLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarTodoFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarTodoLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Camera3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Camera3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CameraFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CellphoneFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CellphoneLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CelsiusFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CelsiusLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CharacterRecognitionFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CharacterRecognitionLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChargingPile2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChargingPile2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat1Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat1Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatCheckFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatCheckLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatDownloadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatDownloadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatFollowUpFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatFollowUpLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatForwardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatForwardLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatHeartFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatHistoryFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatNewFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatNewLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatOffFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatPollFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatPollLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatSmile2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatSmile3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatSmile3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatSmileFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatSmileLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatUploadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatUploadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatVoiceFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxBlankCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxBlankCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxBlankFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxBlankLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxIndeterminateFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxIndeterminateLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChinaRailwayFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChinaRailwayLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ClapperboardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ClipboardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ClipboardLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Clockwise2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ClockwiseFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloseFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloseLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloudFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloudLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloudWindyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloudWindyLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Cloudy2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Cloudy2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloudyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloudyLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CodeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CodeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CodeSFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CodeSLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CodeSSlashFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CodeSSlashLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CodeView.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CoinFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CollageFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CollageLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Compass2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Compass3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Compass3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Compass4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Compass4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CompassDiscoverFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CompassDiscoverLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CompassFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CompassLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ComputerFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ComputerLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContactsBook2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContactsBookFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContactsBookLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContactsBookUploadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContactsBookUploadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContactsFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Contrast2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Contrast2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastDrop2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastDrop2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastDropFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastDropLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CopperCoinFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CopperCoinLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CopperDiamondFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CopperDiamondLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Coupon2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Coupon4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Coupon5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CouponFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CpuFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CpuLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CreativeCommonsByFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CreativeCommonsNdFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CreativeCommonsNdLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Crop2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Crop2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CropFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CropLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Css3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Css3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CupFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CupLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CursorFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CursorLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DashboardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DashboardLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DatabaseFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DatabaseLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBackFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBackLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin5Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin6Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin6Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin7Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBin7Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBinFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteBinLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeleteRow.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeviceFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeviceLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeviceRecoverFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DeviceRecoverLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DirectionFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DiscFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DiscLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DiscussFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DiscussLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DivideFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DivideLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorClosedFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorClosedLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorLockBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorLockBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorLockFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorLockLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorOpenFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoorOpenLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DossierFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DossierLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DoubanLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Download2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Download2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DownloadCloudFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DownloadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DownloadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DragMove2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DragMoveFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DriveFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DrizzleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DrizzleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DropFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DropLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DualSim1Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DualSim1Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DvdFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DvdLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EarthquakeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Edit2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Edit2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EditBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EditBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EditFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EditLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EjectFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EjectLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Emotion2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Emotion2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EmotionFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EmotionHappyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EmotionNormalFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EmotionUnhappyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Emphasis.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EnglishInput.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EraserFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ErrorWarningFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ErrorWarningLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ExchangeBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ExchangeBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ExchangeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ExchangeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ExternalLinkFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ExternalLinkLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Eye2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/EyeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FacebookFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FahrenheitFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FahrenheitLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FeedbackFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FeedbackLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/File2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/File2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/File3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/File3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/File4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/File4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileAddFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileAddLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileChart2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileChart2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileChartFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileChartLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileCopy2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileCopyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileCopyLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileDamageFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileDownloadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileDownloadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileExcelFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileExcelLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileHistoryFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileHistoryLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileInfoFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileInfoLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileList2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileList2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileList3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileList3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileListFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileListLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileLockFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileLockLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileMarkFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileMarkLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileMusicFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileMusicLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePaper2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePaper2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePaperFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePaperLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePdfFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePdfLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePptFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilePptLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileReduceFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileReduceLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileShredFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileShredLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileTextFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileTextLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileTransferFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileTransferLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileUploadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileUploadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileUserFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileWarningFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileWarningLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileWordFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileWordLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FileZipLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilterFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilterLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilterOffFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FireFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FirstAidKitFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Flag2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Flag2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FlagFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FlagLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FlashlightFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FlashlightLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FlutterFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FlutterLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FocusFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FocusLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FoggyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FoggyLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderAddFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderAddLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderChart2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderChart2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderChartFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderChartLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderDownloadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderDownloadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderHistoryFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderHistoryLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderInfoFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderInfoLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderKeyholeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderKeyholeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderLockFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderLockLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderMusicFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderMusicLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderOpenFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderOpenLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderReceivedFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderReceivedLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderReduceFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderReduceLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderSharedFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderSharedLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderTransferFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderTransferLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderUnknowFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderUploadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderUploadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderUserFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderUserLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderWarningFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderWarningLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderZipFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderZipLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FoldersFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FoldersLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FontColor.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FontSize.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FontSize2.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Forbid2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Forbid2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ForbidFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ForbidLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FormatClear.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FridgeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FridgeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FullscreenExitFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FullscreenExitLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FullscreenFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FullscreenLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FunctionFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FunctionLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Functions.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FundsBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GalleryUploadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GalleryUploadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GameFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GamepadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GasStationFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GenderlessFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GenderlessLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GitCommitFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GitCommitLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GitPullRequestFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GitRepositoryFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GitRepositoryPrivateFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GitRepositoryPrivateLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GitlabFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GlobeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GobletFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GobletLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GovernmentFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GovernmentLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GridFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GuideFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GuideLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/H1.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/H4.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HammerFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HammerLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HardDrive2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HardDrive2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HardDriveFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HardDriveLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Hashtag.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Heading.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HeadphoneFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HeadphoneLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HealthBookFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HealthBookLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Heart3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HeartFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HeavyShowersFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HeavyShowersLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home5Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home6Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home6Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home7Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home7Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home8Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home8Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeHeartFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeSmile2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeSmile2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeSmileFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeSmileLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeWifiFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HomeWifiLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HonourFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HonourLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HospitalFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HospitalLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HotelBedFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HotelBedLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HotelFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HotelLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HotspotFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HotspotLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Image2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InboxArchiveFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InboxArchiveLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InboxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InboxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InboxUnarchiveFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InboxUnarchiveLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/IncreaseDecreaseFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/IncreaseDecreaseLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/IndentDecrease.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/IndentIncrease.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/IndeterminateCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/IndeterminateCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InformationFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InformationLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InkBottleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InputCursorMove.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InputMethodFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InputMethodLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InstallFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InstallLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Italic.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Key2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeyLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeyboardBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeyboardBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeyboardFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeyboardLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeynoteFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeynoteLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KnifeBloodFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KnifeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LandscapeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LandscapeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout5Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout6Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout6Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutBottom2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutBottom2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutBottomFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutBottomLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutColumnFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutColumnLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutGridFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutGridLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutLeft2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutLeft2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutLeftFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutLeftLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutMasonryFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutMasonryLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRight2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRight2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRightFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRightLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRowFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRowLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutTop2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutTop2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutTopFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutTopLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LightbulbFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LightbulbFlashFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LineChartFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LineChartLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LineHeight.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LinkedinFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LinkedinLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ListCheck.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ListCheck2.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ListOrdered.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ListUnordered.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader5Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Lock2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Lock2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LockFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LockLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LockPasswordFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LockPasswordLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LockUnlockFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LockUnlockLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LoginBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LoginBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LoginCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LoginCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutBoxRFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutBoxRLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutCircleLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutCircleRFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutCircleRLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LuggageDepositFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LuggageDepositLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MacFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MacLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MacbookFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MacbookLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailAddLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailCheckLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailDownloadFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailDownloadLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailLockLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailSendFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailSendLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MailVolumeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Map2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Map2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin5Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinAddFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinAddLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinRangeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinTimeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinTimeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPinUserFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MarkdownFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MarkdownLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Medal2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MedicineBottleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu5Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu5Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuAddFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuAddLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuFoldFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuFoldLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuUnfoldFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuUnfoldLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MergeCellsHorizontal.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MergeCellsVertical.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Message2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Message2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Message3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MessageFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MessageLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MeteorFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Mic2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MicFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MickeyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MicrosoftFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MicrosoftLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MistFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MistLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyCnyBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyCnyBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyCnyCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyDollarBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyDollarBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyDollarCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyPoundBoxFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyPoundBoxLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoneyPoundCircleFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoonFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoonFoggyFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoonLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/More2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MoreFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Music2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Music2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MusicFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MusicLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MvFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MvLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NavigationFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NavigationLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NetflixLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NewspaperFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification3Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification3Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification4Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification4Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NotificationBadgeFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NotificationBadgeLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NotificationFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NotificationLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NotificationOffFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NpmjsFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NpmjsLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number1.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number2.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number3.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number4.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number5.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number6.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number7.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number9.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NumbersFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NumbersLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NurseFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/OilFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/OilLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/OpenArmFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/OrderPlayFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/OrderPlayLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Outlet2Fill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Outlet2Line.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/OutletFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/OutletLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PageSeparator.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PagesFill.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PagesLine.svg
+.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PaintBrushFill.svg
+.o…</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -3158,26 +4067,6 @@ Co-authored-by: Andrew Mason &lt;andrewmcodes@protonmail.com&gt;</div>
                                     <div class="commit">
                                         <div class="sha">#f698944</div>
                                         <div class="message">chore: use `Site#paid_new_checkout?` instead of asking flipper directly</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">podia/podia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">checkout/paid-community-plans-1</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c2483e9</div>
-                                        <div class="message">chore: flip conditional</div>
                                     </div>
                                 </div>
                             </section>
@@ -3548,7 +4437,7 @@ Co-authored-by: Andrew Mason &lt;andrewmcodes@protonmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     maintainer
-                                    <span class="gh">ranked 14.2k out of 303m repositories</span>
+                                    <span class="gh">ranked 14.2k out of 304m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 2394 stars</div>
                             </div>
@@ -3793,7 +4682,7 @@ Co-authored-by: Andrew Mason &lt;andrewmcodes@protonmail.com&gt;</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 743k out of 303m repositories</span>
+                                    <span class="gh">ranked 743k out of 304m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -4049,7 +4938,7 @@ Co-authored-by: Andrew Mason &lt;andrewmcodes@protonmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 May 2022, 23:01:32 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 3 May 2022, 00:01:06 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
