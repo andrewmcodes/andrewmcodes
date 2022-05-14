@@ -603,32 +603,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 25.463648548212046%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.463806920486242%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 7.750125167537916%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.750173369779859%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 1.9549148083304049%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.9549269670084306%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.3692862185098689%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.368797171351538%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Starlark</span>
-                                <div class="bar" style="width: 0.13857057116824073%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.13857143301395977%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.01691705357170623%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.01691715878805972%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -2679,9 +2679,9 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="321.86915887850466" height="8" fill="#2b7489"/>
-                                        <rect mask="url(#languages-bar)" x="321.86915887850466" y="0" width="43.177570093457945" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="365.04672897196264" y="0" width="39.25233644859813" height="8" fill="#563d7c"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="325.7943925233645" height="8" fill="#2b7489"/>
+                                        <rect mask="url(#languages-bar)" x="325.7943925233645" y="0" width="43.177570093457945" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="368.97196261682245" y="0" width="35.32710280373831" height="8" fill="#563d7c"/>
                                         <rect mask="url(#languages-bar)" x="404.29906542056074" y="0" width="3.9252336448598126" height="8" fill="#60b5cc"/>
                                         <rect mask="url(#languages-bar)" x="408.22429906542055" y="0" width="3.9252336448598126" height="8" fill="#3d6117"/>
                                         <rect mask="url(#languages-bar)" x="412.14953271028037" y="0" width="3.9252336448598126" height="8" fill="#c6538c"/>
@@ -2698,8 +2698,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>72.57%</div>
-                                                <div>82★</div>
+                                                <div>73.45%</div>
+                                                <div>83★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -2710,8 +2710,8 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>8.85%</div>
-                                                <div>10★</div>
+                                                <div>7.96%</div>
+                                                <div>9★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -4118,7 +4118,7 @@ _inbox/podcast_episodes/Learning in Public  Alpine &amp; Inertia.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 May 2022, 01:01:27 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 14 May 2022, 02:01:23 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
