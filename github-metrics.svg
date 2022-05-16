@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.7664574451949" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="389.7664574451949" y="0" width="43.45972046223808" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="433.22617790743294" y="0" width="11.363341080844398" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="444.58951898827735" y="0" width="9.30992407611038" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.8994430643877" y="0" width="2.6570585497845265" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="456.55650161417225" y="0" width="1.9902835984374347" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="458.5467852126097" y="0" width="1.0142063484901807" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="459.56099156109985" y="0" width="0.43900843890015423" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="389.70756254632823" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="389.70756254632823" y="0" width="43.52266096717034" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="433.2302235134986" y="0" width="11.361624045396734" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="444.5918475588953" y="0" width="9.308517318226407" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.9003648771217" y="0" width="2.6566570601448123" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="456.55702193726654" y="0" width="1.9899828605237255" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="458.54700479779024" y="0" width="1.0140530988218646" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="459.5610578966121" y="0" width="0.438942103387909" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -603,32 +603,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 25.463806920486242%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 25.463648548212046%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">32%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 7.750173369779859%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.750125167537916%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">10%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 1.9549269670084306%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.9549148083304049%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.368797171351538%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.3692862185098689%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Starlark</span>
-                                <div class="bar" style="width: 0.13857143301395977%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.13857057116824073%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.01691715878805972%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.01691705357170623%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -4124,7 +4124,7 @@ _inbox/podcast_episodes/Learning in Public  Alpine &amp; Inertia.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 May 2022, 00:03:37 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 16 May 2022, 01:01:23 (timezone America/Phoenix) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
