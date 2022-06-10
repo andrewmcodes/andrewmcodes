@@ -603,22 +603,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 41.46320586087963%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="width: 41.266226372124805%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 <span class="value">52%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 23.616726668512875%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 23.737442749057415%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">30%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.8730142745650915%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.892811052911258%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.29807910173459884%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.29960272274096006%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1719,15 +1719,15 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="105" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="105" y="0" width="52.5" height="8" fill="#f05138"/>
-                                        <rect mask="url(#languages-bar)" x="157.5" y="0" width="52.5" height="8" fill="#563d7c"/>
-                                        <rect mask="url(#languages-bar)" x="210" y="0" width="52.5" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="262.5" y="0" width="52.5" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="315" y="0" width="26.25" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="341.25" y="0" width="26.25" height="8" fill="#ff3e00"/>
-                                        <rect mask="url(#languages-bar)" x="367.5" y="0" width="26.25" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="393.75" y="0" width="26.25" height="8" fill="#a91e50"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="112" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="112" y="0" width="56" height="8" fill="#563d7c"/>
+                                        <rect mask="url(#languages-bar)" x="168" y="0" width="56" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="224" y="0" width="56" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="280" y="0" width="28" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="308" y="0" width="28" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="336" y="0" width="28" height="8" fill="#ff3e00"/>
+                                        <rect mask="url(#languages-bar)" x="363.99999999999994" y="0" width="28" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="391.99999999999994" y="0" width="28" height="8" fill="#a91e50"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1747,9 +1747,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                CSS
+                                                Ruby
                                             </div>
                                             <small>
                                                 <div>10%</div>
@@ -1759,13 +1759,13 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                Swift
                                             </div>
                                             <small>
-                                                <div>10%</div>
-                                                <div>2★</div>
+                                                <div>5%</div>
+                                                <div>1★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1797,9 +1797,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Swift
+                                                CSS
                                             </div>
                                             <small>
                                                 <div>10%</div>
@@ -1809,9 +1809,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Ruby
+                                                TypeScript
                                             </div>
                                             <small>
                                                 <div>10%</div>
@@ -3453,7 +3453,7 @@ Co-authored-by: Sebastien Auriault &lt;sebastienauriault@gmail.com&gt;</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.645790554414784 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="16.68822724161533 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4083,7 +4083,7 @@ Co-authored-by: Sebastien Auriault &lt;sebastienauriault@gmail.com&gt;</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Jun 2022, 08:01:29 (timezone America/Phoenix) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 10 Jun 2022, 09:03:15 (timezone America/Phoenix) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
