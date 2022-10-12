@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6313 Commits
+                            6314 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 2843 repositories
+                            Starred 2844 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.94m added, 1.46m removed
+                                    2.01m added, 1.46m removed
                                 </div>
                             </section>
                             <section>
@@ -420,7 +420,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 71 commits)</small>
+                    <small class="h-details">(computed from last 70 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -516,8 +516,8 @@
                             15
                         </div>
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value"></span>
+                            <div class="bar" style="height: 0px; background-color: var(--color-calendar-graph-day-L0-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -568,17 +568,17 @@
                             </div>
                             <div class="entry">
                                 <span class="value">9</span>
-                                <div class="bar" style="height: 7.894736842105263px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 8.035714285714286px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">57</span>
+                                <span class="value">56</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">5</span>
-                                <div class="bar" style="height: 4.385964912280701px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 4.464285714285714px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -603,32 +603,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 22.08087779842492%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 22.445939625085455%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">28%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 21.595257056897623%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="width: 21.95229014500054%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 <span class="value">27%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 16.37235642863463%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">20%</span>
+                                <div class="bar" style="width: 15.320404418378729%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">19%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Dockerfile</span>
-                                <div class="bar" style="width: 3.1912220157508187%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.24398229770086%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.8622245818954075%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.8764796891303566%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.13308556764888063%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.13528586334688592%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1747,7 +1747,7 @@
                                 </svg>
                                 _Inbox
                             </h2>
-                            <div class="count">45 repositories</div>
+                            <div class="count">46 repositories</div>
                             <div class="description">Repos to review.</div>
                             <div class="languages">
                                 <div class="row">
@@ -1756,20 +1756,20 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="110.52631578947368" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="110.52631578947368" y="0" width="77.36842105263158" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="187.89473684210523" y="0" width="44.21052631578947" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="232.1052631578947" y="0" width="33.1578947368421" height="8" fill="#563d7c"/>
-                                        <rect mask="url(#languages-bar)" x="265.2631578947368" y="0" width="33.1578947368421" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="298.42105263157896" y="0" width="22.105263157894736" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="320.52631578947364" y="0" width="22.105263157894736" height="8" fill="#41b883"/>
-                                        <rect mask="url(#languages-bar)" x="342.6315789473684" y="0" width="11.052631578947368" height="8" fill="#f05138"/>
-                                        <rect mask="url(#languages-bar)" x="353.6842105263157" y="0" width="11.052631578947368" height="8" fill="#ff3e00"/>
-                                        <rect mask="url(#languages-bar)" x="364.73684210526307" y="0" width="11.052631578947368" height="8" fill="#a91e50"/>
-                                        <rect mask="url(#languages-bar)" x="375.78947368421046" y="0" width="11.052631578947368" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="386.8421052631578" y="0" width="11.052631578947368" height="8" fill="#c1d026"/>
-                                        <rect mask="url(#languages-bar)" x="397.89473684210515" y="0" width="11.052631578947368" height="8" fill="#4f5d95"/>
-                                        <rect mask="url(#languages-bar)" x="408.9473684210525" y="0" width="11.052631578947368" height="8" fill="#ff5a03"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="107.69230769230768" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="107.69230769230768" y="0" width="86.15384615384615" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="193.84615384615384" y="0" width="43.07692307692307" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="236.92307692307693" y="0" width="32.30769230769231" height="8" fill="#563d7c"/>
+                                        <rect mask="url(#languages-bar)" x="269.2307692307692" y="0" width="32.30769230769231" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="301.5384615384615" y="0" width="21.538461538461537" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="323.07692307692304" y="0" width="21.538461538461537" height="8" fill="#41b883"/>
+                                        <rect mask="url(#languages-bar)" x="344.6153846153846" y="0" width="10.769230769230768" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="355.38461538461536" y="0" width="10.769230769230768" height="8" fill="#ff3e00"/>
+                                        <rect mask="url(#languages-bar)" x="366.15384615384613" y="0" width="10.769230769230768" height="8" fill="#a91e50"/>
+                                        <rect mask="url(#languages-bar)" x="376.92307692307696" y="0" width="10.769230769230768" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="387.69230769230774" y="0" width="10.769230769230768" height="8" fill="#c1d026"/>
+                                        <rect mask="url(#languages-bar)" x="398.4615384615385" y="0" width="10.769230769230768" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="409.2307692307693" y="0" width="10.769230769230768" height="8" fill="#ff5a03"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1782,7 +1782,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>22.22%</div>
+                                                <div>21.74%</div>
                                                 <div>10★</div>
                                             </small>
                                         </div>
@@ -1794,7 +1794,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>8.89%</div>
+                                                <div>8.7%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -1806,7 +1806,7 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>6.67%</div>
+                                                <div>6.52%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1818,7 +1818,7 @@
                                                 Vue
                                             </div>
                                             <small>
-                                                <div>4.44%</div>
+                                                <div>4.35%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1830,7 +1830,7 @@
                                                 Svelte
                                             </div>
                                             <small>
-                                                <div>2.22%</div>
+                                                <div>2.17%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1842,7 +1842,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>2.22%</div>
+                                                <div>2.17%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1854,7 +1854,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>2.22%</div>
+                                                <div>2.17%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1868,8 +1868,8 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>15.56%</div>
-                                                <div>7★</div>
+                                                <div>17.39%</div>
+                                                <div>8★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1880,7 +1880,7 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>6.67%</div>
+                                                <div>6.52%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1892,7 +1892,7 @@
                                                 HTML
                                             </div>
                                             <small>
-                                                <div>4.44%</div>
+                                                <div>4.35%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1904,7 +1904,7 @@
                                                 Swift
                                             </div>
                                             <small>
-                                                <div>2.22%</div>
+                                                <div>2.17%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1916,7 +1916,7 @@
                                                 EJS
                                             </div>
                                             <small>
-                                                <div>2.22%</div>
+                                                <div>2.17%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1928,7 +1928,7 @@
                                                 Twig
                                             </div>
                                             <small>
-                                                <div>2.22%</div>
+                                                <div>2.17%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1940,7 +1940,7 @@
                                                 Astro
                                             </div>
                                             <small>
-                                                <div>2.22%</div>
+                                                <div>2.17%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2463,7 +2463,7 @@
                                 </svg>
                                 Code Tools
                             </h2>
-                            <div class="count">5 repositories</div>
+                            <div class="count">6 repositories</div>
                             <div class="description">Linters, formatters, etc. Anything that modifies or creates code.</div>
                             <div class="languages">
                                 <div class="row">
@@ -2472,11 +2472,12 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="84" height="8" fill="#244776"/>
-                                        <rect mask="url(#languages-bar)" x="84" y="0" width="84" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="168" y="0" width="84" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="252.00000000000003" y="0" width="84" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="336" y="0" width="84" height="8" fill="#5e5086"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="70" height="8" fill="#244776"/>
+                                        <rect mask="url(#languages-bar)" x="70" y="0" width="70" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="140" y="0" width="70" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="210" y="0" width="70" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="280" y="0" width="70" height="8" fill="#5e5086"/>
+                                        <rect mask="url(#languages-bar)" x="349.99999999999994" y="0" width="70" height="8" fill="#f1e05a"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -2489,7 +2490,7 @@
                                                 CoffeeScript
                                             </div>
                                             <small>
-                                                <div>20%</div>
+                                                <div>16.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2501,7 +2502,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>20%</div>
+                                                <div>16.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2513,7 +2514,7 @@
                                                 Haskell
                                             </div>
                                             <small>
-                                                <div>20%</div>
+                                                <div>16.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2527,7 +2528,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>20%</div>
+                                                <div>16.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2539,7 +2540,19 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>20%</div>
+                                                <div>16.67%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                JavaScript
+                                            </div>
+                                            <small>
+                                                <div>16.67%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3113,6 +3126,19 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">darekkay/evaluatory</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
@@ -3197,19 +3223,6 @@
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">andrewmcodes/website-v6</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">Uninen/vite-ts-tailwind-starter</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -3305,7 +3318,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="190.44333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="190.54666666666668 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3324,7 +3337,7 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 2843 repositories</div>
+                                <div class="text">Starred 2844 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4079,7 +4092,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Oct 2022, 04:03:01 (timezone America/Phoenix) with lowlighter/metrics@3.28.0</span>
+                <span>Last updated 12 Oct 2022, 05:01:43 (timezone America/Phoenix) with lowlighter/metrics@3.28.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
