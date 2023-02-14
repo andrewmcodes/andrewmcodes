@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6985 Commits
+                            6987 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.79m added, 1.13m removed
+                                    5.26m added, 4.51m removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.9841519555128" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="388.9841519555128" y="0" width="40.77886009541681" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="429.7630120509296" y="0" width="12.584818022707895" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.3478300736375" y="0" width="11.055045700010472" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="453.40287577364796" y="0" width="2.1963388465879152" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="455.5992146202359" y="0" width="2.1066445770816813" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.7058591973176" y="0" width="1.603872436663503" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.3097316339811" y="0" width="0.6902683660189382" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="388.9722741490085" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="388.9722741490085" y="0" width="40.779675920297564" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="429.7519500693061" y="0" width="12.596554188209497" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.3485042575155" y="0" width="11.054623478061934" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="453.40312773557747" y="0" width="2.1962549624961967" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="455.59938269807367" y="0" width="2.106564118655516" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.7059468167292" y="0" width="1.6038111804585276" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.3097579971877" y="0" width="0.6902420028122702" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -445,7 +445,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 54 commits)</small>
+                    <small class="h-details">(computed from last 56 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -461,8 +461,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">1</span>
-                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -597,8 +597,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">3</span>
-                                <div class="bar" style="height: 6.25px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 10.416666666666668px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -628,32 +628,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">PHP</span>
-                                <div class="bar" style="width: 7.363861958414896%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.331453001420991%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 3.5904375838098614%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 3.8226186128306567%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 2.5254396646064214%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.5320029831598783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.38101697005194285%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">0%</span>
+                                <div class="bar" style="width: 0.4437910683211132%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.10172783180998474%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.10128011932639513%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.05314508546679203%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.05291118961172885%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3273,6 +3273,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#006450c</div>
+                                        <div class="message">chore: update menu</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#3a1c9ff</div>
+                                        <div class="message">chore: switch nav link to button</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#2a38932</div>
                                         <div class="message">chore: update links and speaking</div>
                                     </div>
@@ -3325,311 +3365,6 @@ _inbox/tweets/Tweets From Rauno.md</div>
                                     <div class="commit">
                                         <div class="sha">#c670b3b</div>
                                         <div class="message">feat: add tags</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#8a8773f</div>
-                                        <div class="message">chore: add scrolling to speaking</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#499a3e1</div>
-                                        <div class="message">chore(): backup vault 2023-02-13 19:19:37
-
-Affected files:
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AddLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignBottom.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignCenter.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignJustify.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignLeft.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignRight.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/AlignTop.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDownCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropDownFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropDownLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropLeftFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropLeftLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropRightFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropRightLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropUpFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowDropUpLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowGoBackFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowGoForwardFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftDownFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftDownLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftRightFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftUpFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowLeftUpLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightDownFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightDownLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightSFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightSLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightUpFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowRightUpLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpDownFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpSFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ArrowUpSLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BankCardFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartGroupedFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartGroupedLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartHorizontalFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartHorizontalLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarChartLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarcodeFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BarcodeLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BatteryLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BillFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Book2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BracketsFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BracketsLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/BuildingFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CalendarFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat1Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Chat4Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatDownloadFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ChatForwardFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxBlankCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxBlankFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxBlankLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxIndeterminateFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CheckboxIndeterminateLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Cloudy2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CloudyFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CompassFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastDropFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ContrastFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CreativeCommonsNdFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CropFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CropLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Css3Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/CursorFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DivideFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DivideLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DownloadFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DownloadLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DragMoveFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DrizzleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DropFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DropLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/DvdFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Emotion2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ErrorWarningFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FeedbackFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/File4Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter2Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Filter3Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilterFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FilterLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Flag2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FoggyFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Folder3Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FolderReduceFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FontColor.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FontSize2.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FullscreenExitFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FullscreenExitLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/FunctionFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Functions.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/GobletFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/H1.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Heading.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HeavyShowersFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Home4Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/HotelBedFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/InboxFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/IndeterminateCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Italic.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/KeyFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout4Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Layout5Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutBottom2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutBottomFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutLeft2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRight2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LayoutRightFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LineHeight.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ListCheck.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader4Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader4Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader5Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Loader5Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LoginBoxFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/LogoutCircleRFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MacbookFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin3Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin4Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MapPin5Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu2Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu3Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu4Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu4Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu5Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Menu5Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuFoldFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MenuLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MessageFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MeteorFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Music2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MusicFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/MusicLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Notification3Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NotificationFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number1.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number4.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Number7.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NumbersFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/NumbersLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Paragraph.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ParkingFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ParkingLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PatreonFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PauseCircleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PauseFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PauseLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PlayListAddFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PlayListAddLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PlayListFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PlayMiniFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PulseFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/PulseLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Pushpin2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Pushpin2Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/QrScan2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/QrScan2Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/QrScanLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/RepeatFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/RepeatLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ReplyFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/RhythmFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/RhythmLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SaveFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SensorFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SensorLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Separator.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SettingsFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ShareForwardFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ShowersFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SideBarFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SideBarLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SimCardFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SliceFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SortAsc.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SortDesc.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Space.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Spam3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SpamFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/StarSFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/StockFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/StockLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/StopFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/StopLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/StopMiniFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/StopMiniLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SubtractFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/SubtractLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TBoxFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TempColdFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TerminalLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Text.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TextSpacing.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TextWrap.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimeFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TimerFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ToggleFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TornadoFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/TornadoLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Underline.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UnsplashFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UnsplashLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Upload2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Upload2Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UploadLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User3Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User4Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/User4Line.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/UserFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VipCrownFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VoiceRecognitionFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VuejsFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/VuejsLine.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WalletFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/Window2Fill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WomenFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/WubiInput.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZzzFill.svg
-.obsidian/plugins/obsidian-icon-folder/icons/remix-icons/ZzzLine.svg
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-Should We Talk About It.md
-_Dashboard.md
-_inbox/Readwise Syncs.md
-_inbox/tweets/Tweets From Andrew Kane.md
-_inbox/tweets/Tweets From Andrew Mason.md
-_inbox/tweets/Tweets From Flavio.md
-_inbox/tweets/Tweets From Marian Posăceanu.md
-_inbox/tweets/Tweets From Steven Tey Is Still in Miami.md
-brain/definitions/externalization.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -3839,7 +3574,7 @@ brain/definitions/externalization.md</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.036666666666665 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.243333333333336 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3861,7 +3596,7 @@ brain/definitions/externalization.md</div>
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1281 times</div>
+                                <div class="text">Repositories have been deployed 1283 times</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -4500,7 +4235,7 @@ brain/definitions/externalization.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2023, 00:01:37 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 14 Feb 2023, 01:01:22 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
