@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6151" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6185" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.autosize{width:auto;height:auto}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}.chartist .ct-post{fill:rgba(127,127,127,.8)!important;color:rgba(127,127,127,.8)!important;font-size:9px;text-anchor:middle}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.autosize{width:auto;height:auto}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7119 Commits
+                            7121 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 3001 repositories
+                            Starred 3002 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.26m added, 3.97m removed
+                                    4.35m added, 3.99m removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.3762118428161" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.3762118428161" y="0" width="39.989655094591704" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="425.36586693740776" y="0" width="15.870633108942217" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="441.23650004635005" y="0" width="12.426172477732147" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.66267252408215" y="0" width="2.108186956943569" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="455.7708594810257" y="0" width="2.022092641679153" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.7929521227049" y="0" width="1.5394996800371676" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.33245180274207" y="0" width="0.6675481972579752" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.43852072648986" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.43852072648986" y="0" width="39.99594303184305" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="425.4344637583329" y="0" width="15.799085932230213" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="441.2335496905631" y="0" width="12.428126357870134" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.66167604843326" y="0" width="2.1085184463567184" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="455.77019449478996" y="0" width="2.0224105936999246" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.79260508848984" y="0" width="1.5397417495764933" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.33234683806637" y="0" width="0.6676531619336313" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -445,7 +445,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 110 commits)</small>
+                    <small class="h-details">(computed from last 112 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -461,8 +461,8 @@
                     <h3>Commit activity per hour of day</h3>
                     <div class="chart-bars">
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             00
                         </div>
                         <div class="entry">
@@ -607,8 +607,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 6.081081081081082px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11</span>
+                                <div class="bar" style="height: 7.4324324324324325px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -628,27 +628,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 21.122322581206966%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">26%</span>
+                                <div class="bar" style="width: 14.257778176216338%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">18%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 13.979549407751371%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">17%</span>
+                                <div class="bar" style="width: 4.232946811308653%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 13.073227227109552%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 3.9585163935128636%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 5.146913797945362%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 2.0251108578389525%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.21264784445881255%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.06438884322226346%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3311,6 +3311,879 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#a31463f</div>
+                                        <div class="message">chore(): backup vault 2023-03-02 00:38:40
+
+Affected files:
+.obsidian/community-plugins.json
+.obsidian/plugins/auto-glossary/main.js
+.obsidian/plugins/auto-glossary/manifest.json
+.obsidian/plugins/auto-glossary/styles.css
+.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/plugins/obsidian-wikipedia/main.js
+.obsidian/plugins/obsidian-wikipedia/manifest.json
+.obsidian/plugins/obsidian-wikipedia/styles.css
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+Active segment bug.md
+docs/app.obsidian.plugins.obsidian-auto-glossary.md
+notes/Jasons Sinful Talk.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">ennioitaliano/obsidian-auto-glossary</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#2ec8ade</div>
+                                        <div class="message">chore(): backup vault 2023-03-02 00:02:23
+
+Affected files:
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins-migration.json
+.obsidian/core-plugins.json
+.obsidian/hotkeys.json
+.obsidian/plugins/cm-show-whitespace-obsidian/data.json
+.obsidian/plugins/cm-show-whitespace-obsidian/main.js
+.obsidian/plugins/cm-show-whitespace-obsidian/manifest.json
+.obsidian/plugins/cm-show-whitespace-obsidian/styles.css
+.obsidian/plugins/code-block-copy/main.js
+.obsidian/plugins/code-block-copy/manifest.json
+.obsidian/plugins/code-block-copy/styles.css
+.obsidian/plugins/obsidian-account-linker/data.json
+.obsidian/plugins/obsidian-icon-folder/data.json
+.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/plugins/obsidian-old-note-admonitor/data.json
+.obsidian/plugins/obsidian-outliner/data.json
+.obsidian/plugins/obsidian-outliner/main.js
+.obsidian/plugins/obsidian-outliner/manifest.json
+.obsidian/plugins/obsidian-outliner/styles.css
+.obsidian/plugins/quickadd/main.js
+.obsidian/plugins/quickadd/manifest.json
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+Add Badges to your README.md
+Backlinks in Bridgetown.md
+Communicating Repository Status.md
+Jason Charnes.md
+Writing Better Blog Titles.md
+Zettelkasten.md
+_assets/templates/seedling_template.md
+_inbox/articles/  WoR Newsletter - Some Rails Releases, How to Spot Toxic Companies, Creating Art With Code....md
+_inbox/articles/10 Exciting Use-Cases of the New Craft AI Assistant.md
+_inbox/articles/12 Stories of Kindness and Generosity That Will Change the Way You Live.md
+_inbox/articles/2021-05-29 Tricks for Mobile, Quick Capture, &amp; Outliner Interoperability.md
+_inbox/articles/A Brief History &amp; Ethos of the Digital Garden.md
+_inbox/articles/A Sneak Peek of Ruby's New Debugger!.md
+_inbox/articles/About Custom Actions - GitHub Docs.md
+_inbox/articles/Accessible Icon Links.md
+_inbox/articles/Adding a Table of Contents That Updates on Scroll  Nicky Blogs.md
+_inbox/articles/Aleksandr Hovhannisyan.md
+_inbox/articles/Alfred Gallery Now in Early Access!.md
+_inbox/articles/An Introduction to Callback URLs in Obsidian – The Sweet Setup.md
+_inbox/articles/Apple Launches Freeform A Powerful New App Designed for Creative Brainstorming and Collaboration-2.md
+_inbox/articles/Asdf-VmAsdf-Nodejs Node.js Plugin for Asdf Version Manager.md
+_inbox/articles/Automation With Templater for Obsidian.md
+_inbox/articles/Blog About What You've Struggled With.md
+_inbox/articles/Bridgetown 1.2 “Bonny Slope” Takes Your Applications to the Next Level.md
+_inbox/articles/Building a Second Brain An Overview - Forte Labs.md
+_inbox/articles/Changelog #0012 — 💎 Streamlined Library, Smarter Request Duplication, and More – HTTPie Blog.md
+_inbox/articles/Club Premier App Debuts.md
+_inbox/articles/Club Premier Weekly.md
+_inbox/articles/Concepts vs. Topics What’s the Difference  Mr. Hutton's English Site.md
+_inbox/articles/Customizing Git  Online Video Tutorial by Thoughtbot.md
+_inbox/articles/Data Annotation - Dataview.md
+_inbox/articles/Debugging Ruby on Rails Server in VS Code.md
+_inbox/articles/Dependency on mimemagic 0.3.x no longer valid · Issue #41750 · railsrails · GitHub.md
+_inbox/articles/Digging Into the Rails Source.md
+_inbox/articles/Digital Gardens - Rosie Campbell.md
+_inbox/articles/Digital Gardens Let You Cultivate Your Own Little Bit of the Internet  MIT Technology Review.md
+_inbox/articles/Discord - A New Way to Chat With Friends &amp; Communities.md
+_inbox/articles/Dom Habersack · Content Creator &amp; IndieHacker · Dom Habersack.md
+_inbox/articles/Drag and Drop File Uploads With Dropzone and StimulusReflex.md
+_inbox/articles/Eagerworks  Blog.md
+_inbox/articles/Effect of the Last Week on Ruby on Rails - rubyonrails-core - Ruby on Rails Discussions.md
+_inbox/articles/Emojis and Special Characters in Google SERPs - What Still Works Today - SISTRIX.md
+_inbox/articles/Get Started With Obsidian as a Developer.md
+_inbox/articles/Gh Api.md
+_inbox/articles/Gist Snip — Make Your Gists Actually Useful. 🚀.md
+_inbox/articles/GitHub Actions Improvements for Fork and Pull Request Workflows.md
+_inbox/articles/Goodbye Squarespace. Hello Eleventy, Tailwind CSS and Netlify!.md
+_inbox/articles/Greg Morris - My Obsidian Set Up.md
+_inbox/articles/Having Recently Been Through the Technical Interview Process Myself, I....md
+_inbox/articles/Hotkey Triggers - Alfred Help and Support.md
+_inbox/articles/Housekeeping the Webpacker Packs Folder — _ChristineOo — Bloggie.md
+_inbox/articles/How Daily Notes Changed Everything for Me.md
+_inbox/articles/How I Setup My Macbook for Development.md
+_inbox/articles/How I Take Smart Digital Notes—Part 1 A Map for the Journey.md
+_inbox/articles/How I Take Smart Digital Notes—Part 5 Organizing for Output  Ramses' Blog.md
+_inbox/articles/How I Use Obsidian to Manage My Goals, Tasks, Notes and Software Development Knowledge Base.md
+_inbox/articles/How I View My Latest Readwise Highlights in My Obsidian Daily Note.md
+_inbox/articles/How Much Do You Save With Ruby 2.7 Memory Compaction.md
+_inbox/articles/How to Create and Launch Your Community.md
+_inbox/articles/How to Get Started With Obsidian Dataview and Dataviewjs.md
+_inbox/articles/How to Save Terminal Output to a File for Future Reference.md
+_inbox/articles/How to Turn Your Notes Into a Database With Obsidian and Dataview.md
+_inbox/articles/How to Use Alpine.js With Rails and Turbo.md
+_inbox/articles/How to Use Simplecov in Queue Mode - Knapsack Pro Frequently Asked Questions.md
+_inbox/articles/Instant Test Feedback With Vscode.md
+_inbox/articles/Issue 4 Web Typography.md
+_inbox/articles/Jake Jarvis – Front-End Web Developer in Boston, MA.md
+_inbox/articles/Jamie Brynes - Software Engineer.md
+_inbox/articles/Jared Palmer.md
+_inbox/articles/Joining Standup Video Call Automatically  Adam Garrett-Harris.md
+_inbox/articles/Learn - Bullet Journal.md
+_inbox/articles/Limit the Input for a Shortcut When Run From Another App on Mac.md
+_inbox/articles/MacStories Weekly Issue 279.md
+_inbox/articles/MacStories Weekly Issue 282.md
+_inbox/articles/MacStories Weekly Issue 284.md
+_inbox/articles/MacStories Weekly Issue 316.md
+_inbox/articles/Macros or Partials When to Use Both for Keeping Craft CMS Templates Clean..md
+_inbox/articles/Manton Reece - The Web Is the Social Network.md
+_inbox/articles/Markdown Open Link in New Tab.md
+_inbox/articles/Maybe It’s Time We Re-Think Docs.md
+_inbox/articles/Monthly Log March 2022.md
+_inbox/articles/My 8 Favorite VS Code Shortcut #1.md
+_inbox/articles/My Alfred Setup.md
+_inbox/articles/My Obsidian Setup, Part 1 Sync, Core Plugins, Workspaces, and Other Settings.md
+_inbox/articles/My Obsidian Setup, Part 9 Saving Articles and Music Albums for Later With Shortcuts and Dataview.md
+_inbox/articles/My Reading Workflow and IFTTT Applets.md
+_inbox/articles/Ngrok - Online in One Line.md
+_inbox/articles/Obsidian - HackMD.md
+_inbox/articles/Obsidian Release V0.12.12.md
+_inbox/articles/Obsidian Release V0.12.6.md
+_inbox/articles/Obsidian Release V0.14.3.md
+_inbox/articles/Obsidian to Notion Sync — manual Import Export.md
+_inbox/articles/Office in Memory.md
+_inbox/articles/Omar Alsoudani.md
+_inbox/articles/On Digital Gardening, Blogs, and Knowledge.md
+_inbox/articles/Pinterest Introduces Ways for Users to Make Money Off Its Platform.md
+_inbox/articles/Progressive Summarization A Practical Technique for Designing Discoverable Notes - Forte Labs.md
+_inbox/articles/Rails 6.1 Adds Compact_blank.md
+_inbox/articles/Rails 7 Adds `Enumerable#sole` to Return a Sole Item in the Enumerable  Saeloun Blog.md
+_inbox/articles/Reader Frequently Asked Questions.md
+_inbox/articles/Ruby 3.0 Changes How Methods of Subclassed Core Classes Work..md
+_inbox/articles/Ruby 3.2.0 RC 1 Released.md
+_inbox/articles/Ruby Sinatra Tutorial.md
+_inbox/articles/Security Hardening for GitHub Actions - GitHub Docs.md
+_inbox/articles/Starting a TypeScript Project in 2021.md
+_inbox/articles/Storybook Setup HTML + JS.md
+_inbox/articles/Tailwind CSS From an iOS Developer’s Perspective.md
+_inbox/articles/Tailwind Vertical Slider With Scroll Snap Tutorial [2022].md
+_inbox/articles/Take Quick Notes in Obsidian From iPhone.md
+_inbox/articles/The Best Note Taking Apps for Mac - Markdown, Open Format, Cross Platform.md
+_inbox/articles/The Brain Maps Out Ideas and Memories Like Spaces  Quanta Magazine.md
+_inbox/articles/The Dent - What's in My Dock.md
+_inbox/articles/The Difference Between a Product and a Service – As Told With Hammers..md
+_inbox/articles/The Digital Brain - O9 Solutions.md
+_inbox/articles/The Macintosh Desktop Experience Raycast's Modern Take on Launcher Apps.md
+_inbox/articles/The New ProtonMail Has Passed Its Independent Security Audit.md
+_inbox/articles/The Potential Side Effects of Progressive Summarization.md
+_inbox/articles/The Story Behind How We Built Savee..md
+_inbox/articles/The Whimsical Web.md
+_inbox/articles/The tools I use to manage my knowledge (2021)  Bruno Paz.md
+_inbox/articles/Thomas Schoffelen.md
+_inbox/articles/Three Weeks With iOS and iPadOS 15 Foundational Updates.md
+_inbox/articles/Tips and Tricks for Temporal Developer Productivity  Temporal Documentation.md
+_inbox/articles/Twitter Launches Twitter Shopping Pilot Project in the US.md
+_inbox/articles/UI &amp; UX Micro-Tips 8.md
+_inbox/articles/UI Cheat Sheet Spacing Friendships.md
+_inbox/articles/Use the Run JavaScript on Webpage Action in Shortcuts on Mac.md
+_inbox/articles/Useful Front-End Boilerplates and Starter Kits.md
+_inbox/articles/Uses – Adam Wathan.md
+_inbox/articles/Using Dictionaries in Shortcuts on iPhone or iPad.md
+_inbox/articles/Using Obsidian URI - Obsidian Help.md
+_inbox/articles/Visual Studio Code April 2021.md
+_inbox/articles/Visual Studio Code July 2022.md
+_inbox/articles/Visual Studio Code June 2022.md
+_inbox/articles/Webpack’s Hot Module Replacement Feature Explained  by Nathan Sebhastian  Mar, 2021  Bits and Pieces.md
+_inbox/articles/Welcome in My Mind 🧠 - My Second-Brain.md
+_inbox/articles/Welcome in My Mind 🧠.md
+_inbox/articles/Why Side Projects Are Hard.md
+_inbox/articles/Writing an API Gem How to Write Tests for an External API.md
+_inbox/articles/YJIT Benchmarks.md
+_inbox/articles/YouTube Links.md
+_inbox/articles/build.yml - GitHub Code Search.md
+_inbox/articles/‘A Constant Itchiness Inside Your Body’ — Growing Up With Undiagnosed ADHD.md
+_inbox/articles/🌱 My Blog Is a Digital Garden, Not a Blog.md
+_inbox/articles/🕸 a Designer's Guide to Networked Notemaking With Obsidian - 🌳 Ehsan's Notes.md
+_inbox/books/Quick Passages.md
+_inbox/books/Reddit.md
+_inbox/notes/Badges.md
+_inbox/notes/K8s - kubernetes.md
+_inbox/podcast_episodes/#298 Dr. Gabor Mate - New Paradigms, Ayahuasca, and Redefining Addiction.md
+_inbox/podcast_episodes/087 - The Shopify Upgrow Rorschach Test With Matt Swanson.md
+_inbox/podcast_episodes/10  Design Fundamentals.md
+_inbox/podcast_episodes/20  Learning and Building in Public.md
+_inbox/podcast_episodes/233 – Building an Apple-Only Research and Writing Setup.md
+_inbox/podcast_episodes/372 The Railsconf 2021 Story With Marty Haught and Evan Phoenix.md
+_inbox/podcast_episodes/670 Workflows With Francesco d'Alessio.md
+_inbox/podcast_episodes/Amy Gives James a Design Consult.md
+_inbox/podcast_episodes/Can Paid Content Curation Give Influencers New Revenue.md
+_inbox/podcast_episodes/Episode 372 The Debut of the Ruby on Rails Podcast.md
+_inbox/podcast_episodes/Episode 417 Treading Water &amp; Panel Planning.md
+_inbox/podcast_episodes/Episode 419 Rails Hiring Is Still Hot.md
+_inbox/podcast_episodes/Episode 6 - Kevin Murphy.md
+_inbox/podcast_episodes/Hasty Treat - VSCode Extensions and Tips.md
+_inbox/podcast_episodes/Heroku Incident, SIM Swapping, and Security Tools.md
+_inbox/podcast_episodes/I Believe in the Rails Magic With Brittany &amp; Nick.md
+_inbox/podcast_episodes/Jason and Andrew Answer the Twitters.md
+_inbox/podcast_episodes/Learning in Public  Alpine &amp; Inertia.md
+_inbox/podcast_episodes/Obsidian In-Depth Third-Party Plugins.md
+_inbox/podcast_episodes/The FTC Had a Monopoly Lawsuit Against Google in Its Sights, and It Blinked.md
+_inbox/podcast_episodes/What Is Bridgetown.md
+_inbox/tweets/1. A Long Rant About Rub....md
+_inbox/tweets/A Funny Lie of Adult Lif....md
+_inbox/tweets/A Really Cool Visual Tec....md
+_inbox/tweets/Building a Second Brain....md
+_inbox/tweets/Design Is Hard.◙Here Ar....md
+_inbox/tweets/Do You Use Obsidian And....md
+_inbox/tweets/Having Recently Been Thr....md
+_inbox/tweets/Low Interest Rates and A....md
+_inbox/tweets/Sr Rails Devs Describe R....md
+_inbox/tweets/Tweets From Aaron Miler.md
+_inbox/tweets/Tweets From Adrian Marin 🥑 avohq.io.md
+_inbox/tweets/Tweets From Andrea Fomera.md
+_inbox/tweets/Tweets From Andrea Rocca 👨‍🍳.md
+_inbox/tweets/Tweets From Andrew Atkinson.md
+_inbox/tweets/Tweets From Andrew Kane.md
+_inbox/tweets/Tweets From Andrew Mason.md
+_inbox/tweets/Tweets From Anthony Baker.md
+_inbox/tweets/Tweets From Anthony Fu.md
+_inbox/tweets/Tweets From Arjun.md
+_inbox/tweets/Tweets From Benjaminwood.md
+_inbox/tweets/Tweets From Brad Gessler.md
+_inbox/tweets/Tweets From Brian Sunter.md
+_inbox/tweets/Tweets From Cassidy.md
+_inbox/tweets/Tweets From Cezar Halmagean.md
+_inbox/tweets/Tweets From Cheng Lou.md
+_inbox/tweets/Tweets From Dani Donovan 👩🏻‍🎨 ADHD Comics.md
+_inbox/tweets/Tweets From Dorian.md
+_inbox/tweets/Tweets From Drew Bragg.md
+_inbox/tweets/Tweets From Dwayne Macgowan.md
+_inbox/tweets/Tweets From Elijah Manor.md
+_inbox/tweets/Tweets From Emil Kowalski.md
+_inbox/tweets/Tweets From Evil Martians.md
+_inbox/tweets/Tweets From Fer Del Mal.md
+_inbox/tweets/Tweets From Flavio.md
+_inbox/tweets/Tweets From Haz.md
+_inbox/tweets/Tweets From Ivo Anjo.md
+_inbox/tweets/Tweets From Jamie Lawrence.md
+_inbox/tweets/Tweets From Jason Long.md
+_inbox/tweets/Tweets From Javan Makhmali.md
+_inbox/tweets/Tweets From John Voorhees.md
+_inbox/tweets/Tweets From John Woodell.md
+_inbox/tweets/Tweets From JohnRJohnson.md
+_inbox/tweets/Tweets From Julian Rubisch.md
+_inbox/tweets/Tweets From Karri Saarinen.md
+_inbox/tweets/Tweets From Lewis Youl.md
+_inbox/tweets/Tweets From Lincoln Stoll.md
+_inbox/tweets/Tweets From Marcel Pociot 🧙‍♂️.md
+_inbox/tweets/Tweets From Marian Posăceanu.md
+_inbox/tweets/Tweets From Mark McElroy.md
+_inbox/tweets/Tweets From Max Böck.md
+_inbox/tweets/Tweets From Md Daud.md
+_inbox/tweets/Tweets From Michael Dyrynda.md
+_inbox/tweets/Tweets From Miriam Isaac.md
+_inbox/tweets/Tweets From Monarch Wadia.md
+_inbox/tweets/Tweets From Monica D.T. Rysavy, Ph.D., Ed.D..md
+_inbox/tweets/Tweets From NFL Memes.md
+_inbox/tweets/Tweets From OldTownEast.md
+_inbox/tweets/Tweets From Pavol Rusnak.md
+_inbox/tweets/Tweets From PlanetScale.md
+_inbox/tweets/Tweets From Postmodern.md
+_inbox/tweets/Tweets From RUBYLAND.md
+_inbox/tweets/Tweets From Rijnard Van Tonder.md
+_inbox/tweets/Tweets From Schneems (💉x3) &amp;&amp; 🇺🇦.md
+_inbox/tweets/Tweets From Secure ShellFish.md
+_inbox/tweets/Tweets From Spxce 🏈(4-8)☀️.md
+_inbox/tweets/Tweets From Stanislav (Stas) Katkov.md
+_inbox/tweets/Tweets From Steven Tey Is Still in Miami.md
+_inbox/tweets/Tweets From Tailwind CSS.md
+_inbox/tweets/Tweets From Ted ⠕.md
+_inbox/tweets/Tweets From Tony Messias.md
+_inbox/tweets/Tweets From VimTricks.md
+_inbox/tweets/Tweets From 💙 Peter Solnica 💛.md
+_inbox/tweets/Tweets from Daniel Schimpke🚢 🐦 130365.md
+_inbox/tweets/Tweets from Joe Previte.md
+_inbox/tweets/Tweets from matt swanson 😈.md
+_inbox/tweets/🎩
+A Few People Have Ask....md
+_inbox/videos/5_features_of_inoreader_and_how_it_compares_to_feedly.md
+_inbox/videos/breadcrumbs_everything_you_need_to_know.md
+_inbox/videos/customizing_the_keychron_q1_with_qmk_configurator_and_toolbox.md
+_inbox/videos/how_to_use_quickadd_for_obsidian_with_examples.md
+_inbox/videos/maximising_your_mac_productivity_alfred_️.md
+_inbox/videos/obsidian_mobile_customizable_page_header.md
+_inbox/videos/the_ultimate_guide_to_creating_and_selling_online_courses.md
+_inbox/videos/top_obsidian_plugins_for_productivity_visualization.md
+_inbox/videos/what_is_linked_data.md
+_inbox/videos/️_my_2021_comprehensive_obsidian_zettelkasten_workflow_️_copious_timestamps_️.md
+_inbox/web/.md.txt
+_readwise/Readwise Syncs.md
+_readwise/_inbox/rw-inbox-config.md
+_readwise/_inbox/rw-inbox-log-processed.md
+_readwise/_inbox/rw-inbox-view/view.css
+_readwise/_inbox/rw-inbox-view/view.js
+_readwise/_inbox/rw-inbox-viewer.md
+_readwise/articles/  WoR Newsletter - Some Rails Releases, How to Spot Toxic Companies, Creating Art With Code....md
+_readwise/articles/12 Stories of Kindness and Generosity That Will Change the Way You Live.md
+_readwise/articles/3nm iPhones and Macs Expected to Arrive in 2022.md
+_readwise/articles/A Beginner’s Guide to the Zettelkasten Method.md
+_readwise/articles/A Brief History &amp; Ethos of the Digital Garden.md
+_readwise/articles/A Sneak Peek of Ruby's New Debugger!.md
+_readwise/articles/A Walkthrough of My Obsidian Setup.md
+_readwise/articles/API Limitations in Shortcuts on iPhone or iPad.md
+_readwise/articles/About Service Containers - GitHub Docs.md
+_readwise/articles/Accessible Icon Links.md
+_readwise/articles/Adding a Table of Contents That Updates on Scroll  Nicky Blogs.md
+_readwise/articles/Advanced Privacy and Security Settings in Shortcuts on iPhone or iPad.md
+_readwise/articles/Advanced Terminal Usage in Visual Studio Code.md
+_readwise/articles/An Introduction to Callback URLs in Obsidian – The Sweet Setup.md
+_readwise/articles/Analyzing iMessage With SQL.md
+_readwise/articles/Apple Launches Freeform A Powerful New App Designed for Creative Brainstorming and Collaboration-2.md
+_readwise/articles/Apple Launches Freeform A Powerful New App Designed for Creative Brainstorming and Collaboration.md
+_readwise/articles/Atomic Design.md
+_readwise/articles/Automation Academy Diving Deeper Into Shortcuts' Files Actions for iOS and iPadOS 15.md
+_readwise/articles/Automation Academy Tips for Optimizing Your Shortcuts for macOS Monterey.md
+_readwise/articles/Basecamp's new etiquette regarding societal politics at work.md
+_readwise/articles/Blog About What You've Struggled With.md
+_readwise/articles/Building a Color Scheme.md
+_readwise/articles/Building a Second Brain An Overview - Forte Labs.md
+_readwise/articles/Bundled Notes  Welcome to Bundled Notes 1.0!.md
+_readwise/articles/Buttons Showcase - Share &amp; Showcase - Obsidian Forum-2.md
+_readwise/articles/Buttons Showcase - Share &amp; Showcase - Obsidian Forum.md
+_readwise/articles/CICD Tips Improve Your CICD With Cache.md
+_readwise/articles/CNAME Record What is CNAME Explanation + Example - IONOS.md
+_readwise/articles/Code Reviews 101 - The Basics.md
+_readwise/articles/Concepts vs. Topics What’s the Difference  Mr. Hutton's English Site.md
+_readwise/articles/Conventional Commits.md
+_readwise/articles/Creating GitHub CLI Extensions - GitHub Docs.md
+_readwise/articles/Creating WebP Images With the Command Line.md
+_readwise/articles/Customizing Git  Online Video Tutorial by Thoughtbot.md
+_readwise/articles/Data Annotation - Dataview.md
+_readwise/articles/Debugging Ruby on Rails Server in VS Code.md
+_readwise/articles/Declutter Your Inbox. Subscribe to Email Newsletters Straight Into Inoreader  Inoreader blog.md
+_readwise/articles/Delba De Oliveira.md
+_readwise/articles/Dependency on mimemagic 0.3.x no longer valid · Issue #41750 · railsrails · GitHub.md
+_readwise/articles/Deploying Rails to AWS Lambda.md
+_readwise/articles/Digging Into the Rails Source.md
+_readwise/articles/Digital Gardens - Rosie Campbell.md
+_readwise/articles/Digital Gardens Let You Cultivate Your Own Little Bit of the Internet  MIT Technology Review.md
+_readwise/articles/Don’t Hang Me Out to DRY.md
+_readwise/articles/Drag and Drop File Uploads With Dropzone and StimulusReflex.md
+_readwise/articles/Effect of the Last Week on Ruby on Rails - rubyonrails-core - Ruby on Rails Discussions.md
+_readwise/articles/Emojis and Special Characters in Google SERPs - What Still Works Today - SISTRIX.md
+_readwise/articles/Encapsulating Ruby on Rails views • Open Source Friday.md
+_readwise/articles/Evergreen Notes  Evergreen Notes Should Be Atomic.md
+_readwise/articles/Evergreen Notes  Evergreen Notes Should Be Concept-Oriented.md
+_readwise/articles/Evergreen Notes.md
+_readwise/articles/From Idea to Product and Beyond.md
+_readwise/articles/General.md
+_readwise/articles/Get Started With Obsidian as a Developer.md
+_readwise/articles/Gh Api.md
+_readwise/articles/Goodbye Squarespace. Hello Eleventy, Tailwind CSS and Netlify!.md
+_readwise/articles/Greg Morris - My Obsidian Set Up.md
+_readwise/articles/Hanami  Announcing Hanami V2.0.0.alpha2.md
+_readwise/articles/Handling Ajax Redirects in Rails.md
+_readwise/articles/Healthy Goals Are Difficult to Measure.md
+_readwise/articles/Hotkey Triggers - Alfred Help and Support.md
+_readwise/articles/How Are Readability, Pocket, Instapaper, and LINER Different.md
+_readwise/articles/How Can I Use GitHub Actions With Vercel.md
+_readwise/articles/How Daily Notes Changed Everything for Me.md
+_readwise/articles/How I Built My Blog.md
+_readwise/articles/How I Import My Meetings Into My Obsidian Daily Note.md
+_readwise/articles/How I Setup My Macbook for Development.md
+_readwise/articles/How I Take Smart Digital Notes—Part 1 A Map for the Journey  Ramses' Blog.md
+_readwise/articles/How I Take Smart Digital Notes—Part 1 A Map for the Journey.md
+_readwise/articles/How I Take Smart Digital Notes—Part 2 Highlights and Reading Notes  Ramses' Blog.md
+_readwise/articles/How I Take Smart Digital Notes—Part 3 Videos and Podcasts  Ramses' Blog.md
+_readwise/articles/How I Take Smart Digital Notes—Part 4 Organizing Input  Ramses' Blog.md
+_readwise/articles/How I Take Smart Digital Notes—Part 5 Organizing for Output  Ramses' Blog.md
+_readwise/articles/How I Use Obsidian to Manage My Goals, Tasks, Notes, and Software Development Knowledge Base.md
+_readwise/articles/How I View My Latest Readwise Highlights in My Obsidian Daily Note.md
+_readwise/articles/How Much Do You Save With Ruby 2.7 Memory Compaction.md
+_readwise/articles/How To Change Post URL of Already Published Post Without Losing Traffic.md
+_readwise/articles/How do you combine notes with a bookmark service  Capiche.md
+_readwise/articles/How to Clean Up Old Rails Migration Files.md
+_readwise/articles/How to Create and Launch Your Community.md
+_readwise/articles/How to Disable Accented Characters When Holding Down a Key on macOS.md
+_readwise/articles/How to Favicon in 2021 Six files that fit most needs — Martian Chronicles, Evil Martians’ team blog.md
+_readwise/articles/How to Get Started With Obsidian Dataview and Dataviewjs.md
+_readwise/articles/How to Save Terminal Output to a File for Future Reference.md
+_readwise/articles/How to Start Using Reusable Workflows With GitHub Actions  the GitHub Blog.md
+_readwise/articles/How to Subscribe.md
+_readwise/articles/How to Tag Your Highlights While You Read With Inline Tagging in Readwise.md
+_readwise/articles/How to Take Smart Notes in Obsidian - The Knowledge Worker.md
+_readwise/articles/How to Use Alpine.js With Rails and Turbo.md
+_readwise/articles/How to Use Simplecov in Queue Mode - Knapsack Pro Frequently Asked Questions.md
+_readwise/articles/How to Use the New Composite GitHub Actions for Reusability - Manzoor Wani.md
+_readwise/articles/Human Versus Bald Eagle Size Comparison.md
+_readwise/articles/Humanity Wastes About 500 Years Per Day on CAPTCHAs. It’s Time to End This Madness.md
+_readwise/articles/I'm Still in Love With the Arc Browser.md
+_readwise/articles/IaaS vs. PaaS vs. SaaS Here's What You Need to Know About Each.md
+_readwise/articles/Image &amp; Video (Imagemagick, Ffmpeg, Webp...) Commands.md
+_readwise/articles/Inessential Proxyman.md
+_readwise/articles/Instant Test Feedback With Vscode.md
+_readwise/articles/Intro to URL Schemes in Shortcuts on Mac.md
+_readwise/articles/Intro to Variables in Shortcuts on iPhone or iPad.md
+_readwise/articles/Introducing GitHub Copilot Your AI Pair Programmer.md
+_readwise/articles/Issue 4 Web Typography.md
+_readwise/articles/Jamie Brynes - Software Engineer.md
+_readwise/articles/Joys of a Text-Based Reading List.md
+_readwise/articles/Layout Compositions - Tailwind CSS.md
+_readwise/articles/Learn - Bullet Journal.md
+_readwise/articles/Let a Website Be a Worry Stone. — ethanmarcotte.com.md
+_readwise/articles/Linked Data - Wikipedia.md
+_readwise/articles/Linked Data Evolving the Web Into a Global Data Space.md
+_readwise/articles/Linking IFTTT &amp; Processing With Webhooks.md
+_readwise/articles/Links to Cross-Origin Destinations Are Unsafe.md
+_readwise/articles/MacStories Weekly Issue 279.md
+_readwise/articles/MacStories Weekly Issue 281.md
+_readwise/articles/MacStories Weekly Issue 282.md
+_readwise/articles/MacStories Weekly Issue 284.md
+_readwise/articles/Macros or Partials When to Use Both for Keeping Craft CMS Templates Clean..md
+_readwise/articles/Markdown Open Link in New Tab.md
+_readwise/articles/Maybe It’s Time We Re-Think Docs.md
+_readwise/articles/Meeting Notes for Group Meetings  Productived.net.md
+_readwise/articles/Mixed Content - Web Security  MDN.md
+_readwise/articles/Most People Take Only Transient Notes.md
+_readwise/articles/Multi-root Workspaces in Visual Studio Code.md
+_readwise/articles/My 8 Favorite VS Code Shortcut #1.md
+_readwise/articles/My Obsidian Setup, Part 1 Sync, Core Plugins, Workspaces, and Other Settings.md
+_readwise/articles/My Obsidian Setup, Part 5 Appending Text and Webpage Links to Specific Sections of My 'Dashboard' Note.md
+_readwise/articles/My Obsidian Setup, Part 9 Saving Articles and Music Albums for Later With Shortcuts and Dataview.md
+_readwise/articles/My Reading Workflow and IFTTT Applets.md
+_readwise/articles/My Three Strikes Rule for Blogging.md
+_readwise/articles/My Vision Project Meta.md
+_readwise/articles/Ngrok - Online in One Line.md
+_readwise/articles/No Constraints, No Fun.md
+_readwise/articles/Nodejs Will Now Be Installed for Ruby Applications That Have a `package.json` File  Heroku Dev Center.md
+_readwise/articles/Nodejs Will Now Be Installed for Ruby Applications That Have a `package.json` File.md
+_readwise/articles/Note-Taking - Wikipedia.md
+_readwise/articles/Obsidian Dataview - Fork My Brain.md
+_readwise/articles/Obsidian Release V0.12.12.md
+_readwise/articles/Obsidian Release V0.12.6.md
+_readwise/articles/Obsidian Release V0.14.3.md
+_readwise/articles/Obsidian Workflow Personal Knowledge Management Using Dataview Plugin.md
+_readwise/articles/Obsidian for Tasks and Reminders My Magic Book.md
+_readwise/articles/Obsidian to Notion Sync — manual Import Export.md
+_readwise/articles/Office in Memory.md
+_readwise/articles/Oliur.md
+_readwise/articles/Omar Alsoudani.md
+_readwise/articles/On Digital Gardening, Blogs, and Knowledge.md
+_readwise/articles/Passages Saved From iOS.md
+_readwise/articles/Pedro Duarte.md
+_readwise/articles/Perform bulk operations with the GraphQL Admin API.md
+_readwise/articles/Practically Paperless With Obsidian, Episode 20 Experimenting With the Dataview Plug-In.md
+_readwise/articles/Practically Paperless With Obsidian, Episode 21 Tags in Theory and Tags in Practice.md
+_readwise/articles/Practically Paperless With Obsidian, Episode 26 Use Case Managing My Blog Writing in Obsidian.md
+_readwise/articles/Progressive Summarization A Practical Technique for Designing Discoverable Notes - Forte Labs.md
+_readwise/articles/Projects.md
+_readwise/articles/Pseudo Variables · Ruby Basics.md
+_readwise/articles/Rails 6.1 Adds Compact_blank.md
+_readwise/articles/Rails 7 Adds `Enumerable#sole` to Return a Sole Item in the Enumerable  Saeloun Blog.md
+_readwise/articles/Rails Is Fcking Boring! I Love It..md
+_readwise/articles/Rails Security Threats Injections.md
+_readwise/articles/Release Notes for Safari Technology Preview 147 With Safari 16 Features.md
+_readwise/articles/Remote Control Your Mac With Your iPhone and SSH Key Shortcuts.md
+_readwise/articles/Rendering Views Outside of Controllers in Rails 5.md
+_readwise/articles/Repositories - GitHub Docs.md
+_readwise/articles/Reusing Workflows - GitHub Docs-2.md
+_readwise/articles/Reusing Workflows - GitHub Docs.md
+_readwise/articles/Ruby 3.0 Changes How Methods of Subclassed Core Classes Work..md
+_readwise/articles/Ruby Garbage Collection Deep Dive Object IDs  Jemma Issroff.md
+_readwise/articles/Ruby Sinatra Tutorial.md
+_readwise/articles/Ruby’s Unexpected IO vs Cpu Unfairness.md
+_readwise/articles/Run a Shortcut While Working on Your Mac.md
+_readwise/articles/Scientists Are Probing the Secrets of Earth’s Inner Core—and How It Saved Life on Our Planet.md
+_readwise/articles/Security Hardening for GitHub Actions - GitHub Docs.md
+_readwise/articles/Send Highlights From Goodlinks to Readwise  Adam Garrett-Harris.md
+_readwise/articles/Shortcuts User Guide for Mac.md
+_readwise/articles/Software Design Principles Applied to Digital Gardening - 🧠 Welcome in My Mind.md
+_readwise/articles/Speaking.md
+_readwise/articles/Stones Turned 2021-06-19.md
+_readwise/articles/Storybook Setup HTML + JS.md
+_readwise/articles/Take Quick Notes in Obsidian From iPhone.md
+_readwise/articles/Teaching Ruby to Beginners Trying New Gems or Techniques Use Bridgetown!  RUBY3.dev.md
+_readwise/articles/The Archive (macOS) • Zettelkasten Method.md
+_readwise/articles/The Brain Maps Out Ideas and Memories Like Spaces  Quanta Magazine.md
+_readwise/articles/The Content Graph Engine in Shortcuts on iPhone or iPad.md
+_readwise/articles/The Dent - What's in My Dock.md
+_readwise/articles/The Difference Between a Product and a Service – As Told With Hammers..md
+_readwise/articles/The Digital Brain - O9 Solutions.md
+_readwise/articles/The Facebook Papers' Missing Piece.md
+_readwise/articles/The IndieWeb as a minimally viable social web ecosystem.md
+_readwise/articles/The Macintosh Desktop Experience Raycast's Modern Take on Launcher Apps.md
+_readwise/articles/The New ProtonMail Has Passed Its Independent Security Audit.md
+_readwise/articles/The PARA Method A Universal System for Organizing Digital Information.md
+_readwise/articles/The Passion Economy and the Future of Work  Future.md
+_readwise/articles/The Performance Effects of Too Much Lazy-Loading.md
+_readwise/articles/The Potential Side Effects of Progressive Summarization.md
+_readwise/articles/The Power of Defaults.md
+_readwise/articles/The Return of Fancy Tools - macwright.com.md
+_readwise/articles/The Simplest Way to Load CSS Asynchronously  Filament Group, Inc., Boston, MA.md
+_readwise/articles/The Story Behind How We Built Savee..md
+_readwise/articles/The Web, Design, and Accessibility.md
+_readwise/articles/The project that made me burnout - Je suis un dev.md
+_readwise/articles/The tools I use to manage my knowledge (2021)  Bruno Paz.md
+_readwise/articles/Third-Party Apps ― Raindrop.io Help.md
+_readwise/articles/This Is My Little Digital Garden.md
+_readwise/articles/Three Weeks With iOS and iPadOS 15 Foundational Updates.md
+_readwise/articles/Tips and Tricks for Temporal Developer Productivity  Temporal Documentation.md
+_readwise/articles/Too Busy to Blog Count Your Keystrokes. – Jon Udell.md
+_readwise/articles/Turning 30 - 2022 Year in Review.md
+_readwise/articles/Twitter Launches Twitter Shopping Pilot Project in the US.md
+_readwise/articles/Typography — Shopify Polaris.md
+_readwise/articles/UI Cheat Sheet Spacing Friendships.md
+_readwise/articles/UI Tips to Improve Your Heading UX.md
+_readwise/articles/Understanding .Gitignore With `Git Check-Ignore`.md
+_readwise/articles/Understanding Input Types in Shortcuts on Mac.md
+_readwise/articles/Understanding Input Types in Shortcuts on iPhone or iPad.md
+_readwise/articles/Use the Run JavaScript on Webpage Action in Shortcuts on Mac.md
+_readwise/articles/Useful Front-End Boilerplates and Starter Kits.md
+_readwise/articles/Uses – Adam Wathan.md
+_readwise/articles/Using Craft for Note-Taking and Project Management.md
+_readwise/articles/Using Obsidian URI - Obsidian Help.md
+_readwise/articles/Variable Types Used in Shortcuts on iPhone or iPad.md
+_readwise/articles/Vercel Edge Middleware Dynamic at the Speed of Static – Vercel.md
+_readwise/articles/Visual Studio Code April 2021.md
+_readwise/articles/Visual Studio Code July 2022.md
+_readwise/articles/Visual Studio Code June 2022.md
+_readwise/articles/Visual Studio Code March 2022-2.md
+_readwise/articles/Visual Studio Code March 2022.md
+_readwise/articles/Web Evolution From 1.0 to 3.0.md
+_readwise/articles/Webpack’s Hot Module Replacement Feature Explained  by Nathan Sebhastian  Mar, 2021  Bits and Pieces.md
+_readwise/articles/Welcome in My Mind 🧠 - My Second-Brain.md
+_readwise/articles/Welcome in My Mind 🧠.md
+_readwise/articles/What Is Dual Coding Theory and How Can It Help Teaching.md
+_readwise/articles/What Is the Most Efficient Workflow That You Have Used for Content Consumption , Storing and Retrieval - Methods - The Productivists.md
+_readwise/articles/What's New in Alfred 5.md
+_readwise/articles/What's New in Craft V2.4.2 + Converting Document to Page and Vice Versa.md
+_readwise/articles/Why Categories for Your Note Archive Are a Bad Idea.md
+_readwise/articles/Why Evergreen Notes Need to Be Atomic, Concept-Oriented, and Densely Linked – Dafuq Is That.md
+_readwise/articles/Why I Moved Away From Notion.md
+_readwise/articles/Why Neovim Is the Best Code Editor  IDE for Developers.md
+_readwise/articles/Why Side Projects Are Hard.md
+_readwise/articles/Writing an API Gem How to Write Tests for an External API.md
+_readwise/articles/Zen of Obsidian - Meta - Obsidian Forum.md
+_readwise/articles/macOS Monterey Beta 1.md
+_readwise/articles/🌠 Drag &amp; Drop Blocks and Create Notionesque Tables.md
+_readwise/articles/🌱 My Blog Is a Digital Garden, Not a Blog.md
+_readwise/books/Quick Passages.md
+_readwise/podcast_episodes/#23 Nat Eliason on Starting a Life-Changing Blog.md
+_readwise/podcast_episodes/#298 Dr. Gabor Mate - New Paradigms, Ayahuasca, and Redefining Addiction.md
+_readwise/podcast_episodes/087 - The Shopify Upgrow Rorschach Test With Matt Swanson.md
+_readwise/podcast_episodes/10  Design Fundamentals.md
+_readwise/podcast_episodes/13  the Future of Code With No Code.md
+_readwise/podcast_episodes/17  All Things Automated.md
+_readwise/podcast_episodes/20  Learning and Building in Public.md
+_readwise/podcast_episodes/205 Wathan Stops By.md
+_readwise/podcast_episodes/233 – Building an Apple-Only Research and Writing Setup.md
+_readwise/podcast_episodes/372 The Railsconf 2021 Story With Marty Haught and Evan Phoenix.md
+_readwise/podcast_episodes/382 It Does the Nib Nib.md
+_readwise/podcast_episodes/633 Workflows With Nick Milo.md
+_readwise/podcast_episodes/75 Bunches of Automation, With Jay Miller.md
+_readwise/podcast_episodes/76 Automating With Alfred.md
+_readwise/podcast_episodes/Amy Gives James a Design Consult.md
+_readwise/podcast_episodes/Apple's MagSafe Battery Pack, New Emoji, and Troubles With the HomePod Beta.md
+_readwise/podcast_episodes/Automation April Shortcuts Workshop Part 1.md
+_readwise/podcast_episodes/Can Paid Content Curation Give Influencers New Revenue.md
+_readwise/podcast_episodes/Collin Jilbert Bootcamps, Ruby Radar, and Finding a Job as a Junior Rails Developer.md
+_readwise/podcast_episodes/Episode 1 - Andrew Mason.md
+_readwise/podcast_episodes/Episode 372 The Debut of the Ruby on Rails Podcast.md
+_readwise/podcast_episodes/GitLab’s Eric Johnson on Radical OpenCore Transparency.md
+_readwise/podcast_episodes/Hasty Treat - VSCode Extensions and Tips.md
+_readwise/podcast_episodes/Heroku Incident, SIM Swapping, and Security Tools.md
+_readwise/podcast_episodes/How Do You Start a New Design Project.md
+_readwise/podcast_episodes/I Believe in the Rails Magic With Brittany &amp; Nick.md
+_readwise/podcast_episodes/Jason and Andrew Answer the Twitters.md
+_readwise/podcast_episodes/Learning in Public  Alpine &amp; Inertia.md
+_readwise/podcast_episodes/New Apps We Are Trying or Revisiting.md
+_readwise/podcast_episodes/Obsidian in-Depth Third-Party Plugins.md
+_readwise/podcast_episodes/Shortcuts Code Injection and 10 Innovations Apple Should Adopt From Third-Party Apps-2.md
+_readwise/podcast_episodes/Shortcuts Code Injection and 10 Innovations Apple Should Adopt From Third-Party Apps.md
+_readwise/podcast_episodes/Starting the New Year With New Shortcuts, Workflows, Apps, and More.md
+_readwise/podcast_episodes/The FTC Had a Monopoly Lawsuit Against Google in Its Sights, and It Blinked.md
+_readwise/podcast_episodes/The Future of the Web Is HTML Over the Wire.md
+_readwise/podcast_episodes/The Railsconf 2021 Story With Marty Haught and Evan Phoenix.md
+_readwise/podcast_episodes/The Rule of Three.md
+_readwise/podcast_episodes/Upside Down Marginal Cost.md
+_readwise/podcast_episodes/WWDC 2022 The M2 MacBook Air and macOS Ventura.md
+_readwise/tweets/1. A Long Rant About Rub....md
+_readwise/tweets/A Funny Lie of Adult Lif....md
+_readwise/tweets/A Simple Habit Tracker F....md
+_readwise/tweets/Crash Course #3 🖥📸 Spee....md
+_readwise/tweets/Do You Use Obsidian And....md
+_readwise/tweets/Things I Know at 31 That....md
+_readwise/tweets/Tweets From Chris Oliver.md
+_readwise/tweets/Tweets From Dickie Bush 📊.md
+_readwise/tweets/Tweets From Dorian.md
+_readwise/tweets/Tweets From Drew Bragg.md
+_readwise/tweets/Tweets From Haz.md
+_readwise/tweets/Tweets From Jamie Lawrence.md
+_readwise/tweets/Tweets From Jeff Johnson.md
+_readwise/tweets/Tweets From John Voorhees.md
+_readwise/tweets/Tweets From JohnPhamous.md
+_readwise/tweets/Tweets From Julian Rubisch.md
+_readwise/tweets/Tweets From Konnor Rogers.md
+_readwise/tweets/Tweets From Maggie Appleton 🧭.md
+_readwise/tweets/Tweets From Mark McElroy.md
+_readwise/tweets/Tweets From Miriam Isaac.md
+_readwise/tweets/Tweets From Monica D.T. Rysavy, Ph.D., Ed.D..md
+_readwise/tweets/Tweets From Nuno Campos.md
+_readwise/tweets/Tweets From Pavol Rusnak.md
+_readwise/tweets/Tweets From Plausible Analytics.md
+_readwise/tweets/Tweets From Postmodern.md
+_readwise/tweets/Tweets From Rauno.md
+_readwise/tweets/Tweets From Schneems (💉x3) &amp;&amp; 🇺🇦.md
+_readwise/tweets/Tweets From Stanislav (Stas) Katkov.md
+_readwise/tweets/Tweets From Stephan Ango.md
+_readwise/tweets/Tweets From Tiago Forte.md
+_readwise/tweets/Tweets From VimTricks.md
+_readwise/tweets/Tweets From Will Platnick.md
+_readwise/tweets/Tweets From Zsolt Viczián.md
+_readwise/tweets/Tweets From 🔎Julia Evans🔍.md
+_readwise/tweets/Tweets from Joe Previte.md
+brain/Dashboard/App.md
+brain/Dashboard/Conference Talk.md
+brain/Dashboard/Conference.md
+brain/Dashboard/Definition.md
+brain/Dashboard/Gem.md
+brain/Dashboard/MOC.md
+brain/Dashboard/Meeting.md
+brain/Dashboard/Note.md
+brain/Dashboard/Podcast.md
+brain/Dashboard/Publish.md
+brain/Dashboard/Quicklinks.md
+brain/Dashboard/Recently Updated.md
+brain/Dashboard/Shortcut.md
+brain/MOC/API.md
+brain/MOC/Account.md
+brain/MOC/Comedian.md
+brain/MOC/Domain.md
+brain/MOC/Emoji Glossary.md
+brain/MOC/GitHub Sponsors.md
+brain/MOC/Ideas.md
+brain/MOC/Marketing.md
+brain/MOC/Note Taking.md
+brain/MOC/PKM.md
+brain/MOC/People.md
+brain/MOC/Peripheral Mods.md
+brain/MOC/RSS Feed.md
+brain/MOC/Recently Launched Apps.md
+brain/MOC/Subscription.md
+brain/MOC/TV.md
+brain/MOC/Tattoo Ideas.md
+brain/MOC/Vault Types.md
+brain/MOC/Workflow.md
+brain/RailsConf 2022 Giveaway.md
+brain/definitions/AST.md
+brain/definitions/CRON.md
+brain/definitions/Clamshell Mode.md
+brain/definitions/DAM.md
+brain/definitions/Datascope.md
+brain/definitions/Dendritic.md
+brain/definitions/Emoji.md
+brain/definitions/FaaS.md
+brain/definitions/Hyper Key.md
+brain/definitions/Kebab Case.md
+brain/definitions/Linked Data.md
+brain/definitions/MLP.md
+brain/definitions/MVU.md
+brain/definitions/Pascal Case.md
+brain/definitions/SOAP.md
+brain/definitions/SaaS.md
+brain/definitions/Snake Case.md
+brain/definitions/TIL.md
+brain/definitions/URI.md
+brain/definitions/URL.md
+brain/definitions/URN.md
+brain/definitions/W3C.md
+brain/definitions/YAGNI.md
+brain/definitions/a11y.md
+brain/definitions/concept.md
+brain/definitions/externalization.md
+brain/definitions/i18n.md
+brain/definitions/k8s.md
+brain/definitions/oEmbed.md
+brain/definitions/resouce.md
+brain/definitions/superset.md
+brain/definitions/transclusion.md
+brain/meetings/2022-06-29 Stripe.md
+brain/services/Zcal.md
+docs/+docs.md
+docs/app.alfred.changelog.md
+docs/app.alfred.features.default-results.md
+docs/app.alfred.gallery.md
+docs/app.alfred.hotkeys.md
+docs/app.alfred.install.md
+docs/app.alfred.keywords.md
+docs/app.alfred.md
+docs/app.alfred.snippets.md
+docs/app.alfred.workflows.md
+docs/app.craft.block.md
+docs/app.craft.document.md
+docs/app.craft.extensions.md
+docs/app.craft.md
+docs/app.obsidian.hotkeys.md
+docs/app.obsidian.md
+docs/app.obsidian.plugins.dataview.md
+docs/app.obsidian.plugins.md
+docs/app.obsidian.plugins.style-settings.md
+docs/app.obsidian.plugins.templater.functions.md
+docs/app.obsidian.plugins.templater.md
+docs/app.obsidian.styleguide.md
+docs/app.shortcuts.styleguide.md
+docs/app.vscode.md
+docs/app.vscode.ruby.md
+docs/app.vscode.settings.md
+docs/app.vscode.setup.md
+docs/apple.glossary.md
+docs/apple.macos.mdsync.md
+docs/apps.warp.hotkeys.md
+docs/asdf.rust.md
+docs/cli.asdf.md
+docs/cli.brew.autoremove.md
+docs/cli.brew.install.md
+docs/cli.brew.md
+docs/cli.defaults.md
+docs/cli.docker.install.md
+docs/cli.duti.md
+docs/cli.ffmpeg.md
+docs/cli.gcc.md
+docs/cli.gh.extension.md
+docs/cli.gh.md
+docs/cli.git.branch.md
+docs/cli.git.tag.md
+docs/cli.heroku.md
+docs/cli.make.md
+docs/cli.md
+docs/cli.networkQuality.md
+docs/cli.op.md
+docs/cli.overmind.md
+docs/cli.webp.md
+docs/cli.xcode.md
+docs/cloudinary.cli.md
+docs/cloudinary.md
+docs/css.fonts.loading.md
+docs/css.fonts.md
+docs/css.md
+docs/css.postcss.md
+docs/css.property.counter-increment.md
+docs/css.property.md
+docs/docsapp.craft.page.md
+docs/favicon.md
+docs/gems/bridgetown.collections.md
+docs/gems/bridgetown.data.md
+docs/gems/bridgetown.install.md
+docs/gems/bridgetown.layout.md
+docs/gems/bridgetown.md
+docs/gems/bridgetown.new.md
+docs/gems/bridgetown.resource.layout.md
+docs/gems/kramdown.md
+docs/gems/rails.generators.md
+docs/gems/ruby.gems.md
+docs/github.actions.setup-ruby.md
+docs/github.api.graphql.md
+docs/github.api.md
+docs/github.api.rest.md
+docs/github.md
+docs/github.readme.badges.md
+docs/graphql.md
+docs/html.elements.body.md
+docs/html.elements.link.md
+docs/html.elements.md
+docs/js.commitlint.md
+docs/js.events.md
+docs/js.events.naming.md
+docs/js.log4brains.md
+docs/js.md
+docs/js.npm.md
+docs/js.stylelint.md
+docs/js.webhint.md
+docs/json-ld.person.md
+docs/network.cname.md
+docs/rails.action_controller.parameters.md
+docs/ruby.class.md
+docs/ruby.md
+docs/shortcuts/Obsidian Gem Launcher Refactor.md
+docs/shortcuts/Save Gem to Data Jar.md
+docs/shortcuts/get-gem-data-from-rubygems.md
+docs/specs.md
+docs/specs.schema.md
+docs/specs.url-schemes.md
+docs/specs.webmentions.md
+docs/specs.x-callback-url.md
+docs/strapi.md
+docs/strapi.setup.cloudinary.md
+docs/strapi.setup.docker.md
+docs/strapi.setup.graphql.md
+docs/strapi.setup.md
+docs/strapi.setup.postgres.md
+docs/stripe.md
+docs/stripe.setup-intent.md
+docs/terminal.hotkeys.md
+docs/terminal.md
+docs/terminal.vim.md
+docs/test
+.md
+docs/ts.tsconfig.md
+docs/unix.zsh.md
+docs/unix.zsh.zinit.md
+docs/vim.shortcuts.md
+lib/gems/gvl-tracing.md
+notes/idea_emergence_q_a_part_1_how_to_create_mocs_how_to_use_tags_folders.md
+notes/productivity_power_hour_3_let_s_talk_about_raycast-2.md
+notes/productivity_power_hour_3_let_s_talk_about_raycast.md
+notes/the_second_brain_a_life_changing_productivity_system.md
+notes/the_ultimate_guide_to_creating_and_selling_online_courses-2.md
+notes/use_structure_notes_to_organize_topics_in_obsidian.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">andrewmcodes/bridgetown-esbuild-minifySyntax</span>
                                     </div>
                                 </div>
@@ -3339,52 +4212,6 @@
                                     <div class="commit">
                                         <div class="sha">#06c5c05</div>
                                         <div class="message">docs: add repo status</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/haml-lint-action</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#425a679</div>
-                                        <div class="message">docs: add repo status badge</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">obsidian-tasks-group/obsidian-tasks</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">erichalldev/obsidian-jump-to-link</span>
                                     </div>
                                 </div>
                             </section>
@@ -3481,7 +4308,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="206.77 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="206.87333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3500,7 +4327,7 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 3001 repositories</div>
+                                <div class="text">Starred 3002 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4000,7 +4827,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 792k out of 381m repositories</span>
+                                    <span class="gh">ranked 803k out of 381m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 12 times</div>
                             </div>
@@ -4255,7 +5082,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2023, 00:01:48 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 2 Mar 2023, 01:01:36 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
