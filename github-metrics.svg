@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6218" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6251" class="">
     <defs>
         <style/>
     </defs>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            7154 Commits
+                            7160 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    413 MB used
+                                    414 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.27m added, 3.99m removed
+                                    4.17m added, 3.78m removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.2255989260948" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="385.2255989260948" y="0" width="40.04787641159946" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="425.27347533769426" y="0" width="15.965461286478137" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="441.2389366241724" y="0" width="12.426355156910684" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="453.66529178108306" y="0" width="2.107315630115765" height="8" fill="#5B2063"/>
-                    <rect mask="url(#languages-bar)" x="455.77260741119886" y="0" width="2.021256898169216" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="457.7938643093681" y="0" width="1.5388633952104385" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="459.3327277045785" y="0" width="0.6672722954214673" height="8" fill="#89e051"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="385.22881143296996" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="385.22881143296996" y="0" width="40.04649866890359" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="425.2753101018736" y="0" width="15.965594427043795" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="441.2409045289173" y="0" width="12.424334425215134" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="453.66523895413246" y="0" width="2.1073332036258554" height="8" fill="#5B2063"/>
+                    <rect mask="url(#languages-bar)" x="455.7725721577583" y="0" width="2.021273754010832" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="457.79384591176915" y="0" width="1.5388762282341284" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="459.3327221400032" y="0" width="0.6672778599967254" height="8" fill="#89e051"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -521,8 +521,8 @@
                             11
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">8</span>
+                            <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             12
                         </div>
                         <div class="entry">
@@ -566,13 +566,13 @@
                             20
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 26.666666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">6</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -602,8 +602,8 @@
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">24</span>
-                                <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">20</span>
+                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
@@ -617,8 +617,8 @@
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 15px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">13</span>
+                                <div class="bar" style="height: 21.666666666666668px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Sat
                             </div>
                         </div>
@@ -628,27 +628,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 13.641635200400323%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 13.575536250655354%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">17%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 5.245759909597989%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 5.293472994148718%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">7%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 3.409104924947889%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 3.6899726285531593%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.8128933283292716%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 2.7992637823096174%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.07146645428772296%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.07112017193219737%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3284,6 +3284,103 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#b26aafa</div>
+                                        <div class="message">chore(): backup vault 2023-03-04 12:40:03
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+Podcast TEst
+.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#bd1a8c5</div>
+                                        <div class="message">chore: finish tags</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb59035</div>
+                                        <div class="message">chore: work on podcasts</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#443ea91</div>
+                                        <div class="message">refactor: use new cx helper</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fa045e5</div>
+                                        <div class="message">chore: use all instead of all posts</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#9232140</div>
+                                        <div class="message">chore(): backup vault 2023-03-04 12:03:54
+
+Affected files:
+.obsidian/plugins/readwise-official/data.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">andrewmcodes/andrewmcodes-v7</span>
                                     </div>
                                 </div>
@@ -3292,199 +3389,6 @@
                                     <div class="commit">
                                         <div class="sha">#c74b32f</div>
                                         <div class="message">refactor: update category design</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#baea626</div>
-                                        <div class="message">chore(): backup vault 2023-03-04 05:24:35
-
-Affected files:
-.obsidian/plugins/card-board/data.json
-.obsidian/plugins/card-board/main.js
-.obsidian/plugins/card-board/manifest.json
-.obsidian/plugins/card-board/styles.css
-.obsidian/plugins/readwise-official/data.json
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/snippets/supercharged-links-gen.css
-.obsidian/workspace.json
-_inbox/Readwise Syncs.md
-_inbox/articles/Guidelines.md
-_inbox/tweets/Tweets from swyx 🇸🇬.md
-_readwise/Readwise Syncs.md
-_readwise/articles/A Sneak Peek of Ruby's New Debugger!.md
-_readwise/articles/A Walkthrough of My Obsidian Setup.md
-_readwise/articles/About Service Containers - GitHub Docs.md
-_readwise/articles/Advanced Terminal Usage in Visual Studio Code.md
-_readwise/articles/Analyzing iMessage With SQL.md
-_readwise/articles/Atomic Design.md
-_readwise/articles/Blog About What You've Struggled With.md
-_readwise/articles/Bundled Notes  Welcome to Bundled Notes 1.0!.md
-_readwise/articles/Code Reviews 101 - The Basics.md
-_readwise/articles/Conventional Commits.md
-_readwise/articles/Creating GitHub CLI Extensions - GitHub Docs.md
-_readwise/articles/Creating WebP Images With the Command Line.md
-_readwise/articles/Data Annotation - Dataview.md
-_readwise/articles/Debugging Ruby on Rails Server in VS Code.md
-_readwise/articles/Delba De Oliveira.md
-_readwise/articles/Deploying Rails to AWS Lambda.md
-_readwise/articles/Don’t Hang Me Out to DRY.md
-_readwise/articles/From Idea to Product and Beyond.md
-_readwise/articles/Get Started With Obsidian as a Developer.md
-_readwise/articles/Gh Api.md
-_readwise/articles/Handling Ajax Redirects in Rails.md
-_readwise/articles/Healthy Goals Are Difficult to Measure.md
-_readwise/articles/Hotkey Triggers - Alfred Help and Support.md
-_readwise/articles/How Can I Use GitHub Actions With Vercel.md
-_readwise/articles/How Daily Notes Changed Everything for Me.md
-_readwise/articles/How I Setup My Macbook for Development.md
-_readwise/articles/How to Clean Up Old Rails Migration Files.md
-_readwise/articles/How to Create and Launch Your Community.md
-_readwise/articles/How to Subscribe.md
-_readwise/articles/How to Use Alpine.js With Rails and Turbo.md
-_readwise/articles/Human Versus Bald Eagle Size Comparison.md
-_readwise/articles/Inessential Proxyman.md
-_readwise/articles/Instant Test Feedback With Vscode.md
-_readwise/articles/Intro to URL Schemes in Shortcuts on Mac.md
-_readwise/articles/Joys of a Text-Based Reading List.md
-_readwise/articles/Layout Compositions - Tailwind CSS.md
-_readwise/articles/Linked Data - Wikipedia.md
-_readwise/articles/Linking IFTTT &amp; Processing With Webhooks.md
-_readwise/articles/MacStories Weekly Issue 279.md
-_readwise/articles/MacStories Weekly Issue 281.md
-_readwise/articles/MacStories Weekly Issue 282.md
-_readwise/articles/MacStories Weekly Issue 284.md
-_readwise/articles/Markdown Open Link in New Tab.md
-_readwise/articles/Maybe It’s Time We Re-Think Docs.md
-_readwise/articles/Most People Take Only Transient Notes.md
-_readwise/articles/Multi-root Workspaces in Visual Studio Code.md
-_readwise/articles/My 8 Favorite VS Code Shortcut #1.md
-_readwise/articles/My Reading Workflow and IFTTT Applets.md
-_readwise/articles/My Vision Project Meta.md
-_readwise/articles/Ngrok - Online in One Line.md
-_readwise/articles/No Constraints, No Fun.md
-_readwise/articles/Obsidian Dataview - Fork My Brain.md
-_readwise/articles/Obsidian Release V0.12.12.md
-_readwise/articles/Obsidian Release V0.14.3.md
-_readwise/articles/Oliur.md
-_readwise/articles/On Digital Gardening, Blogs, and Knowledge.md
-_readwise/articles/Passages Saved From iOS.md
-_readwise/articles/Pedro Duarte.md
-_readwise/articles/Projects.md
-_readwise/articles/Pseudo Variables · Ruby Basics.md
-_readwise/articles/Rails Security Threats Injections.md
-_readwise/articles/Repositories - GitHub Docs.md
-_readwise/articles/Reusing Workflows - GitHub Docs-2.md
-_readwise/articles/Reusing Workflows - GitHub Docs.md
-_readwise/articles/Ruby Sinatra Tutorial.md
-_readwise/articles/Run a Shortcut While Working on Your Mac.md
-_readwise/articles/Shortcuts User Guide for Mac.md
-_readwise/articles/Speaking.md
-_readwise/articles/Storybook Setup HTML + JS.md
-_readwise/articles/Take Quick Notes in Obsidian From iPhone.md
-_readwise/articles/Teaching Ruby to Beginners Trying New Gems or Techniques Use Bridgetown!  RUBY3.dev.md
-_readwise/articles/The Archive (macOS) • Zettelkasten Method.md
-_readwise/articles/The Digital Brain - O9 Solutions.md
-_readwise/articles/The Facebook Papers' Missing Piece.md
-_readwise/articles/The Return of Fancy Tools - macwright.com.md
-_readwise/articles/The Story Behind How We Built Savee..md
-_readwise/articles/The Web, Design, and Accessibility.md
-_readwise/articles/Third-Party Apps ― Raindrop.io Help.md
-_readwise/articles/Typography — Shopify Polaris.md
-_readwise/articles/UI Cheat Sheet Spacing Friendships.md
-_readwise/articles/UI Tips to Improve Your Heading UX.md
-_readwise/articles/Using Obsidian URI - Obsidian Help.md
-_readwise/articles/Visual Studio Code July 2022.md
-_readwise/articles/Visual Studio Code June 2022.md
-_readwise/articles/Visual Studio Code March 2022-2.md
-_readwise/articles/Visual Studio Code March 2022.md
-_readwise/articles/Welcome in My Mind 🧠 - My Second-Brain.md
-_readwise/articles/Why I Moved Away From Notion.md
-_readwise/articles/Why Side Projects Are Hard.md
-_readwise/articles/Winners and Losers in the Race to Add AI.md
-_readwise/articles/Zen of Obsidian - Meta - Obsidian Forum.md
-_readwise/articles/macOS Monterey Beta 1.md
-_readwise/articles/🌱 My Blog Is a Digital Garden, Not a Blog.md
-lib/apps/IFTTT .md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b77d43d</div>
-                                        <div class="message">chore(): backup vault 2023-03-04 04:54:18
-
-Affected files:
-.obsidian/plugins/readwise-official/data.json
-.obsidian/snippets/supercharged-links-gen.css
-.obsidian/workspace.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c497a8c</div>
-                                        <div class="message">chore: create stack components</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#3514442</div>
-                                        <div class="message">chore: update posts design</div>
                                     </div>
                                 </div>
                             </section>
@@ -3653,7 +3557,7 @@ Affected files:
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.68333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="36.89 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3675,7 +3579,7 @@ Affected files:
                                     <span class="prefix">Master</span>
                                     deployer
                                 </div>
-                                <div class="text">Repositories have been deployed 1355 times</div>
+                                <div class="text">Repositories have been deployed 1357 times</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4355,7 +4259,7 @@ Affected files:
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2023, 12:01:18 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Mar 2023, 13:01:18 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
