@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    718k added, 447k removed
+                                    4.37m added, 3.97m removed
                                 </div>
                             </section>
                             <section>
@@ -593,31 +593,31 @@
                             </div>
                             <div class="entry">
                                 <span class="value">13</span>
-                                <div class="bar" style="height: 27.083333333333332px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 26px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
                                 <span class="value">14</span>
-                                <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.000000000000004px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
                                 <span class="value">19</span>
-                                <div class="bar" style="height: 39.58333333333333px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <div class="bar" style="height: 38px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">22</span>
-                                <div class="bar" style="height: 45.83333333333333px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">21</span>
+                                <div class="bar" style="height: 42px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">9</span>
-                                <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
-                                <span class="value">24</span>
+                                <span class="value">25</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Sat
                             </div>
@@ -628,27 +628,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 12.499694630939294%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">16%</span>
+                                <div class="bar" style="width: 9.990847626748327%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">12%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 5.065069169455345%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">6%</span>
+                                <div class="bar" style="width: 4.048445644881037%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 3.4225441466804636%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <div class="bar" style="width: 2.735596194539543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.5745490627187695%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.057804462642146%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.06547543137751849%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.05233368314208543%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1724,10 +1724,10 @@
                                 <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,3.292307692307692 0,2.292307692307692 z"/>
                                 <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,2.292307692307692 1.7,3.292307692307692 z"/>
                             </g>
-                            <g transform="translate(-10.2, 9.415384615384616)">
+                            <g transform="translate(-10.2, 9.323076923076924)">
                                 <path fill="#40c463" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.584615384615384 0,3.5846153846153848 z"/>
-                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.5846153846153848 1.7,4.584615384615384 z"/>
+                                <path fill="#40c463" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.676923076923077 0,3.676923076923077 z"/>
+                                <path fill="#40c463" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.676923076923077 1.7,4.676923076923077 z"/>
                             </g>
                         </g>
                     </g>
@@ -3289,6 +3289,188 @@
                                     </svg>
                                     <div class="content">
                                         Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#527252d</div>
+                                        <div class="message">chore(): backup vault 2023-03-04 21:01:10
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json
+PARA/projects/ruby-cva.md
+_inbox/Readwise Syncs.md
+_inbox/articles/  WoR Newsletter - Some Rails Releases, How to Spot Toxic Companies, Creating Art With Code....md
+_inbox/articles/A Beginner’s Guide to the Zettelkasten Method.md
+_inbox/articles/A Brief History &amp; Ethos of the Digital Garden.md
+_inbox/articles/Accessible Icon Links.md
+_inbox/articles/Advanced Privacy and Security Settings in Shortcuts on iPhone or iPad.md
+_inbox/articles/Advanced Terminal Usage in Visual Studio Code.md
+_inbox/articles/An Introduction to Callback URLs in Obsidian – The Sweet Setup.md
+_inbox/articles/Apple Launches Freeform A Powerful New App Designed for Creative Brainstorming and Collaboration-2.md
+_inbox/articles/Apple Launches Freeform A Powerful New App Designed for Creative Brainstorming and Collaboration.md
+_inbox/articles/Atomic Design.md
+_inbox/articles/Automation Academy Tips for Optimizing Your Shortcuts for macOS Monterey.md
+_inbox/articles/Basecamp's new etiquette regarding societal politics at work.md
+_inbox/articles/Building a Second Brain An Overview - Forte Labs.md
+_inbox/articles/CICD Tips Improve Your CICD With Cache.md
+_inbox/articles/Code Reviews 101 - The Basics.md
+_inbox/articles/Creating GitHub CLI Extensions - GitHub Docs.md
+_inbox/articles/Debugging Ruby on Rails Server in VS Code.md
+_inbox/articles/Declutter Your Inbox. Subscribe to Email Newsletters Straight Into Inoreader  Inoreader blog.md
+_inbox/articles/Deploying Rails to AWS Lambda.md
+_inbox/articles/Digging Into the Rails Source.md
+_inbox/articles/Digital Gardens - Rosie Campbell.md
+_inbox/articles/Digital Gardens Let You Cultivate Your Own Little Bit of the Internet  MIT Technology Review.md
+_inbox/articles/Don’t Hang Me Out to DRY.md
+_inbox/articles/Drag and Drop File Uploads With Dropzone and StimulusReflex.md
+_inbox/articles/Evergreen Notes  Evergreen Notes Should Be Concept-Oriented.md
+_inbox/articles/Evergreen Notes.md
+_inbox/articles/From Idea to Product and Beyond.md
+_inbox/articles/Get Started With Obsidian as a Developer.md
+_inbox/articles/Greg Morris - My Obsidian Set Up.md
+_inbox/articles/Hanami  Announcing Hanami V2.0.0.alpha2.md
+_inbox/articles/How Daily Notes Changed Everything for Me.md
+_inbox/articles/How I Built My Blog.md
+_inbox/articles/How I Take Smart Digital Notes—Part 1 A Map for the Journey  Ramses' Blog.md
+_inbox/articles/How I Take Smart Digital Notes—Part 2 Highlights and Reading Notes  Ramses' Blog.md
+_inbox/articles/How I Take Smart Digital Notes—Part 3 Videos and Podcasts  Ramses' Blog.md
+_inbox/articles/How I Take Smart Digital Notes—Part 4 Organizing Input  Ramses' Blog.md
+_inbox/articles/How I Take Smart Digital Notes—Part 5 Organizing for Output  Ramses' Blog.md
+_inbox/articles/How I Use Obsidian to Manage My Goals, Tasks, Notes, and Software Development Knowledge Base.md
+_inbox/articles/How Much Do You Save With Ruby 2.7 Memory Compaction.md
+_inbox/articles/How To Change Post URL of Already Published Post Without Losing Traffic.md
+_inbox/articles/How do you combine notes with a bookmark service  Capiche.md
+_inbox/articles/How to Clean Up Old Rails Migration Files.md
+_inbox/articles/How to Favicon in 2021 Six files that fit most needs — Martian Chronicles, Evil Martians’ team blog.md
+_inbox/articles/How to Get Started With Obsidian Dataview and Dataviewjs.md
+_inbox/articles/How to Start Using Reusable Workflows With GitHub Actions  the GitHub Blog.md
+_inbox/articles/How to Take Smart Notes in Obsidian - The Knowledge Worker.md
+_inbox/articles/How to Use Alpine.js With Rails and Turbo.md
+_inbox/articles/How to Use Simplecov in Queue Mode - Knapsack Pro Frequently Asked Questions.md
+_inbox/articles/How to Use the New Composite GitHub Actions for Reusability - Manzoor Wani.md
+_inbox/articles/Humanity Wastes About 500 Years Per Day on CAPTCHAs. It’s Time to End This Madness.md
+_inbox/articles/IaaS vs. PaaS vs. SaaS Here's What You Need to Know About Each.md
+_inbox/articles/Instant Test Feedback With Vscode.md
+_inbox/articles/Introducing GitHub Copilot Your AI Pair Programmer.md
+_inbox/articles/Issue 4 Web Typography.md
+_inbox/articles/Jamie Brynes - Software Engineer.md
+_inbox/articles/Joys of a Text-Based Reading List.md
+_inbox/articles/Layout Compositions - Tailwind CSS.md
+_inbox/articles/Learn - Bullet Journal.md
+_inbox/articles/Let a Website Be a Worry Stone. — ethanmarcotte.com.md
+_inbox/articles/Linked Data - Wikipedia.md
+_inbox/articles/Linked Data Evolving the Web Into a Global Data Space.md
+_inbox/articles/Linking IFTTT &amp; Processing With Webhooks.md
+_inbox/articles/MacStories Weekly Issue 279.md
+_inbox/articles/MacStories Weekly Issue 281.md
+_inbox/articles/MacStories Weekly Issue 284.md
+_inbox/articles/Macros or Partials When to Use Both for Keeping Craft CMS Templates Clean..md
+_inbox/articles/Maybe It’s Time We Re-Think Docs.md
+_inbox/articles/Meeting Notes for Group Meetings  Productived.net.md
+_inbox/articles/Mixed Content - Web Security  MDN.md
+_inbox/articles/Most People Take Only Transient Notes.md
+_inbox/articles/My Obsidian Setup, Part 1 Sync, Core Plugins, Workspaces, and Other Settings.md
+_inbox/articles/My Obsidian Setup, Part 5 Appending Text and Webpage Links to Specific Sections of My 'Dashboard' Note.md
+_inbox/articles/My Three Strikes Rule for Blogging.md
+_inbox/articles/My Vision Project Meta.md
+_inbox/articles/Ngrok - Online in One Line.md
+_inbox/articles/No Constraints, No Fun.md
+_inbox/articles/Note-Taking - Wikipedia.md
+_inbox/articles/Obsidian Dataview - Fork My Brain.md
+_inbox/articles/Obsidian Release V0.12.12.md
+_inbox/articles/Obsidian Release V0.12.6.md
+_inbox/articles/Obsidian Workflow Personal Knowledge Management Using Dataview Plugin.md
+_inbox/articles/Obsidian for Tasks and Reminders My Magic Book.md
+_inbox/articles/Office in Memory.md
+_inbox/articles/Omar Alsoudani.md
+_inbox/articles/On Digital Gardening, Blogs, and Knowledge.md
+_inbox/articles/Passages Saved From iOS.md
+_inbox/articles/Practically Paperless With Obsidian, Episode 20 Experimenting With the Dataview Plug-In.md
+_inbox/articles/Practically Paperless With Obsidian, Episode 26 Use Case Managing My Blog Writing in Obsidian.md
+_inbox/articles/Rails 6.1 Adds Compact_blank.md
+_inbox/articles/Rails 7 Adds `Enumerable#sole` to Return a Sole Item in the Enumerable  Saeloun Blog.md
+_inbox/articles/Rails Is Fcking Boring! I Love It..md
+_inbox/articles/Release Notes for Safari Technology Preview 147 With Safari 16 Features.md
+_inbox/articles/Remote Control Your Mac With Your iPhone and SSH Key Shortcuts.md
+_inbox/articles/Rendering Views Outside of Controllers in Rails 5.md
+_inbox/articles/Reusing Workflows - GitHub Docs-2.md
+_inbox/articles/Ruby Garbage Collection Deep Dive Object IDs  Jemma Issroff.md
+_inbox/articles/Ruby Sinatra Tutorial.md
+_inbox/articles/Run a Shortcut While Working on Your Mac.md
+_inbox/articles/Security Hardening for GitHub Actions - GitHub Docs.md
+_inbox/articles/Software Design Principles Applied to Digital Gardening - 🧠 Welcome in My Mind.md
+_inbox/articles/Stones Turned 2021-06-19.md
+_inbox/articles/Teaching Ruby to Beginners Trying New Gems or Techniques Use Bridgetown!  RUBY3.dev.md
+_inbox/articles/The Brain Maps Out Ideas and Memories Like Spaces  Quanta Magazine.md
+_inbox/articles/The Dent - What's in My Dock.md
+_inbox/articles/The IndieWeb as a minimally viable social web ecosystem.md
+_inbox/articles/The Passion Economy and the Future of Work  Future.md
+_inbox/articles/The Performance Effects of Too Much Lazy-Loading.md
+_inbox/articles/The Potential Side Effects of Progressive Summarization.md
+_inbox/articles/The Power of Defaults.md
+_inbox/articles/The Return of Fancy Tools - macwright.com.md
+_inbox/articles/This Is My Little Digital Garden.md
+_inbox/articles/Three Weeks With iOS and iPadOS 15 Foundational Updates.md
+_inbox/articles/Too Busy to Blog Count Your Keystrokes. – Jon Udell.md
+_inbox/articles/Turning 30 - 2022 Year in Review.md
+_inbox/articles/Typography — Shopify Polaris.md
+_inbox/articles/Uses – Adam Wathan.md
+_inbox/articles/Using Obsidian URI - Obsidian Help.md
+_inbox/articles/Variable Types Used in Shortcuts on iPhone or iPad.md
+_inbox/articles/Vercel Edge Middleware Dynamic at the Speed of Static – Vercel.md
+_inbox/articles/Visual Studio Code April 2021.md
+_inbox/articles/Visual Studio Code March 2022.md
+_inbox/articles/Web Evolution From 1.0 to 3.0.md
+_inbox/articles/Webpack’s Hot Module Replacement Feature Explained  by Nathan Sebhastian  Mar, 2021  Bits and Pieces.md
+_inbox/articles/Welcome in My Mind 🧠 - My Second-Brain.md
+_inbox/articles/What Is Dual Coding Theory and How Can It Help Teaching.md
+_inbox/articles/What Is the Most Efficient Workflow That You Have Used for Content Consumption , Storing and Retrieval - Methods - The Productivists.md
+_inbox/articles/Why Categories for Your Note Archive Are a Bad Idea.md
+_inbox/articles/Why Evergreen Notes Need to Be Atomic, Concept-Oriented, and Densely Linked – Dafuq Is That.md
+_inbox/articles/Why Side Projects Are Hard.md
+_inbox/articles/🌱 My Blog Is a Digital Garden, Not a Blog.md
+_inbox/podcast_episodes/#23 Nat Eliason on Starting a Life-Changing Blog.md
+_inbox/podcast_episodes/#298 Dr. Gabor Mate - New Paradigms, Ayahuasca, and Redefining Addiction.md
+_inbox/podcast_episodes/633 Workflows With Nick Milo.md
+_inbox/podcast_episodes/76 Automating With Alfred.md
+_inbox/podcast_episodes/Amy Gives James a Design Consult.md
+_inbox/podcast_episodes/Automation April Shortcuts Workshop Part 1.md
+_inbox/podcast_episodes/Can Paid Content Curation Give Influencers New Revenue.md
+_inbox/podcast_episodes/Collin Jilbert Bootcamps, Ruby Radar, and Finding a Job as a Junior Rails Developer.md
+_inbox/podcast_episodes/Episode 1 - Andrew Mason.md
+_inbox/podcast_episodes/Episode 372 The Debut of the Ruby on Rails Podcast.md
+_inbox/podcast_episodes/Hasty Treat - VSCode Extensions and Tips.md
+_inbox/podcast_episodes/Learning in Public  Alpine &amp; Inertia.md
+_inbox/podcast_episodes/Obsidian in-Depth Third-Party Plugins.md
+_inbox/podcast_episodes/Starting the New Year With New Shortcuts, Workflows, Apps, and More.md
+_inbox/podcast_episodes/The Future of the Web Is HTML Over the Wire.md
+_inbox/podcast_episodes/The Rule of Three.md
+_inbox/podcast_episodes/Upside Down Marginal Cost.md
+_inbox/tweets/1. A Long Rant About Rub....md
+_inbox/tweets/A Funny Lie of Adult Lif....md
+_inbox/tweets/A Simple Habit Tracker F....md
+_inbox/tweets/Crash Course #3 🖥📸 Spee....md
+_inbox/tweets/Do You Use Obsidian And....md
+_inbox/tweets/Things I Know at 31 That....md
+_inbox/tweets/Tweets From Maggie Appleton 🧭.md
+_inbox/tweets/Tweets From Monica D.T. Rysavy, Ph.D., Ed.D..md
+_inbox/tweets/Tweets From Schneems (💉x3) &amp;&amp; 🇺🇦.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
                                         <span class="repo">andrewmcodes/andrewmcodes-v7</span>
                                     </div>
                                 </div>
@@ -3356,26 +3538,6 @@
                                     <div class="commit">
                                         <div class="sha">#00c5d9e</div>
                                         <div class="message">style: format</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/andrewmcodes-v7</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">add-framework</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#298cefa</div>
-                                        <div class="message">fix: correct build failure</div>
                                     </div>
                                 </div>
                             </section>
@@ -4246,7 +4408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Mar 2023, 20:12:31 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 4 Mar 2023, 21:01:24 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
