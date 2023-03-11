@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 3029 repositories
+                            Starred 3032 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    417 MB used
+                                    418 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    5.67m added, 4.82m removed
+                                    5.51m added, 4.76m removed
                                 </div>
                             </section>
                             <section>
@@ -445,12 +445,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 101 commits)</small>
+                    <small class="h-details">(computed from last 100 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 42.3 characters per line of code written</li>
+                        <li>Has approximately 42.4 characters per line of code written</li>
                         <li>Mostly pushes code around 15:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -571,8 +571,8 @@
                             21
                         </div>
                         <div class="entry">
-                            <span class="value">5</span>
-                            <div class="bar" style="height: 22.727272727272727px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">4</span>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -597,8 +597,8 @@
                                 Mon
                             </div>
                             <div class="entry">
-                                <span class="value">2</span>
-                                <div class="bar" style="height: 4px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1</span>
+                                <div class="bar" style="height: 2px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
@@ -628,27 +628,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 4.250020523152156%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 4.115952543627214%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">5%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 2.5628858862849557%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.5307398613802605%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 1.4023050334561395%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.4054897853516928%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 0.02917235683343863%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.02923860969319916%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.014005634002123523%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.01403744196713293%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1745,7 +1745,7 @@
                                 </svg>
                                 _Inbox
                             </h2>
-                            <div class="count">70 repositories</div>
+                            <div class="count">71 repositories</div>
                             <div class="description">Repos to review.</div>
                             <div class="languages">
                                 <div class="row">
@@ -1754,23 +1754,23 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="106.77966101694915" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="106.77966101694915" y="0" width="85.42372881355932" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="192.20338983050848" y="0" width="49.83050847457627" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="242.03389830508476" y="0" width="35.59322033898305" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="277.6271186440678" y="0" width="21.35593220338983" height="8" fill="#563d7c"/>
-                                        <rect mask="url(#languages-bar)" x="298.9830508474576" y="0" width="21.35593220338983" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="320.33898305084745" y="0" width="21.35593220338983" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="341.6949152542373" y="0" width="14.23728813559322" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="355.9322033898305" y="0" width="7.11864406779661" height="8" fill="#f05138"/>
-                                        <rect mask="url(#languages-bar)" x="363.05084745762707" y="0" width="7.11864406779661" height="8" fill="#ff3e00"/>
-                                        <rect mask="url(#languages-bar)" x="370.16949152542367" y="0" width="7.11864406779661" height="8" fill="#a91e50"/>
-                                        <rect mask="url(#languages-bar)" x="377.28813559322026" y="0" width="7.11864406779661" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="384.40677966101686" y="0" width="7.11864406779661" height="8" fill="#c1d026"/>
-                                        <rect mask="url(#languages-bar)" x="391.52542372881345" y="0" width="7.11864406779661" height="8" fill="#4f5d95"/>
-                                        <rect mask="url(#languages-bar)" x="398.64406779661005" y="0" width="7.11864406779661" height="8" fill="#41b883"/>
-                                        <rect mask="url(#languages-bar)" x="405.76271186440664" y="0" width="7.11864406779661" height="8" fill="#ff5a03"/>
-                                        <rect mask="url(#languages-bar)" x="412.88135593220323" y="0" width="7.11864406779661" height="8" fill="#000080"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="105" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="105" y="0" width="91" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="196" y="0" width="49" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="245.00000000000003" y="0" width="35" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="280.00000000000006" y="0" width="21" height="8" fill="#563d7c"/>
+                                        <rect mask="url(#languages-bar)" x="301.00000000000006" y="0" width="21" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="322.00000000000006" y="0" width="21" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="343.0000000000001" y="0" width="14" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="357.00000000000006" y="0" width="7" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="364.0000000000001" y="0" width="7" height="8" fill="#ff3e00"/>
+                                        <rect mask="url(#languages-bar)" x="371.0000000000001" y="0" width="7" height="8" fill="#a91e50"/>
+                                        <rect mask="url(#languages-bar)" x="378.00000000000017" y="0" width="7" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="385.00000000000017" y="0" width="7" height="8" fill="#c1d026"/>
+                                        <rect mask="url(#languages-bar)" x="392.00000000000017" y="0" width="7" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="399.0000000000002" y="0" width="7" height="8" fill="#41b883"/>
+                                        <rect mask="url(#languages-bar)" x="406.0000000000002" y="0" width="7" height="8" fill="#ff5a03"/>
+                                        <rect mask="url(#languages-bar)" x="413.0000000000003" y="0" width="7" height="8" fill="#000080"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1783,7 +1783,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>21.43%</div>
+                                                <div>21.13%</div>
                                                 <div>15★</div>
                                             </small>
                                         </div>
@@ -1795,7 +1795,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>10%</div>
+                                                <div>9.86%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
@@ -1807,7 +1807,7 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>4.29%</div>
+                                                <div>4.23%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1819,7 +1819,7 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>4.29%</div>
+                                                <div>4.23%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1831,7 +1831,7 @@
                                                 Swift
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1843,7 +1843,7 @@
                                                 EJS
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1855,7 +1855,7 @@
                                                 Twig
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1867,7 +1867,7 @@
                                                 Vue
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1879,7 +1879,7 @@
                                                 Lua
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1893,8 +1893,8 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>17.14%</div>
-                                                <div>12★</div>
+                                                <div>18.31%</div>
+                                                <div>13★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1905,7 +1905,7 @@
                                                 HTML
                                             </div>
                                             <small>
-                                                <div>7.14%</div>
+                                                <div>7.04%</div>
                                                 <div>5★</div>
                                             </small>
                                         </div>
@@ -1917,7 +1917,7 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>4.29%</div>
+                                                <div>4.23%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1929,7 +1929,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>2.86%</div>
+                                                <div>2.82%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1941,7 +1941,7 @@
                                                 Svelte
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1953,7 +1953,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1965,7 +1965,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1977,7 +1977,7 @@
                                                 Astro
                                             </div>
                                             <small>
-                                                <div>1.43%</div>
+                                                <div>1.41%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3284,6 +3284,45 @@
                                     </svg>
                                     <div class="content">
                                         Starred
+                                        <span class="repo">katiefenn/parker</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">jensmtg/influx</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">Yakitrak/obsidian-cli</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
                                         <span class="repo">giselle197/obsidian-external-links-in-document</span>
                                     </div>
                                 </div>
@@ -3298,45 +3337,6 @@
                                     <div class="content">
                                         Starred
                                         <span class="repo">702573N/Obsidian-Tasks-Timeline</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">702573N/Obsidian-Tasks-Calendar</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">lizard-heart/obsidian-note-content-pusher</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">brianpetro/obsidian-smart-connections</span>
                                     </div>
                                 </div>
                             </section>
@@ -3433,7 +3433,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="209.66333333333333 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="209.97333333333333 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-linejoin="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -3452,7 +3452,7 @@
                                     <span class="prefix">Master</span>
                                     stargazer
                                 </div>
-                                <div class="text">Starred 3029 repositories</div>
+                                <div class="text">Starred 3032 repositories</div>
                             </div>
                         </div>
                         <div class="achievement s largeable-width-half">
@@ -4171,7 +4171,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2023, 07:01:23 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
+                <span>Last updated 11 Mar 2023, 08:01:19 (timezone America/Phoenix) with lowlighter/metrics@3.32.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
