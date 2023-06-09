@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.50m added, 3.59m removed
+                                    2.31m added, 1.46m removed
                                 </div>
                             </section>
                             <section>
@@ -1749,7 +1749,7 @@
                                 </svg>
                                 _Inbox
                             </h2>
-                            <div class="count">105 repositories</div>
+                            <div class="count">106 repositories</div>
                             <div class="description">Repos to review.</div>
                             <div class="languages">
                                 <div class="row">
@@ -1758,26 +1758,26 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="87.6923076923077" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="87.6923076923077" y="0" width="69.23076923076923" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="156.92307692307693" y="0" width="46.15384615384615" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="203.07692307692307" y="0" width="41.53846153846154" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="244.61538461538464" y="0" width="32.30769230769231" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="276.92307692307696" y="0" width="27.692307692307693" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="304.61538461538464" y="0" width="18.461538461538463" height="8" fill="#563d7c"/>
-                                        <rect mask="url(#languages-bar)" x="323.0769230769231" y="0" width="18.461538461538463" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="341.53846153846155" y="0" width="13.846153846153847" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="355.38461538461536" y="0" width="13.846153846153847" height="8" fill="#555555"/>
-                                        <rect mask="url(#languages-bar)" x="369.2307692307692" y="0" width="9.230769230769232" height="8" fill="#f05138"/>
-                                        <rect mask="url(#languages-bar)" x="378.46153846153845" y="0" width="4.615384615384616" height="8" fill="#ff3e00"/>
-                                        <rect mask="url(#languages-bar)" x="383.0769230769231" y="0" width="4.615384615384616" height="8" fill="#a91e50"/>
-                                        <rect mask="url(#languages-bar)" x="387.6923076923077" y="0" width="4.615384615384616" height="8" fill="#c1d026"/>
-                                        <rect mask="url(#languages-bar)" x="392.30769230769226" y="0" width="4.615384615384616" height="8" fill="#4f5d95"/>
-                                        <rect mask="url(#languages-bar)" x="396.92307692307685" y="0" width="4.615384615384616" height="8" fill="#41b883"/>
-                                        <rect mask="url(#languages-bar)" x="401.5384615384615" y="0" width="4.615384615384616" height="8" fill="#ff5a03"/>
-                                        <rect mask="url(#languages-bar)" x="406.1538461538461" y="0" width="4.615384615384616" height="8" fill="#000080"/>
-                                        <rect mask="url(#languages-bar)" x="410.76923076923066" y="0" width="4.615384615384616" height="8" fill="#da5b0b"/>
-                                        <rect mask="url(#languages-bar)" x="415.38461538461524" y="0" width="4.615384615384616" height="8" fill="#101f1f"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="91.30434782608695" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="91.30434782608695" y="0" width="68.47826086956522" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="159.7826086956522" y="0" width="45.65217391304348" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="205.43478260869566" y="0" width="41.08695652173913" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="246.5217391304348" y="0" width="31.956521739130437" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="278.47826086956525" y="0" width="27.391304347826086" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="305.8695652173913" y="0" width="18.26086956521739" height="8" fill="#563d7c"/>
+                                        <rect mask="url(#languages-bar)" x="324.1304347826087" y="0" width="18.26086956521739" height="8" fill="#dea584"/>
+                                        <rect mask="url(#languages-bar)" x="342.39130434782606" y="0" width="13.695652173913043" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="356.0869565217391" y="0" width="13.695652173913043" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="369.7826086956522" y="0" width="9.130434782608695" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="378.9130434782609" y="0" width="4.565217391304348" height="8" fill="#ff3e00"/>
+                                        <rect mask="url(#languages-bar)" x="383.47826086956525" y="0" width="4.565217391304348" height="8" fill="#a91e50"/>
+                                        <rect mask="url(#languages-bar)" x="388.0434782608696" y="0" width="4.565217391304348" height="8" fill="#c1d026"/>
+                                        <rect mask="url(#languages-bar)" x="392.608695652174" y="0" width="4.565217391304348" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="397.17391304347836" y="0" width="4.565217391304348" height="8" fill="#41b883"/>
+                                        <rect mask="url(#languages-bar)" x="401.73913043478274" y="0" width="4.565217391304348" height="8" fill="#ff5a03"/>
+                                        <rect mask="url(#languages-bar)" x="406.3043478260871" y="0" width="4.565217391304348" height="8" fill="#000080"/>
+                                        <rect mask="url(#languages-bar)" x="410.8695652173914" y="0" width="4.565217391304348" height="8" fill="#da5b0b"/>
+                                        <rect mask="url(#languages-bar)" x="415.4347826086958" y="0" width="4.565217391304348" height="8" fill="#101f1f"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1790,8 +1790,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>18.1%</div>
-                                                <div>19★</div>
+                                                <div>18.87%</div>
+                                                <div>20★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1802,7 +1802,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>9.52%</div>
+                                                <div>9.43%</div>
                                                 <div>10★</div>
                                             </small>
                                         </div>
@@ -1814,7 +1814,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>6.67%</div>
+                                                <div>6.6%</div>
                                                 <div>7★</div>
                                             </small>
                                         </div>
@@ -1826,7 +1826,7 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>3.81%</div>
+                                                <div>3.77%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -1838,7 +1838,7 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>2.86%</div>
+                                                <div>2.83%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1850,7 +1850,7 @@
                                                 Swift
                                             </div>
                                             <small>
-                                                <div>1.9%</div>
+                                                <div>1.89%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -1862,7 +1862,7 @@
                                                 EJS
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1874,7 +1874,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1886,7 +1886,7 @@
                                                 Astro
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1898,7 +1898,7 @@
                                                 Jupyter Notebook
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1912,7 +1912,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>14.29%</div>
+                                                <div>14.15%</div>
                                                 <div>15★</div>
                                             </small>
                                         </div>
@@ -1924,7 +1924,7 @@
                                                 HTML
                                             </div>
                                             <small>
-                                                <div>8.57%</div>
+                                                <div>8.49%</div>
                                                 <div>9★</div>
                                             </small>
                                         </div>
@@ -1936,7 +1936,7 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>5.71%</div>
+                                                <div>5.66%</div>
                                                 <div>6★</div>
                                             </small>
                                         </div>
@@ -1948,7 +1948,7 @@
                                                 Rust
                                             </div>
                                             <small>
-                                                <div>3.81%</div>
+                                                <div>3.77%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -1960,7 +1960,7 @@
                                                 C
                                             </div>
                                             <small>
-                                                <div>2.86%</div>
+                                                <div>2.83%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -1972,7 +1972,7 @@
                                                 Svelte
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1984,7 +1984,7 @@
                                                 Twig
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -1996,7 +1996,7 @@
                                                 Vue
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2008,7 +2008,7 @@
                                                 Lua
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2020,7 +2020,7 @@
                                                 AppleScript
                                             </div>
                                             <small>
-                                                <div>0.95%</div>
+                                                <div>0.94%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -4304,7 +4304,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2023, 19:29:02 (timezone America/Phoenix) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jun 2023, 20:08:38 (timezone America/Phoenix) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
