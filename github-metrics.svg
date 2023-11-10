@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8055 Commits
+                            8045 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -379,7 +379,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 121 commits)</small>
+                    <small class="h-details">(computed from last 122 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -396,82 +396,82 @@
                     <div class="chart-bars">
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 17.647058823529413px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             00
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             01
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             02
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             03
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             04
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.88888888888889px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             05
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.88888888888889px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             06
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             07
                         </div>
                         <div class="entry">
                             <span class="value">11</span>
-                            <div class="bar" style="height: 32.35294117647059px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 30.555555555555557px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             08
                         </div>
                         <div class="entry">
-                            <span class="value">17</span>
+                            <span class="value">18</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             09
                         </div>
                         <div class="entry">
                             <span class="value">12</span>
-                            <div class="bar" style="height: 35.294117647058826px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             10
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 2.941176470588235px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 2.7777777777777777px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 17.647058823529413px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">8</span>
-                            <div class="bar" style="height: 23.52941176470588px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             14
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -486,32 +486,32 @@
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             18
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 5.88235294117647px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             19
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 20.588235294117645px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 19.444444444444446px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             20
                         </div>
                         <div class="entry">
                             <span class="value">5</span>
-                            <div class="bar" style="height: 14.705882352941178px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 13.88888888888889px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             21
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 11.76470588235294px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
                             <span class="value">3</span>
-                            <div class="bar" style="height: 8.823529411764707px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             23
                         </div>
                     </div>
@@ -546,8 +546,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">9</span>
-                                <div class="bar" style="height: 9.574468085106384px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">10</span>
+                                <div class="bar" style="height: 10.638297872340425px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -562,37 +562,37 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 5.632608617121742%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 5.08741837300681%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">6%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 2.4820283108934498%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.2417883594430954%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 2.1021070612095345%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 1.8986403658007953%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Sass</span>
-                                <div class="bar" style="width: 0.22592980591091824%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.20406165663759712%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.08752328707741372%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.07905175186326285%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haml</span>
-                                <div class="bar" style="width: 0.07240281354340299%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0653948159576402%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.054031180171021334%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.048801405778794923%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3294,6 +3294,46 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#e1b82fb</div>
+                                        <div class="message">chore(): backup vault 2023-11-10 09:40:57
+
+Affected files:
++/Solidify Digital Brain Structure.md
+.obsidian/appearance.json
+.obsidian/community-plugins.json
+.obsidian/plugins/custom-font-loader/data.json
+.obsidian/plugins/custom-font-loader/monaspaceargon-regular_otf.css
+.obsidian/plugins/custom-font-loader/monaspaceneon-regular_woff.css
+.obsidian/plugins/dbfolder/data.json
+.obsidian/plugins/obsidian-divide-and-conquer/main.js
+.obsidian/plugins/obsidian-divide-and-conquer/manifest.json
+.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/plugins/obsidian-omnivore/main.js
+.obsidian/plugins/obsidian-omnivore/manifest.json
+.obsidian/plugins/obsidian-tasks-plugin/data.json
+.obsidian/plugins/obsidian-tasks-plugin/main.js
+.obsidian/plugins/obsidian-tasks-plugin/manifest.json
+.obsidian/plugins/obsidian-tasks-plugin/styles.css
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/templater-obsidian/data.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#c837957</div>
                                         <div class="message">chore(): backup vault 2023-11-10 08:40:10
 
@@ -3654,103 +3694,6 @@ notes/Zettelkasten Method.md
 ruby.gem.gemspec.md
 sh.zsh.md
 web.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e42e120</div>
-                                        <div class="message">chore(): backup vault 2023-11-10 03:07:33
-
-Affected files:
-+/Solidify Digital Brain Structure.md
-+/app.chatgpt.ext.ifttt.md
-.obsidian/workspace.json
-3 Resources/My Capture Workflow.md
-Extensions.md
-app.obsidian.ext.actions-uri.md
-app.obsidian.ext.advanced-merger.md
-app.obsidian.ext.advanced-toolbar.md
-app.obsidian.ext.advanced-uri.md
-app.obsidian.ext.ai-research-assistant.md
-app.obsidian.ext.auto-card-link.md
-app.obsidian.ext.auto-moc.md
-app.obsidian.ext.auto-note-mover.md
-app.obsidian.ext.buttons.md
-app.obsidian.ext.calendar.md
-app.obsidian.ext.cm-editor-syntax-highlight-obsidian.md
-app.obsidian.ext.cmdr.md
-app.obsidian.ext.code-files.md
-app.obsidian.ext.code-styler.md
-app.obsidian.ext.contextual-typography.md
-app.obsidian.ext.daily-note-pinner.md
-app.obsidian.ext.darlal-switcher-plus.md
-app.obsidian.ext.dbfolder.md
-app.obsidian.ext.gist.md
-app.obsidian.ext.hider.md
-app.obsidian.ext.hotkey-helper.md
-app.obsidian.ext.hotkeysplus-obsidian.md
-app.obsidian.ext.importer.md
-app.obsidian.ext.inline-code-highlight.md
-app.obsidian.ext.keyboard-analyzer.md
-app.obsidian.ext.keyshots.md
-app.obsidian.ext.linter.md
-app.obsidian.ext.list-callouts.md
-app.obsidian.ext.media-extended.md
-app.obsidian.ext.nldates-obsidian.md
-app.obsidian.ext.note-archiver.md
-app.obsidian.ext.note-refactor-obsidian.md
-app.obsidian.ext.obsidian-advanced-uri.md
-app.obsidian.ext.obsidian-contextual-typography.md
-app.obsidian.ext.obsidian-gist.md
-app.obsidian.ext.obsidian-git.md
-app.obsidian.ext.obsidian-hider.md
-app.obsidian.ext.obsidian-importer.md
-app.obsidian.ext.obsidian-linter.md
-app.obsidian.ext.obsidian-list-callouts.md
-app.obsidian.ext.obsidian-minimal-settings.md
-app.obsidian.ext.obsidian-outliner.md
-app.obsidian.ext.obsidian-projects.md
-app.obsidian.ext.obsidian-rapid-notes.md
-app.obsidian.ext.obsidian-shellcommands.md
-app.obsidian.ext.obsidian-shortcut-launcher.md
-app.obsidian.ext.obsidian-style-settings.md
-app.obsidian.ext.obsidian-tasks-plugin.md
-app.obsidian.ext.obsidian42-brat.md
-app.obsidian.ext.omnisearch.md
-app.obsidian.ext.omnivore.md
-app.obsidian.ext.open-gate.md
-app.obsidian.ext.outliner.md
-app.obsidian.ext.oz-clear-unused-images.md
-app.obsidian.ext.periodic-notes.md
-app.obsidian.ext.pieces-for-developers.md
-app.obsidian.ext.projects.md
-app.obsidian.ext.readwise-official.md
-app.obsidian.ext.settings-search.md
-app.obsidian.ext.shortcut-launcher.md
-app.obsidian.ext.smart-connections.md
-app.obsidian.ext.smart-rename.md
-app.obsidian.ext.style-settings.md
-app.obsidian.ext.supercharged-links-obsidian.md
-app.obsidian.ext.table-editor-obsidian.md
-app.obsidian.ext.tag-wrangler.md
-app.obsidian.ext.time-ruler.md
-app.obsidian.ext.workspaces-plus.md
-app.vscode.ext.better-comments.md
-app.vscode.ext.vim.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -4214,7 +4157,7 @@ app.vscode.ext.vim.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 145k out of 45.5m repositories</span>
+                                    <span class="gh">ranked 145k out of 50.4m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 273 stars</div>
                             </div>
@@ -4508,7 +4451,7 @@ app.vscode.ext.vim.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 10 Nov 2023, 09:01:26 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 10 Nov 2023, 10:01:26 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
