@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6262" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6086" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.autosize{width:auto;height:auto}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.topics{display:flex;flex-wrap:wrap}.topics img{border-radius:5px;margin:4px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info,.markdown a{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}.markdown b,.markdown i{display:inline-block;width:97%}.markdown p{margin:8px 0}.markdown ul{padding-left:24px}.markdown a{text-decoration:none}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.autosize{width:auto;height:auto}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#40c463" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6923 Commits
+                            7954 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -158,7 +158,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2 2.5A2.5 2.5 0 014.5 0h8.75a.75.75 0 01.75.75v12.5a.75.75 0 01-.75.75h-2.5a.75.75 0 110-1.5h1.75v-2h-8a1 1 0 00-.714 1.7.75.75 0 01-1.072 1.05A2.495 2.495 0 012 11.5v-9zm10.5-1V9h-8c-.356 0-.694.074-1 .208V2.5a1 1 0 011-1h8zM5 12.25v3.25a.25.25 0 00.4.2l1.45-1.087a.25.25 0 01.3 0L8.6 15.7a.25.25 0 00.4-.2v-3.25a.25.25 0 00-.25-.25h-3.5a.25.25 0 00-.25.25z"/>
                             </svg>
-                            62 Repositories (including 1 fork)
+                            62 Repositories
                         </h2>
                         <div class="row">
                             <section>
@@ -166,13 +166,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8.75.75a.75.75 0 00-1.5 0V2h-.984c-.305 0-.604.08-.869.23l-1.288.737A.25.25 0 013.984 3H1.75a.75.75 0 000 1.5h.428L.066 9.192a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.514 3.514 0 00.686.45A4.492 4.492 0 003 11c.88 0 1.556-.22 2.023-.454a3.515 3.515 0 00.686-.45l.045-.04.016-.015.006-.006.002-.002.001-.002L5.25 9.5l.53.53a.75.75 0 00.154-.838L3.822 4.5h.162c.305 0 .604-.08.869-.23l1.289-.737a.25.25 0 01.124-.033h.984V13h-2.5a.75.75 0 000 1.5h6.5a.75.75 0 000-1.5h-2.5V3.5h.984a.25.25 0 01.124.033l1.29.736c.264.152.563.231.868.231h.162l-2.112 4.692a.75.75 0 00.154.838l.53-.53-.53.53v.001l.002.002.002.002.006.006.016.015.045.04a3.517 3.517 0 00.686.45A4.492 4.492 0 0013 11c.88 0 1.556-.22 2.023-.454a3.512 3.512 0 00.686-.45l.045-.04.01-.01.006-.005.006-.006.002-.002.001-.002-.529-.531.53.53a.75.75 0 00.154-.838L13.823 4.5h.427a.75.75 0 000-1.5h-2.234a.25.25 0 01-.124-.033l-1.29-.736A1.75 1.75 0 009.735 2H8.75V.75zM1.695 9.227c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L3 6.327l-1.305 2.9zm10 0c.285.135.718.273 1.305.273s1.02-.138 1.305-.273L13 6.327l-1.305 2.9z"/>
                                     </svg>
-                                    Prefers MIT license
+                                    No license preference
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
                                     </svg>
-                                    55 Releases
+                                    0 Releases
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    575k added, 100k removed
+                                    0 added, 0 removed
                                 </div>
                             </section>
                             <section>
@@ -204,19 +204,19 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
-                                    331 Stargazers
+                                    0 Stargazers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                     </svg>
-                                    71 Forkers
+                                    0 Forkers
                                 </div>
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M1.679 7.932c.412-.621 1.242-1.75 2.366-2.717C5.175 4.242 6.527 3.5 8 3.5c1.473 0 2.824.742 3.955 1.715 1.124.967 1.954 2.096 2.366 2.717a.119.119 0 010 .136c-.412.621-1.242 1.75-2.366 2.717C10.825 11.758 9.473 12.5 8 12.5c-1.473 0-2.824-.742-3.955-1.715C2.92 9.818 2.09 8.69 1.679 8.068a.119.119 0 010-.136zM8 2c-1.981 0-3.67.992-4.933 2.078C1.797 5.169.88 6.423.43 7.1a1.619 1.619 0 000 1.798c.45.678 1.367 1.932 2.637 3.024C4.329 13.008 6.019 14 8 14c1.981 0 3.67-.992 4.933-2.078 1.27-1.091 2.187-2.345 2.637-3.023a1.619 1.619 0 000-1.798c-.45-.678-1.367-1.932-2.637-3.023C11.671 2.992 9.981 2 8 2zm0 8a2 2 0 100-4 2 2 0 000 4z"/>
                                     </svg>
-                                    85 Watchers
+                                    0 Watchers
                                 </div>
                             </section>
                         </div>
@@ -228,74 +228,12 @@
                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                         <path fill-rule="evenodd" d="M1.5 2.75a.25.25 0 01.25-.25h12.5a.25.25 0 01.25.25v8.5a.25.25 0 01-.25.25h-6.5a.75.75 0 00-.53.22L4.5 14.44v-2.19a.75.75 0 00-.75-.75h-2a.25.25 0 01-.25-.25v-8.5zM1.75 1A1.75 1.75 0 000 2.75v8.5C0 12.216.784 13 1.75 13H3v1.543a1.457 1.457 0 002.487 1.03L8.061 13h6.189A1.75 1.75 0 0016 11.25v-8.5A1.75 1.75 0 0014.25 1H1.75zm5.03 3.47a.75.75 0 010 1.06L5.31 7l1.47 1.47a.75.75 0 01-1.06 1.06l-2-2a.75.75 0 010-1.06l2-2a.75.75 0 011.06 0zm2.44 0a.75.75 0 000 1.06L10.69 7 9.22 8.47a.75.75 0 001.06 1.06l2-2a.75.75 0 000-1.06l-2-2a.75.75 0 00-1.06 0z"/>
                     </svg>
-                    22 Languages
+                    14 Languages
                 </h2>
             </section>
             <section class="column">
                 <h3 class="field">Most used languages</h3>
-                <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
-                    <mask id="languages-bar">
-                        <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
-                    </mask>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="187.3291518767622" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="187.3291518767622" y="0" width="119.56496257815806" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="306.89411445492027" y="0" width="75.91244921138396" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="382.80656366630427" y="0" width="46.76273477446707" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="429.5692984407713" y="0" width="9.744446788298264" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="439.3137452290696" y="0" width="8.716400468407706" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="448.0301456974773" y="0" width="7.418835518963673" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="455.4489812164409" y="0" width="4.551018783559088" height="8" fill="#89e051"/>
-                </svg>
                 <div class="field center horizontal-wrap fill-width">
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        JavaScript
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Ruby
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#3572A5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Python
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        HTML
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        PHP
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        CSS
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#e38c00" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        TSQL
-                    </div>
-                    <div class="field center no-wrap language">
-                        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#89e051" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                        </svg>
-                        Shell
-                    </div>
                 </div>
             </section>
             <section>
@@ -403,8 +341,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -441,12 +379,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 89 commits)</small>
+                    <small class="h-details">(computed from last 92 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 44.1 characters per line of code written</li>
+                        <li>Has approximately 44.0 characters per line of code written</li>
                         <li>Mostly pushes code around 09:00</li>
                         <li>Mostly active on Tuesday</li>
                     </ul>
@@ -487,8 +425,8 @@
                             05
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 13.333333333333334px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 23.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             06
                         </div>
                         <div class="entry">
@@ -608,8 +546,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">16</span>
-                                <div class="bar" style="height: 36.36363636363637px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">19</span>
+                                <div class="bar" style="height: 43.18181818181818px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -624,32 +562,32 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 5.213735829328442%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">7%</span>
+                                <div class="bar" style="width: 3.554029665598684%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 2.278648985868074%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">HTML</span>
-                                <div class="bar" style="width: 1.2703663787716144%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.553278945915564%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">HTML</span>
+                                <div class="bar" style="width: 0.8659663519843196%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">1%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Sass</span>
-                                <div class="bar" style="width: 0.2501423048602198%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.17051365876528518%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haml</span>
-                                <div class="bar" style="width: 0.0801620954131769%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.05464382440559505%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.034795948757394675%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.023719236680689516%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3351,6 +3289,1004 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#1c0ffcc</div>
+                                        <div class="message">chore(): backup vault 2023-11-17 06:54:49
+
+Affected files:
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/bookmarks.json
+.obsidian/community-plugins.json
+.obsidian/plugins/advanced-toolbar/data.json
+.obsidian/plugins/advanced-toolbar/main.js
+.obsidian/plugins/advanced-toolbar/manifest.json
+.obsidian/plugins/advanced-toolbar/styles.css
+.obsidian/plugins/attachment-management/data.json
+.obsidian/plugins/attachment-management/main.js
+.obsidian/plugins/attachment-management/manifest.json
+.obsidian/plugins/attachment-management/styles.css
+.obsidian/plugins/auto-note-mover/main.js
+.obsidian/plugins/auto-note-mover/manifest.json
+.obsidian/plugins/buttons/manifest.json
+.obsidian/plugins/buttons/styles.css
+.obsidian/plugins/custom-font-loader/data.json
+.obsidian/plugins/custom-font-loader/main.js
+.obsidian/plugins/custom-font-loader/manifest.json
+.obsidian/plugins/daily-note-pinner/main.js
+.obsidian/plugins/daily-note-pinner/manifest.json
+.obsidian/plugins/darlal-switcher-plus/main.js
+.obsidian/plugins/darlal-switcher-plus/manifest.json
+.obsidian/plugins/darlal-switcher-plus/styles.css
+.obsidian/plugins/execute-code/data.json
+.obsidian/plugins/execute-code/main.js
+.obsidian/plugins/execute-code/manifest.json
+.obsidian/plugins/execute-code/styles.css
+.obsidian/plugins/file-tree-alternative/main.js
+.obsidian/plugins/file-tree-alternative/manifest.json
+.obsidian/plugins/file-tree-alternative/styles.css
+.obsidian/plugins/keyboard-analyzer/main.js
+.obsidian/plugins/keyboard-analyzer/manifest.json
+.obsidian/plugins/keyboard-analyzer/styles.css
+.obsidian/plugins/keyshots/data.json
+.obsidian/plugins/keyshots/main.js
+.obsidian/plugins/keyshots/manifest.json
+.obsidian/plugins/keyshots/styles.css
+.obsidian/plugins/leader-hotkeys-obsidian/data.json
+.obsidian/plugins/leader-hotkeys-obsidian/main.js
+.obsidian/plugins/leader-hotkeys-obsidian/manifest.json
+.obsidian/plugins/leader-hotkeys-obsidian/styles.css
+.obsidian/plugins/obsidian-contextual-typography/main.js
+.obsidian/plugins/obsidian-contextual-typography/manifest.json
+.obsidian/plugins/obsidian-day-planner/data.json
+.obsidian/plugins/obsidian-day-planner/main.js
+.obsidian/plugins/obsidian-day-planner/manifest.json
+.obsidian/plugins/obsidian-day-planner/styles.css
+.obsidian/plugins/obsidian-divide-and-conquer/main.js
+.obsidian/plugins/obsidian-divide-and-conquer/manifest.json
+.obsidian/plugins/obsidian-doubleshift/main.js
+.obsidian/plugins/obsidian-doubleshift/manifest.json
+.obsidian/plugins/obsidian-full-calendar/data.json
+.obsidian/plugins/obsidian-full-calendar/main.js
+.obsidian/plugins/obsidian-full-calendar/manifest.json
+.obsidian/plugins/obsidian-full-calendar/styles.css
+.obsidian/plugins/obsidian-hider/data.json
+.obsidian/plugins/obsidian-importer/main.js
+.obsidian/plugins/obsidian-importer/manifest.json
+.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/plugins/obsidian-omnivore/data.json
+.obsidian/plugins/obsidian-omnivore/main.js
+.obsidian/plugins/obsidian-omnivore/manifest.json
+.obsidian/plugins/obsidian-omnivore/styles.css
+.obsidian/plugins/obsidian-projects/main.js
+.obsidian/plugins/obsidian-projects/manifest.json
+.obsidian/plugins/obsidian-style-settings/data.json
+.obsidian/plugins/obsidian-table-to-csv-exporter/main.js
+.obsidian/plugins/obsidian-table-to-csv-exporter/manifest.json
+.obsidian/plugins/obsidian-tasks-plugin/data.json
+.obsidian/plugins/omnisearch/data.json
+.obsidian/plugins/omnisearch/main.js
+.obsidian/plugins/omnisearch/manifest.json
+.obsidian/plugins/omnisearch/styles.css
+.obsidian/plugins/oz-clear-unused-images/data.json
+.obsidian/plugins/oz-clear-unused-images/main.js
+.obsidian/plugins/oz-clear-unused-images/manifest.json
+.obsidian/plugins/oz-clear-unused-images/styles.css
+.obsidian/plugins/periodic-notes/data.json
+.obsidian/plugins/pieces-for-developers/main.js
+.obsidian/plugins/pieces-for-developers/manifest.json
+.obsidian/plugins/pieces-for-developers/styles.css
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/plugins/recent-files-obsidian/main.js
+.obsidian/plugins/recent-files-obsidian/manifest.json
+.obsidian/plugins/recent-files-obsidian/styles.css
+.obsidian/plugins/smart-connections/data.json
+.obsidian/plugins/smart-connections/main.js
+.obsidian/plugins/smart-connections/manifest.json
+.obsidian/plugins/tag-page-md/main.js
+.obsidian/plugins/tag-page-md/manifest.json
+.obsidian/plugins/tag-page-md/styles.css
+.obsidian/plugins/templater-obsidian/data.json
+.obsidian/plugins/templater-obsidian/main.js
+.obsidian/plugins/templater-obsidian/manifest.json
+.obsidian/plugins/time-ruler/data.json
+.obsidian/plugins/time-ruler/main.js
+.obsidian/plugins/time-ruler/manifest.json
+.obsidian/plugins/time-ruler/styles.css
+.obsidian/workspace.json
+highlights/Readwise Syncs.md
+highlights/🎙 132 - FraudGPT, Apple GPT, Unlimited Jailbreaks, RT-2, Frontier Model Forum, PhotoGuard.md
+highlights/🎙 357. ChatGPT and the Dawn of Computerized Hyper-Intelligence  Brian Roemmele.md
+highlights/🎙 372 – Simone Giertz —  Queen of Shtty Robots, Innovative Engineering, and Design.md
+highlights/🎙 481  Design Thinking —  From Ideation to Execution With Abby Wilson.md
+highlights/🎙 Cognitive Bypassing —  How to Get Out of Your Head and Into Your Life.md
+highlights/🎙 E21 —  VC Insights on Investing in Artificial Intelligence With Sarah Guo and Elad Gil of No Priors Podcast.md
+highlights/🎙 From CoffeeScript to Curl.md
+highlights/🎙 How Ryan Singer Uses OmniGraffle.md
+highlights/🎙 Ramit Sethi —  Winners Have Systems.md
+highlights/🎙 The Art of Conference Speaking With Kevin Murphy.md
+highlights/🎙 The Trouble With Task Management.md
+highlights/🐦 It Is Nearly 2024. Time....md
+highlights/🐦 SolidCache Is Showing Us....md
+highlights/🐦 Tweets From Gorkem Yurtseven.md
+highlights/🐦 Using GPT-4V With Vimium....md
+highlights/🐦 With @RubyConf Coming Fa....md
+highlights/📰 8 Tips for Finding Great Books to Read.md
+highlights/📰 Breadcrumbs - Everything You Need to Know.md
+highlights/📰 Dashboard++ — A Simple Organization and Navigation Method for Obsidian Vaults.md
+highlights/📰 Day 4 You Don't Have the Complete Picture Yet💡.md
+highlights/📰 Halp Universal Help for Fish.md
+highlights/📰 Incremental note-taking.md
+highlights/📰 Obsidian Plugins Review — 23.md
+highlights/📰 Obsidian Plugins Review — 24.md
+highlights/📰 Obsidian Plugins Review — 25.md
+highlights/📰 Obsidian Plugins Review — 26.md
+highlights/📰 Obsidian Plugins Review — 27.md
+highlights/📰 Obsidian Plugins Review — 28.md
+highlights/📰 Obsidian Plugins Review — 29.md
+highlights/📰 Obsidian Plugins Review — 30.md
+highlights/📰 Obsidian Plugins Review — 31.md
+highlights/📰 Oh God, It's Raining Newsletters.md
+highlights/📰 Patterns of Organization.md
+highlights/📰 Rails 7.1 Expands Its Support for ActiveRecord Asynchronous Queries.md
+highlights/📰 Synchronous and Asynchronous Query Execution.md
+highlights/📰 The 7 best time blocking apps in 2023.md
+highlights/📰 Tmux Has Forever Changed the Way I Write Code..md
+highlights/📰 Turbocharge Your Rails App A Comprehensive Guide to Async Queries.md
+highlights/📰 Universe 2023 Copilot Transforms GitHub Into the AI-powered Developer Platform.md
+highlights/📰 Universe’s Key Takeaway Innovate Better With AI-powered Workflows on a Single, Unified Platform.md
+log/daily/2023-11-17.md
+util/quickadd/qa.app.md
+util/templater/Daily Note Template.md
+util/templater/Weekly Note Template.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e86d89d</div>
+                                        <div class="message">chore(): backup vault 2023-11-17 06:24:16
+
+Affected files:
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/plugins/dataview/data.json
+.obsidian/plugins/metadata-menu/data.json
+.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/plugins/quickadd/data.json
+.obsidian/plugins/readwise-official/data.json
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/types.json
+.obsidian/workspace.json
+.tmp/2023-11-17/+/Computer Science.md
+.tmp/2023-11-17/+/Dataview Examples.md
+.tmp/2023-11-17/+/Developer Fonts.md
+.tmp/2023-11-17/+/Learning about shell commands.md
+.tmp/2023-11-17/+/Maintain my dotfiles.md
+.tmp/2023-11-17/+/My Areas of Interest.md
+.tmp/2023-11-17/+/Obsidian Radix Theme.md
+.tmp/2023-11-17/+/Podcast.md
+.tmp/2023-11-17/+/RSS.md
+.tmp/2023-11-17/+/Radix Obsidian Theme.md
+.tmp/2023-11-17/+/Recurring Tasks.md
+.tmp/2023-11-17/+/Saving Bookmarks to Raindrop.md
+.tmp/2023-11-17/+/Solidify Digital Brain Structure.md
+.tmp/2023-11-17/+/Task Management versus Reminder Apps.md
+.tmp/2023-11-17/+/Tracking.md
+.tmp/2023-11-17/+/Tutorials.md
+.tmp/2023-11-17/+/app.Dash.md
+.tmp/2023-11-17/+/app.Setapp.md
+.tmp/2023-11-17/+/apple.spotlight.md
+.tmp/2023-11-17/+/cli.exa.md
+.tmp/2023-11-17/+/db.all.md
+.tmp/2023-11-17/+/jul-19-2023-at-20-36-how-to-learn-faster.md
+.tmp/2023-11-17/+/jun-2-2023-at-19-45-one-big-issue-is-that-i-don-t-actually-plan-out-the-projects-that.md
+.tmp/2023-11-17/+/jun-4-2023-at-01-29-i-need-to-keep-focusing-and-working-on-separating-the-capture-and.md
+.tmp/2023-11-17/+/lang.json.schema.md
+.tmp/2023-11-17/+/lang.shell.md
+.tmp/2023-11-17/+/llm.ChatGPT.md
+.tmp/2023-11-17/+/sep-18-2023-at-18-34-digital-brain.md
+.tmp/2023-11-17/+/thread.md
+.tmp/2023-11-17/1 Projects/My Dotfiles.md
+.tmp/2023-11-17/1 Projects/My Website.md
+.tmp/2023-11-17/1 Projects/One Dark VS Code Theme.md
+.tmp/2023-11-17/1 Projects/PODIA-10371 Lifecycle.canvas
+.tmp/2023-11-17/1 Projects/Podia Blog Project.md
+.tmp/2023-11-17/2 Areas/Dashboards.md
+.tmp/2023-11-17/2 Areas/Digital Brain.md
+.tmp/2023-11-17/2 Areas/Home.md
+.tmp/2023-11-17/2 Areas/Podia DX.md
+.tmp/2023-11-17/2 Areas/Software Development.md
+.tmp/2023-11-17/2 Areas/Work.md
+.tmp/2023-11-17/2 Areas/meetings/20230706-website-and-app-are-unreachable.md
+.tmp/2023-11-17/2 Areas/meetings/20230928-Blog- Kickoff!.md
+.tmp/2023-11-17/2 Areas/meetings/20231017-Jason-Andrea-Call.md
+.tmp/2023-11-17/2 Areas/meetings/20231018 - Site Builder Functionality Concerns.md
+.tmp/2023-11-17/2 Areas/meetings/20231018-Remote Ruby.md
+.tmp/2023-11-17/2 Areas/meetings/20231024 - Blog Site Editor Discussion.md
+.tmp/2023-11-17/2 Areas/meetings/20231024-1-1 Andrew-Pedro.md
+.tmp/2023-11-17/2 Areas/meetings/20231024-Blog.md
+.tmp/2023-11-17/2 Areas/meetings/20231031-1-1 Andrew-Pedro.md
+.tmp/2023-11-17/2 Areas/meetings/20231031-Filter issue rehash.md
+.tmp/2023-11-17/2 Areas/meetings/20231116-stephanie and andrew site editor and Jason Charnes.md
+.tmp/2023-11-17/3 Resources/1Password Adds Passkeys Support.md
+.tmp/2023-11-17/3 Resources/ADHD.md
+.tmp/2023-11-17/3 Resources/AI.md
+.tmp/2023-11-17/3 Resources/Add Inline Headers to TipTap.md
+.tmp/2023-11-17/3 Resources/Amoeba Pattern.md
+.tmp/2023-11-17/3 Resources/Bidirectional Links.md
+.tmp/2023-11-17/3 Resources/Burnout.md
+.tmp/2023-11-17/3 Resources/ChatGPT Custom Instructions.md
+.tmp/2023-11-17/3 Resources/Conventional Commits.md
+.tmp/2023-11-17/3 Resources/Daily Notes.md
+.tmp/2023-11-17/3 Resources/Dataview Snippets.md
+.tmp/2023-11-17/3 Resources/Date Formats.md
+.tmp/2023-11-17/3 Resources/Deadlocks.md
+.tmp/2023-11-17/3 Resources/Debugging Rails Applications.md
+.tmp/2023-11-17/3 Resources/Debugging.md
+.tmp/2023-11-17/3 Resources/Decision-Making.md
+.tmp/2023-11-17/3 Resources/Deep Link vs URL Scheme.md
+.tmp/2023-11-17/3 Resources/Dendron.md
+.tmp/2023-11-17/3 Resources/Design Systems.md
+.tmp/2023-11-17/3 Resources/Developer Wallpaper Prompts.md
+.tmp/2023-11-17/3 Resources/Development Best Practices.md
+.tmp/2023-11-17/3 Resources/Digital Brain Schemas.md
+.tmp/2023-11-17/3 Resources/Document Outline Generator.md
+.tmp/2023-11-17/3 Resources/Eisenhower Matrix.md
+.tmp/2023-11-17/3 Resources/Enabling Keyboard Navigation in Safari.md
+.tmp/2023-11-17/3 Resources/Ergonomics.md
+.tmp/2023-11-17/3 Resources/Generate JSON Schema from JSON.md
+.tmp/2023-11-17/3 Resources/Get Category of Installed Apps.md
+.tmp/2023-11-17/3 Resources/Get YouTube Video Details.md
+.tmp/2023-11-17/3 Resources/Goals.md
+.tmp/2023-11-17/3 Resources/Handling Teammate Departure.md
+.tmp/2023-11-17/3 Resources/Home Assistant.md
+.tmp/2023-11-17/3 Resources/Image Component.md
+.tmp/2023-11-17/3 Resources/Image Generation.md
+.tmp/2023-11-17/3 Resources/Instant Dark Theme.md
+.tmp/2023-11-17/3 Resources/Interviewing.md
+.tmp/2023-11-17/3 Resources/Is Dark Mode Bad for your Eyes.md
+.tmp/2023-11-17/3 Resources/Keybindings.md
+.tmp/2023-11-17/3 Resources/Learning.md
+.tmp/2023-11-17/3 Resources/Life-Inspired Rules for Business and Personal Life.md
+.tmp/2023-11-17/3 Resources/Link-friendly Mac Apps.md
+.tmp/2023-11-17/3 Resources/Linters.md
+.tmp/2023-11-17/3 Resources/Micro Cycle Plan.md
+.tmp/2023-11-17/3 Resources/My Capture Workflow.md
+.tmp/2023-11-17/3 Resources/My Domains.md
+.tmp/2023-11-17/3 Resources/My Website Brand.md
+.tmp/2023-11-17/3 Resources/Note-taking.md
+.tmp/2023-11-17/3 Resources/Object Oriented Note-Taking in Capacities.md
+.tmp/2023-11-17/3 Resources/Organizing Rails Models.md
+.tmp/2023-11-17/3 Resources/PARA.md
+.tmp/2023-11-17/3 Resources/PKM.md
+.tmp/2023-11-17/3 Resources/Passkey.md
+.tmp/2023-11-17/3 Resources/Personal Automation.md
+.tmp/2023-11-17/3 Resources/Personal Knowledge Management Frameworks, Systems, and Methodologies.md
+.tmp/2023-11-17/3 Resources/Pessimistic vs Optimistic Locking in Rails.md
+.tmp/2023-11-17/3 Resources/Productivity.md
+.tmp/2023-11-17/3 Resources/Prompts.md
+.tmp/2023-11-17/3 Resources/Psychology.md
+.tmp/2023-11-17/3 Resources/Quick Capture.md
+.tmp/2023-11-17/3 Resources/Radix Linear Theme.md
+.tmp/2023-11-17/3 Resources/Radix Slack Theme.md
+.tmp/2023-11-17/3 Resources/Radix UI Colors.md
+.tmp/2023-11-17/3 Resources/Radix VS Code Theme.md
+.tmp/2023-11-17/3 Resources/Reading.md
+.tmp/2023-11-17/3 Resources/Regex Recipes.md
+.tmp/2023-11-17/3 Resources/Ruby for All Sponsorship Process.md
+.tmp/2023-11-17/3 Resources/Runbooks.md
+.tmp/2023-11-17/3 Resources/SOPs.md
+.tmp/2023-11-17/3 Resources/Safari Markdown Selection Shortcut.md
+.tmp/2023-11-17/3 Resources/Second Brain.md
+.tmp/2023-11-17/3 Resources/Sharing Shortcuts Visually.md
+.tmp/2023-11-17/3 Resources/Six Thinking Hats.md
+.tmp/2023-11-17/3 Resources/Spinel Theme.md
+.tmp/2023-11-17/3 Resources/Tagging.md
+.tmp/2023-11-17/3 Resources/Technical Writing.md
+.tmp/2023-11-17/3 Resources/Terminal.md
+.tmp/2023-11-17/3 Resources/The flow of data in my second brain.md
+.tmp/2023-11-17/3 Resources/Time Management.md
+.tmp/2023-11-17/3 Resources/Turbo Native Crash Course.md
+.tmp/2023-11-17/3 Resources/UHK Layers.md
+.tmp/2023-11-17/3 Resources/UI Components.md
+.tmp/2023-11-17/3 Resources/URI vs URL.md
+.tmp/2023-11-17/3 Resources/UX.md
+.tmp/2023-11-17/3 Resources/Uses.md
+.tmp/2023-11-17/3 Resources/VIM.md
+.tmp/2023-11-17/3 Resources/a11y.md
+.tmp/2023-11-17/3 Resources/how to maximize press and hold speed on macos for vim users.md
+.tmp/2023-11-17/3 Resources/prompts/Act as Matz.md
+.tmp/2023-11-17/3 Resources/prompts/Act as RubyQL.md
+.tmp/2023-11-17/3 Resources/prompts/Act as Spaced Repition Schedule Planner.md
+.tmp/2023-11-17/3 Resources/prompts/Act as a JavaScript Developer.md
+.tmp/2023-11-17/3 Resources/prompts/Act as a Philosopher.md
+.tmp/2023-11-17/3 Resources/prompts/Analyzing and Enhancing Knowledge on Topic.md
+.tmp/2023-11-17/3 Resources/prompts/Bridging between two existing notes.md
+.tmp/2023-11-17/3 Resources/prompts/Childlike Inquiry for Simplified Learning.md
+.tmp/2023-11-17/3 Resources/prompts/Detailed Document Summary with Takeaways.md
+.tmp/2023-11-17/3 Resources/prompts/Step-by-Step Comprehensive Work Analysis.md
+.tmp/2023-11-17/3 Resources/prompts/Summarizing key takeaways and topics from highlights.md
+.tmp/2023-11-17/3 Resources/prompts/Topic and Subtopic Finder.md
+.tmp/2023-11-17/3 Resources/🏗️ Workflows.md
+.tmp/2023-11-17/4 Archive/1Password Adds Passkeys Support.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/2022 Reading List.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/readwise/A Classic Pick 2 - AppStories.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/readwise/Document Topic Extraction With Large Language Models (LLM) and the Latent Dirichlet Allocation… - Antonio Jimenez Caballero.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/readwise/The 5-Minute Exercise to Overcome Task Anxiety - Irfan Bhanji.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/readwise/Visual Studio Code August 2023 - code.visualstudio.com.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/readwise/What’s New in Shortcuts for iOS and iPadOS 17.0, macOS 14.0, and watchOS 10.0 » - Matthew Cassinelli.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/readwise/Your Own Personal ChatGPT - Robert A. Gonsalves.md
+.tmp/2023-11-17/4 Archive/2023/09-September/+/readwise/iOS 17 Is Available Today - apple.com.md
+.tmp/2023-11-17/4 Archive/2023/09-September/1 Projects/Fix UHK Layout.md
+.tmp/2023-11-17/4 Archive/2023/09-September/2 Areas/meetings/20230919-John-Andrew-1on1.md
+.tmp/2023-11-17/4 Archive/2023/09-September/All Finder Defaults.md
+.tmp/2023-11-17/4 Archive/2023/09-September/Create Blog Posts Index.md
+.tmp/2023-11-17/4 Archive/2023/09-September/Fix yq using python-yq.md
+.tmp/2023-11-17/4 Archive/2023/09-September/Sign Commits with SSH.md
+.tmp/2023-11-17/4 Archive/2023/09-September/Why You Should Use a Command Palette.md
+.tmp/2023-11-17/4 Archive/2023/09-September/article.1 Perfect Prompt to Make AI Write in Your Style.md
+.tmp/2023-11-17/4 Archive/2023/09-September/article.6 Setapp Apps That Can Simplify Your Plain Text Life, and Work Alongside an Obsidian Vault.md
+.tmp/2023-11-17/4 Archive/2023/09-September/article.7 Premium macOS Apps That Are Worth Using Over Free Alternatives.md
+.tmp/2023-11-17/4 Archive/2023/09-September/article.9 Rare to Find macOS Apps You Wish You Installed Earlier.md
+.tmp/2023-11-17/4 Archive/2023/09-September/article.Better Git Diffs With FZF.md
+.tmp/2023-11-17/4 Archive/2023/09-September/article.Convert JSON to YAML From the Command Line.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/- 1-Week Plan for Learning Vim Motions.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/-- Python Notebooks and Usage in VS Code.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/Jul 6, 2023-1- Discovers the problem with my code by writing notes. Basically, I….md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/Sep 12, 2023-1- create note for git branch.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/apr-2-2018-at-20-42-tim-ferriss-interview-with-gabor-mate.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/aug-14-2023-at-14-08-https-youtu-be-wqqzq2gxhoa.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/aug-9-2023-at-15-18-i-find-i-often-spent-a-lot-more-time-thinking-about-the-types-of-notes 1.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/jul-19-2023-at-19-08-we-could-use-the-nfc-tags-to-do-things-in-the-morning-like-start-the.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/jul-20-2023-at-15-01-how-would-i-learn-to-write-rails-code-again-if-i-do-all-over-again.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/jul-3-2023-at-17-49-i-find-i-often-spent-a-lot-more-time-thinking-about-the-types-of-notes.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/may-13-2023-at-15-08-command-modifier-if-available.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/may-5-2023-at-16-01-the-brain-tag-is-a-universal-tag-i-use-to-indicate-whether-something.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/may-9-2018-at-09-58-one-minute-manager-meets-the-monkey.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/oct-12-2023-at-16-12--brain.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/7 Advanced Prompts to Try Out in Notion AI - Boris Slesar.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Automating iOS A Comprehensive Guide to URL Schemes and Drafts Actions - Alex Guyot.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Building My Second Brain 🧠 With Obsidian - 林宜丙.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Debugging Rails Applications — Ruby on Rails Guides - guides.rubyonrails.org.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Define Your Own Objects ​ - capacities.io.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/From CoffeeScript to Curl - Ruby for All.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Guidelines - Rauno Freiberg.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Here’s Why You Should Be Using Custom Instructions in ChatGPT - Chandler K.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/It's Not You - It's Your Knowledge Base - kevinslin.com.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Journaling in Obsidian — My Daily, Weekly, Monthly and Yearly Review Templates - Marco Serafini.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Make Useful Notes. Use AI. - Edmund Gröpl.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/My Obsidian Setup Theme Tweaks for a Productive Vault - Trevor Tarakjian.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Power-Using ChatGPT With Notion AI (To Get Business-Usable Results) UPD 21 March on Properties - Vitaly 'Sithamet' Vlas.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Ran Into a Very Tricky I... - @coolprobn on Twitter.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Solid Cache - 37signals Dev.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Suffix Aliases (-S) in ZSH - stefanjudis.com.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/The Only 6 Plugins You Need for Obsidian - Esteban Thilliez.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Using Obsidian to Manage Code Snippets - Josiah Brown.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/Visual Studio Code Themes - code.visualstudio.com.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/You Can Use Obsidian to Replace Todoist. Here’s How… - Theo Stowell.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/🎙 100 Celebrating 100 Automations, and More - Automators.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/🎙 228 – Federico’s Research and Note-Taking Setup - AppStories.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/🎙 233 – Building an Apple-Only Research and Writing Setup - AppStories.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/🎙 76 Automating With Alfred - Automators.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/🎙 99 Automation April - Automators.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/📰 Alfred Gallery Now in Early Access! - Alfred Blog.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/📰 Having Recently Been Through the Technical Interview Process Myself, I... - bat.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/📰 How We Sped Up Rubocop Linting in Our CI by 22x - Jc.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/📰 How to Use GitHub Copilot Prompts, Tips, and Use Cases - Rizel Scarlett.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/📰 The Macintosh Desktop Experience Raycast's Modern Take on Launcher Apps - club.macstories.net.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/📰 The best note taking apps for Mac – markdown, open format, cross platform - David Mytton.md
+.tmp/2023-11-17/4 Archive/2023/10-October/+/readwise/📰 Using Craft for Note-Taking and Project Management - Christopher Lawley.md
+.tmp/2023-11-17/4 Archive/2023/10-October/1 Projects/Create Digital Brain Dashboards.md
+.tmp/2023-11-17/4 Archive/2023/10-October/1 Projects/Create New Radix Alfred Workflow.md
+.tmp/2023-11-17/4 Archive/2023/10-October/1 Projects/Create Second Brain in Obsidian.md
+.tmp/2023-11-17/4 Archive/2023/10-October/1 Projects/PODIA-1620.md
+.tmp/2023-11-17/4 Archive/2023/10-October/1 Projects/Pack for RailsWorld.md
+.tmp/2023-11-17/4 Archive/2023/10-October/1 Projects/TASK-954.md
+.tmp/2023-11-17/4 Archive/2023/10-October/1 Projects/TECH-605.md
+.tmp/2023-11-17/4 Archive/2023/10-October/2 Areas/Personal Development.md
+.tmp/2023-11-17/4 Archive/2023/10-October/2 Areas/Personal Productivity.md
+.tmp/2023-11-17/4 Archive/2023/10-October/2 Areas/VS Code on Rails.md
+.tmp/2023-11-17/4 Archive/2023/10-October/4 Archive/2023/10-October/+/readwise/🎙 205 Wathan Stops By - The Art of Product.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/A Guide to Designing and Shipping AI Developer Tools - Nicole Choi.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/BenCodeZen - Obsidian Office Hours- First Look at Omnivore.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/Bryan Jenks - Making A Personal Knowledge Management Dashboard In Obsidian Canvas 🎨️.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/Reactive Dude - Useful VS Code Shortcuts.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/Ric Raftis - Maximize Productivity With Obsidian Open Gate Plugin- Embed Websites Directly In Your Notes.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/Suboptimal Engineer - Vim Keybindings Setup for Visual Studio Code IntelliSense Navigation.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/bitter tea sweet orange - Setup VSCode Like Neovim For Productivity In 2023.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/readwise/A Sneak Peek of Ruby's New Debugger! - dev.to.md
+.tmp/2023-11-17/4 Archive/2023/10-October/sources/readwise/Obsidian Showcases Dashboards, Daily Notes, Custom CSS, &amp; More - Prakash Joshi Pax.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Assign Apps to Focus.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Automatically Move Notes in Obsidian.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Automatically sort files on mac.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Blog Workflow Headers.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Create Personal Styleguide.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/DX-4.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Define Capture Workflow.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Find all flaky podia specs.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Find new way to store prompts.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Migrate all domains to Cloudflare.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/PODIA-1523.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/PODIA-1568.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/PODIA-1652.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/PODIA-1721.md
+.tmp/2023-11-17/4 Archive/2023/11-November/1 Projects/Setup Neovim on Mac.md
+.tmp/2023-11-17/4 Archive/2023/11-November/2 Areas/My Setup.md
+.tmp/2023-11-17/4 Archive/2023/11-November/3 Resources/Using FZF as a Rails Developer.md
+.tmp/2023-11-17/4 Archive/Create Concept Notes.md
+.tmp/2023-11-17/4 Archive/Creating a Safari Extension and Its File Structure.md
+.tmp/2023-11-17/4 Archive/Dev Docs.md
+.tmp/2023-11-17/4 Archive/PODIA-1721.md
+.tmp/2023-11-17/4 Archive/Replace exa with eza.md
+.tmp/2023-11-17/4 Archive/Replace znap.md
+.tmp/2023-11-17/4 Archive/Set Office Back Up.md
+.tmp/2023-11-17/4 Archive/Setup new iPhone 1.md
+.tmp/2023-11-17/4 Archive/Setup new iPhone.md
+.tmp/2023-11-17/4 Archive/Update Digital Brain Schemas 1.md
+.tmp/2023-11-17/4 Archive/Update Digital Brain Schemas.md
+.tmp/2023-11-17/4 Archive/📰 Power-Using ChatGPT With Notion AI (To Get Business-Usable Results) UPD 21 March on Properties.md
+.tmp/2023-11-17/CRM/Adrian Marin.md
+.tmp/2023-11-17/CRM/Amanda Perino.md
+.tmp/2023-11-17/CRM/Andrew Culver.md
+.tmp/2023-11-17/CRM/Apple.md
+.tmp/2023-11-17/CRM/Ben Hong.md
+.tmp/2023-11-17/CRM/Ben Wood.md
+.tmp/2023-11-17/CRM/Brett Terpstra.md
+.tmp/2023-11-17/CRM/Brian Loomis.md
+.tmp/2023-11-17/CRM/Brittany Martin.md
+.tmp/2023-11-17/CRM/Bryan Jenks.md
+.tmp/2023-11-17/CRM/CodeFund.md
+.tmp/2023-11-17/CRM/Danny Hatcher.md
+.tmp/2023-11-17/CRM/Dave Paola.md
+.tmp/2023-11-17/CRM/Davide Santangelo.md
+.tmp/2023-11-17/CRM/Drew Bragg.md
+.tmp/2023-11-17/CRM/Eileen Uchitelle.md
+.tmp/2023-11-17/CRM/Eric Halverson.md
+.tmp/2023-11-17/CRM/GitHub.md
+.tmp/2023-11-17/CRM/Guilherme Rambo.md
+.tmp/2023-11-17/CRM/Harry Llewelyn.md
+.tmp/2023-11-17/CRM/Jamie Lawrence.md
+.tmp/2023-11-17/CRM/Jason Charnes.md
+.tmp/2023-11-17/CRM/Jason Meller.md
+.tmp/2023-11-17/CRM/Jason Swett.md
+.tmp/2023-11-17/CRM/Jessica Pruitt.md
+.tmp/2023-11-17/CRM/Joe Masilotti.md
+.tmp/2023-11-17/CRM/Joel Hawksley.md
+.tmp/2023-11-17/CRM/John Mavrick.md
+.tmp/2023-11-17/CRM/John Nunemaker.md
+.tmp/2023-11-17/CRM/Josh Branchaud.md
+.tmp/2023-11-17/CRM/Kevin Murphy.md
+.tmp/2023-11-17/CRM/Kevin Newton.md
+.tmp/2023-11-17/CRM/Konnor Rogers.md
+.tmp/2023-11-17/CRM/Maggie Appleton.md
+.tmp/2023-11-17/CRM/Nathan Hopkins.md
+.tmp/2023-11-17/CRM/Nick Milo.md
+.tmp/2023-11-17/CRM/Nicole Van Der Hooven.md
+.tmp/2023-11-17/CRM/Pedro Gaspar.md
+.tmp/2023-11-17/CRM/Podia.md
+.tmp/2023-11-17/CRM/Rustem Mussabekov.md
+.tmp/2023-11-17/CRM/Sindre Sorhus.md
+.tmp/2023-11-17/CRM/Stephanie Wiggins.md
+.tmp/2023-11-17/CRM/Ufuk Kayserilioglu.md
+.tmp/2023-11-17/Dashboards.md
+.tmp/2023-11-17/Extensions.md
+.tmp/2023-11-17/app.ChatGPT.md
+.tmp/2023-11-17/app.Dash.schemes.md
+.tmp/2023-11-17/app.GoodTask.md
+.tmp/2023-11-17/app.Hookmark.md
+.tmp/2023-11-17/app.Linear.md
+.tmp/2023-11-17/app.Pieces.md
+.tmp/2023-11-17/app.Structured.feat.md
+.tmp/2023-11-17/app.alfred.md
+.tmp/2023-11-17/app.obsidian.appearance.snippets.md
+.tmp/2023-11-17/app.obsidian.ext.breadcrumbs.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.commands.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.functions.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.queries.dataviewjs.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.queries.dql.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.queries.inline.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.queries.inlinejs.md
+.tmp/2023-11-17/app.obsidian.ext.dataview.queries.md
+.tmp/2023-11-17/app.obsidian.ext.md
+.tmp/2023-11-17/app.obsidian.ext.metadata-menu.md
+.tmp/2023-11-17/app.obsidian.ext.obsidian-book-search-plugin.md
+.tmp/2023-11-17/app.obsidian.ext.obsidian-tasks-plugin.md
+.tmp/2023-11-17/app.obsidian.ext.quickadd.md
+.tmp/2023-11-17/app.obsidian.ext.templater-obsidian.md
+.tmp/2023-11-17/app.obsidian.md
+.tmp/2023-11-17/app.obsidian.schemes.md
+.tmp/2023-11-17/app.obsidian.theme.md
+.tmp/2023-11-17/app.obsidian.theme.minimal.md
+.tmp/2023-11-17/app.shortcuts.input.md
+.tmp/2023-11-17/app.shortcuts.scheme.md
+.tmp/2023-11-17/app.tana.md
+.tmp/2023-11-17/app.vscode.feat.md
+.tmp/2023-11-17/app.vscode.md
+.tmp/2023-11-17/app.vscode.settings.md
+.tmp/2023-11-17/app.vscode.snippets.md
+.tmp/2023-11-17/app.vscode.tasks.md
+.tmp/2023-11-17/app.vscode.theme.md
+.tmp/2023-11-17/app.warp.md
+.tmp/2023-11-17/apple.ios.md
+.tmp/2023-11-17/apple.ios.v.17.md
+.tmp/2023-11-17/apple.ios.widgets.md
+.tmp/2023-11-17/apple.macos.keybindings.md
+.tmp/2023-11-17/apple.macos.md
+.tmp/2023-11-17/apple.macos.menubar.md
+.tmp/2023-11-17/apple.macos.v.14.md
+.tmp/2023-11-17/apple.siri.md
+.tmp/2023-11-17/apple.store.md
+.tmp/2023-11-17/cli.awk.md
+.tmp/2023-11-17/cli.banner.md
+.tmp/2023-11-17/cli.brew.md
+.tmp/2023-11-17/cli.code.md
+.tmp/2023-11-17/cli.defaults.md
+.tmp/2023-11-17/cli.duti.md
+.tmp/2023-11-17/cli.eza.md
+.tmp/2023-11-17/cli.fd.md
+.tmp/2023-11-17/cli.fzf.md
+.tmp/2023-11-17/cli.gem.md
+.tmp/2023-11-17/cli.gh.ext.md
+.tmp/2023-11-17/cli.gh.md
+.tmp/2023-11-17/cli.git.md
+.tmp/2023-11-17/cli.heroku.md
+.tmp/2023-11-17/cli.jq.md
+.tmp/2023-11-17/cli.md
+.tmp/2023-11-17/cli.npx.md
+.tmp/2023-11-17/cli.shortcuts.md
+.tmp/2023-11-17/cli.skhd.md
+.tmp/2023-11-17/cli.sysctl.md
+.tmp/2023-11-17/cli.tag.md
+.tmp/2023-11-17/cli.tmux.md
+.tmp/2023-11-17/cli.vim.md
+.tmp/2023-11-17/cli.xmllint.md
+.tmp/2023-11-17/cli.yabai.md
+.tmp/2023-11-17/cli.yabai.rule.md
+.tmp/2023-11-17/cli.zi.md
+.tmp/2023-11-17/cli.zip.md
+.tmp/2023-11-17/db.areas.all.md
+.tmp/2023-11-17/db.extensions.all.md
+.tmp/2023-11-17/db.meeting.all.md
+.tmp/2023-11-17/db.organization.all.md
+.tmp/2023-11-17/db.people.all.md
+.tmp/2023-11-17/db.projects.all.md
+.tmp/2023-11-17/dump.rdb
+.tmp/2023-11-17/gem.rails.arel.md
+.tmp/2023-11-17/gem.shoulda-matchers.activerecord.md
+.tmp/2023-11-17/gem.sorbet.rbi.md
+.tmp/2023-11-17/github.feat.actions.md
+.tmp/2023-11-17/github.feat.copilot.md
+.tmp/2023-11-17/github.feat.md
+.tmp/2023-11-17/github.filters.md
+.tmp/2023-11-17/lang.css.md
+.tmp/2023-11-17/lang.html.el.a.md
+.tmp/2023-11-17/lang.html.el.button.md
+.tmp/2023-11-17/lang.html.el.form.md
+.tmp/2023-11-17/lang.html.el.md
+.tmp/2023-11-17/lang.html.el.script.importmap.md
+.tmp/2023-11-17/lang.html.md
+.tmp/2023-11-17/lang.js.md
+.tmp/2023-11-17/lang.json.md
+.tmp/2023-11-17/lang.md
+.tmp/2023-11-17/lang.ruby.md
+.tmp/2023-11-17/lang.ruby.object.module.md
+.tmp/2023-11-17/lang.ruby.object.proc.md
+.tmp/2023-11-17/lang.sql.md
+.tmp/2023-11-17/log/daily/2023-06-02.md
+.tmp/2023-11-17/log/daily/2023-06-03.md
+.tmp/2023-11-17/log/daily/2023-06-09.md
+.tmp/2023-11-17/log/daily/2023-06-20.md
+.tmp/2023-11-17/log/daily/2023-07-03.md
+.tmp/2023-11-17/log/daily/2023-07-04.md
+.tmp/2023-11-17/log/daily/2023-07-06.md
+.tmp/2023-11-17/log/daily/2023-07-17.md
+.tmp/2023-11-17/log/daily/2023-07-18.md
+.tmp/2023-11-17/log/daily/2023-07-19.md
+.tmp/2023-11-17/log/daily/2023-07-20.md
+.tmp/2023-11-17/log/daily/2023-07-21.md
+.tmp/2023-11-17/log/daily/2023-07-22.md
+.tmp/2023-11-17/log/daily/2023-07-23.md
+.tmp/2023-11-17/log/daily/2023-08-01.md
+.tmp/2023-11-17/log/daily/2023-08-02.md
+.tmp/2023-11-17/log/daily/2023-08-03.md
+.tmp/2023-11-17/log/daily/2023-08-04.md
+.tmp/2023-11-17/log/daily/2023-08-05.md
+.tmp/2023-11-17/log/daily/2023-08-06.md
+.tmp/2023-11-17/log/daily/2023-08-07.md
+.tmp/2023-11-17/log/daily/2023-08-08.md
+.tmp/2023-11-17/log/daily/2023-08-09.md
+.tmp/2023-11-17/log/daily/2023-08-14.md
+.tmp/2023-11-17/log/daily/2023-08-15.md
+.tmp/2023-11-17/log/daily/2023-08-16.md
+.tmp/2023-11-17/log/daily/2023-08-24.md
+.tmp/2023-11-17/log/daily/2023-08-25.md
+.tmp/2023-11-17/log/daily/2023-09-08.md
+.tmp/2023-11-17/log/daily/2023-09-09.md
+.tmp/2023-11-17/log/daily/2023-09-11.md
+.tmp/2023-11-17/log/daily/2023-09-12.md
+.tmp/2023-11-17/log/daily/2023-09-13.md
+.tmp/2023-11-17/log/daily/2023-09-14.md
+.tmp/2023-11-17/log/daily/2023-09-18.md
+.tmp/2023-11-17/log/daily/2023-09-19.md
+.tmp/2023-11-17/log/daily/2023-09-20.md
+.tmp/2023-11-17/log/daily/2023-09-26.md
+.tmp/2023-11-17/log/daily/2023-09-27.md
+.tmp/2023-11-17/log/daily/2023-09-28.md
+.tmp/2023-11-17/log/daily/2023-10-11.md
+.tmp/2023-11-17/log/daily/2023-10-12.md
+.tmp/2023-11-17/log/daily/2023-10-13.md
+.tmp/2023-11-17/log/daily/2023-10-14.md
+.tmp/2023-11-17/log/daily/2023-10-16.md
+.tmp/2023-11-17/log/daily/2023-10-17.md
+.tmp/2023-11-17/log/daily/2023-10-18.md
+.tmp/2023-11-17/log/daily/2023-10-24.md
+.tmp/2023-11-17/log/daily/2023-10-25.md
+.tmp/2023-11-17/log/daily/2023-10-26.md
+.tmp/2023-11-17/log/daily/2023-10-30.md
+.tmp/2023-11-17/log/daily/2023-10-31.md
+.tmp/2023-11-17/log/daily/2023-11-01.md
+.tmp/2023-11-17/log/daily/2023-11-02.md
+.tmp/2023-11-17/log/daily/2023-11-06.md
+.tmp/2023-11-17/log/daily/2023-11-07.md
+.tmp/2023-11-17/log/daily/2023-11-08.md
+.tmp/2023-11-17/log/daily/2023-11-10.md
+.tmp/2023-11-17/log/daily/2023-11-16.md
+.tmp/2023-11-17/log/daily/2023-11-17.md
+.tmp/2023-11-17/log/quarterly/2023-Q3.md
+.tmp/2023-11-17/log/weekly/2023-W15.md
+.tmp/2023-11-17/log/weekly/2023-W21.md
+.tmp/2023-11-17/log/weekly/2023-W22.md
+.tmp/2023-11-17/log/weekly/2023-W23.md
+.tmp/2023-11-17/log/weekly/2023-W24.md
+.tmp/2023-11-17/log/weekly/2023-W25.md
+.tmp/2023-11-17/log/weekly/2023-W27.md
+.tmp/2023-11-17/log/weekly/2023-W31.md
+.tmp/2023-11-17/log/weekly/2023-W32.md
+.tmp/2023-11-17/notes/Bionic Reading Method and Benefits.md
+.tmp/2023-11-17/notes/Exploring Dendron.md
+.tmp/2023-11-17/notes/Frameworks vs Systems.md
+.tmp/2023-11-17/notes/Getting Lost in Note-Taking Details.md
+.tmp/2023-11-17/notes/How I Would Relearn Ruby on Rails.md
+.tmp/2023-11-17/notes/How to Create Desktop Wallpapers in Figma.md
+.tmp/2023-11-17/notes/How to Diff Two Versions of a Node Module.md
+.tmp/2023-11-17/notes/How to Enable the Push API on iOS.md
+.tmp/2023-11-17/notes/How to trigger IFTTT applet from Apple Shortcuts.md
+.tmp/2023-11-17/notes/Install macOS Quick Look Plugins via Homebrew.md
+.tmp/2023-11-17/notes/Migrate from exa to eza.md
+.tmp/2023-11-17/notes/My Favorite Podcast App of 2023.md
+.tmp/2023-11-17/notes/Reflections on Burnout and Transition from CodeFund.md
+.tmp/2023-11-17/notes/Shortform App Review.md
+.tmp/2023-11-17/notes/The Role of Daily Planner Apps.md
+.tmp/2023-11-17/notes/Understanding and Managing Imposter Syndrome.md
+.tmp/2023-11-17/notes/What is Apple True Tone.md
+.tmp/2023-11-17/notes/What is a Runbook.md
+.tmp/2023-11-17/notes/Zettelkasten Method.md
+.tmp/2023-11-17/npm.md
+.tmp/2023-11-17/readwise/Readwise Syncs.md
+.tmp/2023-11-17/readwise/🎙 472 —  It's Fun to Imagine With Stephen.md
+.tmp/2023-11-17/readwise/🎙 From CoffeeScript to Curl.md
+.tmp/2023-11-17/readwise/🐦 HEY Is Running No Build....md
+.tmp/2023-11-17/readwise/📰 Automating iOS A Comprehensive Guide to URL Schemes and Drafts Actions.md
+.tmp/2023-11-17/readwise/📰 From Things 3 to GoodTask With Reminders.md
+.tmp/2023-11-17/readwise/📰 How I Import My Meetings Into My Obsidian Daily Note.md
+.tmp/2023-11-17/readwise/📰 How to Community.md
+.tmp/2023-11-17/readwise/📰 How to Summarize Books Using ChatGPT 7 Experiments in AI Distillation.md
+.tmp/2023-11-17/readwise/📰 It's Not You - It's Your Knowledge Base.md
+.tmp/2023-11-17/readwise/📰 Make Useful Notes. Use AI..md
+.tmp/2023-11-17/readwise/📰 Power-Using ChatGPT With Notion AI (To Get Business-Usable Results) UPD 21 March on Properties.md
+.tmp/2023-11-17/readwise/📰 Reader Frequently Asked Questions.md
+.tmp/2023-11-17/readwise/📰 The Dark Side of Dark Mode.md
+.tmp/2023-11-17/readwise/📰 Useful Github Search to Find All PRS in All Your Repos.md
+.tmp/2023-11-17/readwise/📰 Using I3-Like Tiling Window Managers in MacOS With Yabai..md
+.tmp/2023-11-17/readwise/📰 Using Obsidian to Manage Code Snippets.md
+.tmp/2023-11-17/readwise/📰 You Can Use Obsidian to Replace Todoist. Here’s How….md
+.tmp/2023-11-17/readwise/📰 macOS Sonoma Web Apps Save Me From Constant Discord Updates.md
+.tmp/2023-11-17/scheme.url.md
+.tmp/2023-11-17/sh.cmd.alias.md
+.tmp/2023-11-17/sh.cmd.hash.md
+.tmp/2023-11-17/sh.cmd.md
+.tmp/2023-11-17/sources/Atomic Habits.md
+.tmp/2023-11-17/sources/CortexFutura Tools - 🧠 Complete Second Brain System in Tana.md
+.tmp/2023-11-17/sources/HEY Is Running No Build... - @dhh on Twitter.md
+.tmp/2023-11-17/sources/How Is GenAI Different From Other Code Generators - Martin Fowler.md
+.tmp/2023-11-17/sources/video.Notion Second Brain 2.0 - Best Notion template to organize your life.md
+.tmp/2023-11-17/sources/🎙️ AppStories.md
+.tmp/2023-11-17/sources/🎙️ Connected.md
+.tmp/2023-11-17/sources/🎙️ GemRuby Show.md
+.tmp/2023-11-17/sources/🎙️ Remote Ruby.md
+.tmp/2023-11-17/sources/🎙️ Ruby for All.md
+.tmp/2023-11-17/sources/🎙️ Syntax Error.md
+.tmp/2023-11-17/sources/📖 Atomic Habits.md
+.tmp/2023-11-17/sources/📖 Building a Second Brain.md
+.tmp/2023-11-17/sources/📖 Evolve Your Brain.md
+.tmp/2023-11-17/sources/📖 How to win friends &amp; influence people.md
+.tmp/2023-11-17/sources/📖 Learn Like a Pro.md
+.tmp/2023-11-17/sources/📚 How To Win Friends and Influence People.md
+.tmp/2023-11-17/sources/📰 The Dark Side of Dark Mode - Adam Engst.md
+.tmp/2023-11-17/sources/📺 Complete Second Brain System in Tana.md
+.tmp/2023-11-17/~Home.canvas
+.tmp/2023-11-17/🏗️ Areas Dashboard.md
+.tmp/2023-11-17/🏗️ Meetings Dashboard.md
+.tmp/2023-11-17/🏗️ Notes Overview.md
+.tmp/2023-11-17/🏗️ People Dashboard.md
+.tmp/2023-11-17/🏗️ Podcasts Dashboard.md
+.tmp/2023-11-17/🏗️ Projects Dashboard.md
+.tmp/2023-11-17/🏗️ Resources Dashboard.md
+.tmp/2023-11-17/🏗️ Schemas Dashboard.md
+.tmp/2023-11-17/🏗️ Workflows.md
+.tmp/2023-11-17/👨‍💼 People.md
+.tmp/2023-11-17/💬 Favorite Quotes.md
+.tmp/2023-11-17/📁 Resources.md
+.tmp/2023-11-17/📆 Meetings.md
+.tmp/2023-11-17/📖 Learn Like a Pro.md
+.tmp/2023-11-17/📱 App Library.md
+.tmp/2023-11-17/🗺️ Areas.md
+.tmp/_/assets/2022-02-26T0355-Alfred.png
+.tmp/_/assets/2022-02-26T0357-Alfred.png
+.tmp/_/assets/2022-02-26T0359-Alfred Preferences.png
+.tmp/_/assets/2022-02-26Tracking0355-Alfred.png
+.tmp/_/assets/2022-02-26Tracking0357-Alfred.png
+.tmp/_/assets/2022-02-26Tracking0359-Alfred Preferences.png
+.tmp/_/assets/2022-04-22T0615-Safari.png
+.tmp/_/assets/2022-04-22Tracking0615-Safari.png
+.tmp/_/assets/2022-06-22T1221-Safari.png
+.tmp/_/assets/2022-06-22T1231-Safari.png
+.tmp/_/assets/2022-06-22T1236-Safari.png
+.tmp/_/assets/2022-06-22T1237-Safari 1.png
+.tmp/_/assets/2022-06-22T1237-Safari.png
+.tmp/_/assets/2022-06-22T1238-Safari.png
+.tmp/_/assets/2022-06-22T1247-Safari.png
+.tmp/_/assets/2022-06-22T1249-Safari.png
+.tmp/_/assets/2022-06-22T1251-Safari.png
+.tmp/_/assets/2022-06-22T1252-Safari.png
+.tmp/_/assets/2022-06-22T1255-Safari.png
+.tmp/_/assets/2022-06-22T1305-Safari.png
+.tmp/_/assets/2022-06-22Tracking1221-Safari.png
+.tmp/_/assets/2022-06-22Tracking1231-Safari.png
+.tmp/_/assets/2022-06-22Tracking1236-Safari.png
+.tmp/_/assets/2022-06-22Tracking1237-Safari 1.png
+.tmp/_/assets/2022-06-22Tracking1237-Safari.png
+.tmp/_/assets/2022-06-22Tracking1238-Safari.png
+.tmp/_/assets/2022-06-22Tracking1247-Safari.png
+.tmp/_/assets/2022-06-22Tracking1249-Safari.png
+.tmp/_/assets/2022-06-22Tracking1251-Safari.png
+.tmp/_/assets/2022-06-22Tracking1252-Safari.png
+.tmp/_/assets/2022-06-22Tracking1255-Safari.png
+.tmp/_/assets/2022-06-22Tracking1305-Safari.png
+.tmp/_/assets/2022-11-18T0701-Safari.png
+.tmp/_/assets/2022-11-18Tracking0701-Safari.png
+.tmp/_/assets/20220114235144Z_Bridgetown_NewSplashScreen.png
+.tmp/_/assets/20220202061243Z_CleanShot_CleanShot.png
+.tmp/_/assets/20220212060441Z_Obsidian_digital-brain - Obsidian v0.13.23.png
+.tmp/_/assets/20220730040354Z_System Settings_.png
+.tmp/_/assets/20221231080707Z_Craft_Preferences.png
+.tmp/_/assets/2023-03-23T2315-Safari@2x.png
+.tmp/_/assets/2023-03-23T2316-Safari@2x 1.png
+.tmp/_/assets/2023-03-23T2316-Safari@2x.png
+.tmp/_/assets/2023-03-23Tracking2315-Safari@2x.png
+.tmp/_/assets/2023-03-23Tracking2316-Safari@2x 1.png
+.tmp/_/assets/2023-03-23Tracking2316-Safari@2x.png
+.tmp/_/assets/2023-05-24T1507-Safari.png
+.tmp/_/assets/2023-05-24Tracking1507-Safari.png
+.tmp/_/assets/2023-05-25T1546-Craft.png
+.tmp/_/assets/2023-05-25Tracking1546-Craft.png
+.tmp/_/assets/2023-06-03T1832-Safari@2x.png
+.tmp/_/assets/2023-06-03Tracking1832-Safari@2x.png
+.tmp/_/assets/2023-06-22T0009-Warp-Drive.png
+.tmp/_/assets/2023-06-22Tracking0009-Warp-Drive.png
+.tmp/_/assets/2023-07-18T1931-CleanShot@2x.png
+.tmp/_/assets/2023-07-18Tracking1931-CleanShot@2x.png
+.tmp/_/assets/2023-07-19T1546-CleanShot@2x.png
+.tmp/_/assets/2023-07-19Tracking1546-CleanShot@2x.png
+.tmp/_/assets/2023-07-21T1827-Notes@2x.png
+.tmp/_/assets/2023-07-21Tracking1827-Notes@2x.png
+.tmp/_/assets/2023-08-01T1631-Obsidian@2x.png
+.tmp/_/assets/2023-08-01Tracking1631-Obsidian@2x.png
+.tmp/_/assets/2023-09-14T0147-UHK Agent@2x 1.png
+.tmp/_/assets/2023-09-14T0147-UHK Agent@2x 2.png
+.tmp/_/assets/2023-09-14T0147-UHK Agent@2x.png
+.tmp/_/assets/2023-09-14T0148-UHK Agent@2x.png
+.tmp/_/assets/2023-09-14T1303-Safari@2x.png
+.tmp/_/assets/2023-09-14Tracking0147-UHK Agent@2x 1.png
+.tmp/_/assets/2023-09-14Tracking0147-UHK Agent@2x 2.png
+.tmp/_/assets/2023-09-14Tracking0147-UHK Agent@2x.png
+.tmp/_/assets/2023-09-14Tracking0148-UHK Agent@2x.png
+.tmp/_/assets/2023-09-14Tracking1303-Safari@2x.png
+.tmp/_/assets/2023-09-26T1849-Bartender 5@2x.png
+.tmp/_/assets/2023-09-26Tracking1849-Bartender 5@2x.png
+.tmp/_/assets/2023-09-28T0348-UHK Agent@2x 1.png
+.tmp/_/assets/2023-09-28T0348-UHK Agent@2x 2.png
+.tmp/_/assets/2023-09-28T0348-UHK Agent@2x 3.png
+.tmp/_/assets/2023-09-28T0348-UHK Agent@2x.png
+.tmp/_/assets/2023-09-28Tracking0348-UHK Agent@2x 1.png
+.tmp/_/assets/2023-09-28Tracking0348-UHK Agent@2x 2.png
+.tmp/_/assets/2023-09-28Tracking0348-UHK Agent@2x 3.png
+.tmp/_/assets/2023-09-28Tracking0348-UHK Agent@2x.png
+.tmp/_/assets/2023-10-11T1019-Safari@2x.png
+.tmp/_/assets/2023-10-11Tracking1019-Safari@2x.png
+.tmp/_/assets/2023-10-17T1133-zoom.us@2x.png
+.tmp/_/assets/2023-10-17Tracking1133-zoom.us@2x.png
+.tmp/_/assets/20230419104208Z_Figma Beta_v9.png
+.tmp/_/assets/4_Archive/Sign Commits with SSH/IMG-20230914143620651.png
+.tmp/_/assets/Blog Project Architecture.canvas
+.tmp/_/assets/DCD70556-0868-46E8-B343-3BE346F00464.jpeg
+.tmp/_/assets/Email Form Tags Architecture Doc.canvas
+.tmp/_/assets/IMG-20231017-Strada-Example-1.md
+.tmp/_/assets/IMG-20231017113706849-Trackingurbo Native Crash Course.png
+.tmp/_/assets/IMG-20231017113706849-Turbo Native Crash Course.png
+.tmp/_/assets/IMG-20231017113713925-Trackingurbo Native Crash Course.png
+.tmp/_/assets/IMG-20231017113713925-Turbo Native Crash Course.png
+.tmp/_/assets/IMG-20231017134325913-Podia Blog Project.png
+.tmp/_/assets/IMG_4960.jpeg
+.tmp/_/assets/IMG_5901.jpg
+.tmp/_/assets/IMG_6033.jpg
+.tmp/_/assets/Pasted image 20230510234658.png
+.tmp/_/assets/Pasted image 20230603160215.png
+.tmp/_/assets/Pasted image 20230603160228.png
+.tmp/_/assets/Pasted image 20230603160234.png
+.tmp/_/assets/Pasted image 20230707043916.jpg
+.tmp/_/assets/Speaking.jpeg
+.tmp/_/assets/bridgetown-800.png
+.tmp/_/assets/image 1.jpg
+.tmp/_/assets/image 2.jpg
+.tmp/_/assets/image.jpg
+.tmp/_/assets/lg-copilot4prs-dashboard.png
+.tmp/_/assets/podia 2.png
+.tmp/_/assets/podia.svg
+.tmp/_/assets/screenshot.png
+.tmp/_/quickadd/qa.app.md
+.tmp/_/quickadd/qa.project.md
+.tmp/_/schemas/app.md
+.tmp/_/schemas/area.md
+.tmp/_/schemas/dashboard.md
+.tmp/_/schemas/day.md
+.tmp/_/schemas/doc.md
+.tmp/_/schemas/event.md
+.tmp/_/schemas/ext.md
+.tmp/_/schemas/global.md
+.tmp/_/schemas/goal.md
+.tmp/_/schemas/meeting.md
+.tmp/_/schemas/note.md
+.tmp/_/schemas/organization.md
+.tmp/_/schemas/person.md
+.tmp/_/schemas/pkg.md
+.tmp/_/schemas/podcast.md
+.tmp/_/schemas/project.md
+.tmp/_/schemas/prompt.md
+.tmp/_/schemas/quarter.md
+.tmp/_/schemas/resource.md
+.tmp/_/schemas/source.md
+.tmp/_/schemas/week.md
+.tmp/_/scripts/BookFinder.js
+.tmp/_/scripts/GemPluginImport.js
+.tmp/_/scripts/NpmImport.js
+.tmp/_/scripts/NpmPackageImport.js
+.tmp/_/scripts/ObsidianPluginImporter.js
+.tmp/_/scripts/archive/BrewCaskImport.js
+.tmp/_/scripts/archive/BrewFormulaImport.js
+.tmp/_/scripts/archive/buildNote.js
+.tmp/_/scripts/archive/gdata
+.tmp/_/scripts/archive/vscedata
+.tmp/_/scripts/import_cli
+.tmp/_/scripts/quickadd/createChild.js
+.tmp/_/scripts/sh.js
+.tmp/_/scripts/untitledNote.js
+.tmp/_/templates/Breadcrumb Builder.md
+.tmp/_/templates/Callout Picker.md
+.tmp/_/templates/Code Block.md
+.tmp/_/templates/partial.breadcrumbs.md
+.tmp/_/templates/partial.mentions.md
+.tmp/_/templates/partial.projects.md
+.tmp/_/templates/partial.resources.md
+.tmp/_/templates/partial.task_log.md
+.tmp/_/templates/tr.area.md
+.tmp/_/templates/tr.cli.md
+.tmp/_/templates/tr.daily.md
+.tmp/_/templates/tr.event.md
+.tmp/_/templates/tr.person.body.md
+.tmp/_/templates/tr.person.md
+.tmp/_/templates/tr.project.md
+.tmp/_/templates/tr.quarterly.md
+.tmp/_/templates/tr.resource.md
+.tmp/_/templates/tr.untitled.md
+.tmp/_/templates/tr.weekly.md
+.tmp/_/values/category_values.md
+.tmp/_/values/cssclasses_values.md
+Building a Second Brain.md
+CRM/Apple.md
+CRM/Tiago Forte.md
+app.obsidian.md
+areas/Home.md
+areas/Personal Finance.md
+areas/Work.md
+canvases/CRM Dashboard.canvas
+canvases/PARA Dashboard.canvas
+canvases/Sources Dashboard.canvas
+canvases/Vault Overview.canvas
+piecesdb.json
+projects/Setup PARA System in Obsidian.md
+resources/Programming MOC.md
+sources/🚀So Last Week Strada Was... - @nicalpi on Twitter.md
+table-export-001.csv
+table-export-002.csv
+table-export-003.csv
+table-export-003.json
+util/quickadd/qa.app.md
+util/quickadd/qa.area.md
+util/quickadd/qa.contact.md
+util/quickadd/qa.project.md
+util/quickadd/qa.source.md
+util/schemas/app.md
+util/schemas/area.md
+util/schemas/day.md
+util/schemas/extension.md
+util/schemas/note.md
+util/schemas/project.md
+util/schemas/source.md
+util/schemas/week.md
+util/templater/App Body Template.md
+util/templater/Area Body Template.md
+util/templater/Contact Body Template.md
+util/templater/Project Body Template.md
+util/templater/Source Body Template.md
+~Index.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#26ed8ff</div>
+                                        <div class="message">chore(): backup vault 2023-11-17 06:09:05
+
+Affected files:
+.obsidian/plugins/recent-files-obsidian/data.json
+.obsidian/workspace.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#eb2a906</div>
                                         <div class="message">chore(): backup vault 2023-11-17 05:49:14
 
@@ -3381,171 +4317,6 @@ Affected files:
 Affected files:
 .obsidian/plugins/recent-files-obsidian/data.json
 .obsidian/workspace.json</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7e86cd6</div>
-                                        <div class="message">chore(): backup vault 2023-11-17 02:49:38
-
-Affected files:
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-3 Resources/Diff NPM Package Versions.md
-3 Resources/My Favorite Gems.md
-notes/Frameworks vs Systems.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#1bdb6a7</div>
-                                        <div class="message">chore(): backup vault 2023-11-17 02:07:54
-
-Affected files:
-+/Capture Content from Podcasts.md
-+/ruby.object.md
-.obsidian/plugins/recent-files-obsidian/data.json
-.obsidian/workspace.json
-1 Projects/PODIA-10371 Lifecycle.canvas
-1 Projects/Podia Blog Project.md
-3 Resources/Debugging Rails Applications.md
-4 Archive/2023/11-November/1 Projects/Automatically Move Notes in Obsidian.md
-4 Archive/2023/11-November/1 Projects/Create Personal Styleguide.md
-4 Archive/2023/11-November/1 Projects/DX-4.md
-4 Archive/2023/11-November/1 Projects/Define Capture Workflow.md
-4 Archive/2023/11-November/1 Projects/Find all flaky podia specs.md
-4 Archive/2023/11-November/1 Projects/Migrate all domains to Cloudflare.md
-4 Archive/2023/11-November/2 Areas/My Setup.md
-Building a Second Brain Book.md
-Design.md
-Evolve Your Brain Book.md
-app.1Password.md
-app.Actions for Obsidian.md
-app.Actions.md
-app.Aiko.md
-app.Anytype.md
-app.Apple Books.md
-app.Apple Store.md
-app.Bike Outliner.md
-app.Blinkist.md
-app.Boom.md
-app.Calendar.md
-app.Check Later.md
-app.Clay.md
-app.Craft.md
-app.Deeplink Buddy.md
-app.Dropshare.md
-app.FaceTime.md
-app.GitHub Mobile.md
-app.IFTTT.md
-app.Jayson.md
-app.Linear.md
-app.LookUp.md
-app.Medium.md
-app.MindNode.md
-app.NotePlan.md
-app.Notes.md
-app.Notion.md
-app.Opener.md
-app.Paste.md
-app.Play.md
-app.Readwise Reader.md
-app.Readwise.md
-app.Reminders.md
-app.Safari.md
-app.Session.md
-app.SharePal.md
-app.SharkClean.md
-app.Shortshare.md
-app.Slack.md
-app.Snipd.md
-app.Spark Mail.md
-app.Structured.md
-app.Text Case.md
-app.Tripsy.md
-app.Yoink.md
-app.YouTube.md
-app.Zoom.md
-app.bartender.md
-app.iTunes Store.md
-app.raindrop.md
-app.shortcuts.md
-app.vscode.ext.GitHub.copilot-chat.md
-app.vscode.ext.better-comments.md
-app.vscode.ext.stimulus-lsp.md
-app.vscode.ext.vim.md
-gem.activerecord.md
-gem.activesupport.md
-gem.interactor-rails.md
-gem.md
-gem.model_probe.md
-gem.money.md
-gem.propshaft.md
-gem.rails.md
-gem.rubocop.md
-gem.shoulda-matchers.md
-gem.solid_cache.md
-gem.sorbet.md
-gem.standard.md
-gem.strada-rails.md
-gem.turbo-rails.md
-gem.zeitwerk.md
-lang.ruby.md
-liveview.concepts.md
-liveview.md
-log/daily/2023-10-12.md
-log/daily/2023-11-17.md
-notes/How to Diff Two Versions of a Node Module.md
-notes/How to Enable the Push API on iOS.md
-notes/What is a Runbook.md
-npm.hotwired.strada.md
-npm.md
-npm.npm-diff.md
-npm.prettier.md
-npm.stylelint.md
-piecesdb.json
-web.api.push.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">turingschool-examples/ruby-exercises</span>
                                     </div>
                                 </div>
                             </section>
@@ -3714,41 +4485,6 @@ web.api.push.md</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="52.28666666666666 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <g stroke="#731237">
-                                                <path d="M11 40a2 2 0 100-4 2 2 0 000 4z"/>
-                                                <path d="M11 34v1m0 5v3m0 3v3" stroke-linecap="round"/>
-                                            </g>
-                                            <g stroke="#731237" stroke-linecap="round" stroke-linejoin="round">
-                                                <path d="M47.01 41.009h-4M45.016 39v4"/>
-                                            </g>
-                                            <path d="M27.982 5c2.79 1.873 4.46 5.876 5.008 12.01l2.059.659a1.606 1.606 0 011.606-1.665h.84a2.513 2.513 0 012.511 2.508l.004 1.496 3.197 1.588a1.951 1.951 0 011.684-.952l.509.002c.898.003 1.625.73 1.629 1.629l.008 2.115L51 27.606v1.945l-4.815-1.211c-.474.894-.87 1.48-1.192 1.757-.345-.328-.814-1.158-1.406-2.49L38.744 26.5c-.402 1.153-.845 1.828-1.328 2.026-.451-.444-1.04-1.55-1.409-2.821-1.481-.286-2.486-.56-2.994-.688-.27 2.397-1.036 6.884-2.009 10.982l5.006 4.438-6.555-1.08-1.454 3.654-1.45-3.658-6.56 1.082 4.996-4.417c-.899-4.02-1.576-7.684-2.03-10.992a37.29 37.29 0 01-2.967.679c-.38 1.252-.845 2.191-1.396 2.817-.63-.184-1.142-1.474-1.338-2.023-.705.15-2.323.519-4.853 1.107-.601 1.388-1.07 2.218-1.41 2.49a7.032 7.032 0 01-1.173-1.758L5 29.55v-1.945l3.99-3.265v-2.102a1.604 1.604 0 011.625-1.604l.528.007c.68.008 1.307.37 1.654.956l3.184-1.614.003-1.467a2.503 2.503 0 012.511-2.497l.863.003a1.6 1.6 0 011.594 1.646 62.42 62.42 0 012.024-.667c.572-6.097 2.24-10.098 5.006-12.002z" stroke="#EB355E" stroke-linecap="round" stroke-linejoin="round"/>
-                                            <path stroke="#731237" stroke-linecap="round" d="M45.016 36.032v-2M45.016 49.032v-3M38.978 36.089v-3.153M17.016 36.089v-3.153M51.031 51.165v-2.193m0-2.972V35.013M4.974 51.165v-2.193m0-2.972V35.013"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix">Master</span>
-                                    deployer
-                                </div>
-                                <div class="text">Repositories have been deployed 1506 times</div>
-                            </div>
-                        </div>
-                        <div class="achievement s largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
                                         <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="51.46 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
@@ -3778,38 +4514,6 @@ web.api.push.md</div>
                                     contributor
                                 </div>
                                 <div class="text">Opened 1498 pull requests</div>
-                            </div>
-                        </div>
-                        <div class="achievement s largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="0 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
-                                            <path d="M17.135 7.988l-3.303.669a2 2 0 00-1.586 2.223l4.708 35.392a1.498 1.498 0 01-1.162 1.66 1.523 1.523 0 01-1.775-1.01L4.951 19.497a2 2 0 011.215-2.507l2.946-1.072" stroke="#731237" stroke-linejoin="round"/>
-                                            <path d="M36.8 48H23a2 2 0 01-2-2V7a2 2 0 012-2h26a2 2 0 012 2v32.766" stroke="#EB355E"/>
-                                            <path d="M29 20.955l-3.399 3.399a.85.85 0 000 1.202l3.399 3.4M43.014 20.955l3.399 3.399a.85.85 0 010 1.202l-3.4 3.4" stroke="#EB355E" stroke-linejoin="round"/>
-                                            <path stroke="#EB355E" d="M38.526 18l-5.053 14.016"/>
-                                            <path d="M44 36a8 8 0 110 16 8 8 0 010-16z" stroke="#EB355E" stroke-linejoin="round"/>
-                                            <path d="M43.068 40.749l3.846 2.396a1 1 0 01-.006 1.7l-3.846 2.36a1 1 0 01-1.523-.853v-4.755a1 1 0 011.529-.848z" stroke="#EB355E" stroke-linejoin="round"/>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix">Master</span>
-                                    polyglot
-                                </div>
-                                <div class="text">Using 16 different programming languages</div>
                             </div>
                         </div>
                         <div class="achievement a largeable-width-half">
@@ -4076,7 +4780,7 @@ web.api.push.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 144k out of 44.6m repositories</span>
+                                    <span class="gh">ranked 144k out of 51.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 276 stars</div>
                             </div>
@@ -4118,52 +4822,6 @@ web.api.push.md</div>
                                     Forker
                                 </div>
                                 <div class="text">Forked 2 public repositories</div>
-                            </div>
-                        </div>
-                        <div class="achievement c largeable-width-half">
-                            <div class="icon">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" height="44" width="44">
-                                    <defs>
-                                        <mask id="mask">
-                                            <circle class="gauge-base" r="25" cx="28" cy="28" fill="white"/>
-                                        </mask>
-                                    </defs>
-                                    <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
-                                        <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="29.747474747474744 155"/>
-                                    </svg>
-                                    <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
-                                        <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
-                                            <path d="M20.065 47.122c.44-.525.58-1.448.58-1.889 0-2.204-1.483-3.967-3.633-4.187.447-1.537.58-2.64.397-3.31-.25-.92-.745-1.646-1.409-2.235m-5.97-7.157c.371-.254.911-.748 1.62-1.48a8.662 8.662 0 001.432-2.366M47 22h-7c-1.538 0-2.749-.357-4-1h-5c-1.789.001-3-1.3-3-2.955 0-1.656 1.211-3.04 3-3.045h2c.027-1.129.513-2.17 1-3m3.082 32.004C34.545 43.028 34.02 40.569 34 39v-1h-1c-2.603-.318-5-2.913-5-5.997S30.397 26 33 26h9c2.384 0 4.326 1.024 5.27 3" stroke="#79B8FF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2"/>
-                                            <g transform="translate(36)" stroke="#2088FF" stroke-width="2">
-                                                <path fill="#2088FF" stroke-linecap="round" stroke-linejoin="round" d="M5.395 5.352L6.009 4l.598 1.348L8 5.408l-1.067 1.12.425 1.47-1.356-.908-1.35.91.404-1.469L4 5.41z"/>
-                                                <circle cx="6" cy="6" r="6"/>
-                                            </g>
-                                            <g transform="translate(0 31)" stroke="#2088FF" stroke-width="2">
-                                                <circle cx="6" cy="6" r="6"/>
-                                                <g stroke-linecap="round">
-                                                    <path d="M6 4v4M4 6h4"/>
-                                                </g>
-                                            </g>
-                                            <circle stroke="#2088FF" stroke-width="2" cx="10.5" cy="10.5" r="10.5"/>
-                                            <g stroke-linecap="round">
-                                                <path d="M32.01 1.37A23.96 23.96 0 0024 0c-.999 0-1.983.061-2.95.18M.32 20.072a24.21 24.21 0 00.015 7.948M12.42 45.025A23.892 23.892 0 0024 48c13.255 0 24-10.745 24-24 0-2.811-.483-5.51-1.371-8.016" stroke="#79B8FF" stroke-width="2"/>
-                                                <path stroke="#2088FF" stroke-width="2" d="M8.999 7.151v5.865"/>
-                                                <path d="M9 3a2 2 0 110 4 2 2 0 010-4zm0 10.8a2 2 0 11-.001 4 2 2 0 01.001-4z" stroke="#2088FF" stroke-width="1.8"/>
-                                                <path d="M9.622 11.838c.138-.007.989.119 1.595-.05.607-.169 1.584-.539 1.829-1.337" stroke="#2088FF" stroke-width="2"/>
-                                                <path d="M14.8 7.202a2 2 0 110 4 2 2 0 010-4z" stroke="#2088FF" stroke-width="1.8"/>
-                                            </g>
-                                        </g>
-                                    </svg>
-                                </svg>
-                            </div>
-                            <div class="info">
-                                <div class="title">
-                                    <span class="prefix"></span>
-                                    Inspirer
-                                    <span class="gh">ranked 567k out of 44.6m repositories</span>
-                                </div>
-                                <div class="text">Maintaining or created a repository which has been forked 20 times</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -4416,7 +5074,7 @@ web.api.push.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Nov 2023, 06:03:14 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Nov 2023, 07:01:32 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
