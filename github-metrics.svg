@@ -2,7 +2,7 @@
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.project .items{padding-left:11px}.project .items .text{text-overflow:ellipsis;overflow:hidden;width:426px}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.autosize{width:auto;height:auto}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h1,h2,h3{margin:8px 0 2px;padding:0;color:#0366d6}h1{font-size:20px;font-weight:700}h2,h3{font-weight:400}h1 svg,h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3{font-size:14px}.h-details{margin:0 4px;padding-top:4px;font-size:.8rem}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field.wrap,.row{flex-wrap:wrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.field.error{color:#cb2431}.field.error svg{fill:#cb2431}.row{display:flex}.horizontal .field,.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.center{justify-content:center}.horizontal{justify-content:space-around}.horizontal-wrap{flex-wrap:wrap}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.avatar{border-radius:50%;margin:0 6px}.organization.avatar{border-radius:15%}.organization.name{white-space:nowrap}.organization.contributions{margin:0 8px;flex-wrap:wrap}.contribution.organization{display:flex;border:1px solid #959da5;border-radius:6px;padding:2px 6px 2px 0;margin:2px;font-size:12px;background-color:#959da520}.contribution.organization.s{color:#eb355e;background-color:#eb355e26;border-color:#eb355e}.contribution.organization.a{color:#d79533;background-color:#e7bd6926;border-color:#e7bd69}.contribution.organization.b{color:#9d8fff;background-color:#9e91ff26;border-color:#9e91ff}.contribution.organization.c{color:#58a6ff;background-color:#58a6ff26;border-color:#58a6ff}.contribution .gauge-arc,.contribution .gauge-base{stroke:currentColor;stroke-width:4}.contribution .gauge text{fill:currentColor;font-size:13px}.contribution .gauge{margin:0 6px;color:inherit;transform:scale(1.4) translateY(1px)}.contribution .icon{fill:currentColor;width:10px;height:10px;margin-left:-9px;margin-top:8px;color:inherit;filter:brightness(.5)}.contribution.organization .avatar{margin:0 4px}.calendar.field{margin:4px 0 4px 7px}.calendar .day{outline:1px solid rgba(27,31,35,.04);outline-offset:-1px}svg.bar{margin:4px 0}.field.language{margin:0 8px;flex-grow:0}.field.language.details{display:flex;justify-content:space-between}.field.language.details small,.field.license.details small{display:flex;justify-content:space-between;color:#666;text-align:right}.field.language.details small&gt;*,.field.language.details&gt;*{flex:1 1 0}.field.language.details small&gt;:not(:last-child){margin-right:6px}.habits .facts{margin:0;list-style-type:none;padding-left:37px}footer{margin-top:8px;font-size:10px;font-style:italic;color:#666;text-align:right;display:flex;flex-direction:column;justify-content:flex-end;padding:0 4px}.categories,.category{display:flex;align-items:center}.categories{justify-content:space-around;margin-top:4px}.category{flex-direction:column;flex:1 1 0}.gauge{stroke-linecap:round;fill:none}.gauge.high{color:#18b663}.gauge.info{color:#58a6ff}.gauge-arc,.gauge-base{stroke:currentColor;stroke-width:10}.gauge-base{stroke-opacity:.2}.gauge-arc{fill:none;stroke-dashoffset:0;animation-delay:250ms;animation:animation-gauge 1s ease forwards}.gauge text{fill:currentColor;font-size:40px;font-family:monospace;text-anchor:middle;font-weight:600}.gauge .title{font-size:18px;color:#777}.screenshot{width:452px;height:315px;margin:8px 14px 4px;border-radius:5px}.chart{padding:0 8px}.chart-bars{display:flex;justify-content:space-between;align-items:flex-end;width:100%;margin:8px 0 4px;flex-grow:1;min-height:70px}.chart-bars .entry,.repository{display:flex;flex-direction:column}.chart-bars .entry{flex-grow:1;align-items:center;font-size:10px;color:#666}.chart-bars .entry .value{font-size:6px}.chart-bars .bar{width:7px;background-color:var(--color-calendar-graph-day-bg);border:1px solid var(--color-calendar-graph-day-border);border-radius:5px}.chart-bars.horizontal{flex-direction:column;height:100%}.chart-bars.horizontal .entry{align-items:center;flex-direction:row;width:100%;min-height:1rem}.chart-bars.horizontal .entry .name{flex-shrink:0;text-align:right;width:34%;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.chart-bars.horizontal .bar{height:7px;width:auto;margin:0 6px}.repository{width:100%;margin:6px 0}.repository .name{display:flex;align-items:center;justify-content:space-between;width:440px}.repository .name span:first-child{color:#58a6ff}.repository .name span:last-child{color:#666;font-size:10px}.repository .description{display:block;width:440px;white-space:normal}.repository .description,.repository .infos{color:#666;margin-left:38px;font-size:13px}.repository .infos&gt;div{display:flex;align-items:center;margin-right:16px}.repository .infos svg{margin:0 4px 0 0}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}svg.calendar{margin-left:13px;margin-top:4px}svg.calendar text{font-size:18px;fill:currentColor}.added{color:#3fb950}.people{padding:0 10px}.people .avatar{margin:0 2px}.project .description{overflow:hidden;text-overflow:ellipsis;display:block;width:420px;margin-left:37px;max-height:38px;font-size:12px;white-space:normal;display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical}.starlist{padding-left:28px;width:460px}.starlist&gt;.count,.starlist&gt;.description{margin-left:32px}.starlist&gt;.count{font-size:12px;color:#666}.starlist .repositories{margin-left:-5px;margin-bottom:20px}.starlist .repository{margin:6px 0 0}.starlist .repository .description,.starlist .repository .infos{font-size:11px}.starlist .repository .name{font-size:14px}.starlist .languages{margin-top:6px;padding-left:13px}.starlist .languages svg.bar{margin-left:18px}.field.license.details{display:flex;justify-content:space-between}.introduction{white-space:normal;margin:0 13px 2px}.achievement{display:flex;margin:4px 0}.achievement .icon{margin:0 4px;width:44px;height:44px}.achievement .text{font-size:12px;color:#666}.achievement .title{font-size:14px;color:#58a6ff}.achievement .gauge.info{color:#58a6ff}.achievement .value{background-color:#58a6ff26}.achievement.x .title{color:#666}.achievement.x .gauge.info{color:#b0b0b0}.achievement.x .value{background-color:#b0b0b026}.achievement.b .title{color:#9d8fff}.achievement.b .gauge.info{color:#9e91ff}.achievement.b .value{background-color:#9e91ff26}.achievement.a .title{color:#d79533}.achievement.a .gauge.info{color:#e7bd69}.achievement.a .value{background-color:#e7bd6926}.achievement.s .gauge.info,.achievement.s .title{color:#eb355e}.achievement.s .value{background-color:#eb355e26}.achievement.secret .title{color:#ff76cd}.achievement.secret .gauge.info{color:#ff79d1}.achievement.secret .value{background-color:#ff79d126}.achievement .gh,.achievement .value{border:1px solid currentColor;border-radius:16px;font-size:10px;padding:0 5px;white-space:nowrap}.achievement .gauge-arc,.achievement .gauge-base{stroke-width:6}.achievement .value{margin-left:46px}.rss{align-items:flex-start}.rss .infos{margin-bottom:3px}.rss .infos .date{font-size:10px;color:#666}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.autosize{width:auto;height:auto}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            6248 Commits
+                            8252 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -184,13 +184,13 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path xmlns="http://www.w3.org/2000/svg" fill-rule="evenodd" d="M2.5 3.5c0-.133.058-.318.282-.55.227-.237.592-.484 1.1-.708C4.899 1.795 6.354 1.5 8 1.5c1.647 0 3.102.295 4.117.742.51.224.874.47 1.101.707.224.233.282.418.282.551 0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 5.205 9.646 5.5 8 5.5c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707-.224-.233-.282-.418-.282-.551zM1 3.5c0-.626.292-1.165.7-1.59.406-.422.956-.767 1.579-1.041C4.525.32 6.195 0 8 0c1.805 0 3.475.32 4.722.869.622.274 1.172.62 1.578 1.04.408.426.7.965.7 1.591v9c0 .626-.292 1.165-.7 1.59-.406.422-.956.767-1.579 1.041C11.476 15.68 9.806 16 8 16c-1.805 0-3.475-.32-4.721-.869-.623-.274-1.173-.62-1.579-1.04-.408-.426-.7-.965-.7-1.591v-9zM2.5 8V5.724c.241.15.503.286.779.407C4.525 6.68 6.195 7 8 7c1.805 0 3.475-.32 4.722-.869.275-.121.537-.257.778-.407V8c0 .133-.058.318-.282.55-.227.237-.592.484-1.1.708C11.101 9.705 9.646 10 8 10c-1.647 0-3.102-.295-4.117-.742-.51-.224-.874-.47-1.101-.707C2.558 8.318 2.5 8.133 2.5 8zm0 2.225V12.5c0 .133.058.318.282.55.227.237.592.484 1.1.708 1.016.447 2.471.742 4.118.742 1.647 0 3.102-.295 4.117-.742.51-.224.874-.47 1.101-.707.224-.233.282-.418.282-.551v-2.275c-.241.15-.503.285-.778.406-1.247.549-2.917.869-4.722.869-1.805 0-3.475-.32-4.721-.869a6.236 6.236 0 01-.779-.406z"/>
                                     </svg>
-                                    500 MB used
+                                    501 MB used
                                 </div>
                                 <div class="field ">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    4.29m added, 3.59m removed
+                                    560k added, 101k removed
                                 </div>
                             </section>
                             <section>
@@ -437,7 +437,7 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 39 commits)</small>
+                    <small class="h-details">(computed from last 40 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
@@ -473,8 +473,8 @@
                             03
                         </div>
                         <div class="entry">
-                            <span class="value">2</span>
-                            <div class="bar" style="height: 11.11111111111111px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3</span>
+                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             04
                         </div>
                         <div class="entry">
@@ -590,22 +590,22 @@
                             </div>
                             <div class="entry">
                                 <span class="value">11</span>
-                                <div class="bar" style="height: 30.555555555555557px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <div class="bar" style="height: 28.947368421052634px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Tue
                             </div>
                             <div class="entry">
-                                <span class="value">18</span>
+                                <span class="value">19</span>
                                 <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Wed
                             </div>
                             <div class="entry">
                                 <span class="value">7</span>
-                                <div class="bar" style="height: 19.444444444444446px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <div class="bar" style="height: 18.421052631578945px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
                                 <span class="value">3</span>
-                                <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="height: 7.894736842105263px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -620,12 +620,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 0.3784199593576403%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.37841654585153495%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.0809840362223152%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0809833057124802%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3341,6 +3341,29 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#fbb586a</div>
+                                        <div class="message">chore: mac backup on 2024-01-03 04:39:13
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#b2ccf4d</div>
                                         <div class="message">chore: mac backup on 2024-01-03 03:53:51
 
@@ -3494,476 +3517,6 @@ Affected files:
 .obsidian/plugins/obsidian-style-settings/styles.css
 .obsidian/workspace.json
 ~Home.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#a9558ac</div>
-                                        <div class="message">chore: mac manual backup on 2024-01-03 00:42:21
-
-Affected files:
-.archive/2023/12-December/Jamie Feedback.md
-.archive/2024/ARCHIVE - COD MW3.md
-.archive/2024/ARCHIVE - Debug Zoom IFTTT Duplication.md
-.archive/2024/ARCHIVE - New Outline For Pages.md
-.archive/2024/ARCHIVE - Software Engineering.md
-.archive/2024/ARCHIVE - Terminal.md
-.archive/2024/Sources/Building a Second Brain.md
-.archive/2024/Sources/High Performance PostgreSQL for Rails.md
-.archive/2024/Sources/Sources.md
-.archive/2024/Sources/rw/Readwise Syncs.md
-.archive/2024/Sources/rw/🎙 132 - FraudGPT, Apple GPT, Unlimited Jailbreaks, RT-2, Frontier Model Forum, PhotoGuard.md
-.archive/2024/Sources/rw/🎙 357. ChatGPT and the Dawn of Computerized Hyper-Intelligence  Brian Roemmele.md
-.archive/2024/Sources/rw/🎙 372 – Simone Giertz —  Queen of Shtty Robots, Innovative Engineering, and Design.md
-.archive/2024/Sources/rw/🎙 472 —  It's Fun to Imagine With Stephen.md
-.archive/2024/Sources/rw/🎙 481  Design Thinking —  From Ideation to Execution With Abby Wilson.md
-.archive/2024/Sources/rw/🎙 Building Rails-Powered Mobile Apps With Joe Masilotti.md
-.archive/2024/Sources/rw/🎙 Cognitive Bypassing —  How to Get Out of Your Head and Into Your Life.md
-.archive/2024/Sources/rw/🎙 DHH on Rails World 2023 &amp; Rails 7.1.md
-.archive/2024/Sources/rw/🎙 E21 —  VC Insights on Investing in Artificial Intelligence With Sarah Guo and Elad Gil of No Priors Podcast.md
-.archive/2024/Sources/rw/🎙 From CoffeeScript to Curl.md
-.archive/2024/Sources/rw/🎙 How Ryan Singer Uses OmniGraffle.md
-.archive/2024/Sources/rw/🎙 Ramit Sethi —  Winners Have Systems.md
-.archive/2024/Sources/rw/🎙 The Art of Conference Speaking With Kevin Murphy.md
-.archive/2024/Sources/rw/🎙 The Trouble With Task Management.md
-.archive/2024/Sources/rw/🐦 ChatGPT Can Now Generate....md
-.archive/2024/Sources/rw/🐦 It Is Nearly 2024. Time....md
-.archive/2024/Sources/rw/🐦 SolidCache Is Showing Us....md
-.archive/2024/Sources/rw/🐦 Tweets From Borriss.md
-.archive/2024/Sources/rw/🐦 Tweets From Colleen Schnettler.md
-.archive/2024/Sources/rw/🐦 Tweets From Gorkem Yurtseven.md
-.archive/2024/Sources/rw/🐦 Tweets From Miles.md
-.archive/2024/Sources/rw/🐦 Why We Use @Heptabase A....md
-.archive/2024/Sources/rw/🐦 With @RubyConf Coming Fa....md
-.archive/2024/Sources/rw/📖 Ruby on Rails Guides.md
-.archive/2024/Sources/rw/📖 Thanks-for-the-Feedback-En.md
-.archive/2024/Sources/rw/📰 8 Tips for Finding Great Books to Read.md
-.archive/2024/Sources/rw/📰 Alfred vs. Raycast my constant debate.md
-.archive/2024/Sources/rw/📰 Amphetamines Improve the Motivation to Invest Effort in Attention-DeficitHyperactivity Disorder.md
-.archive/2024/Sources/rw/📰 Boost Productivity With These Tools in 2023.md
-.archive/2024/Sources/rw/📰 Boost Your Command-Line Productivity With Fuzzy Finder.md
-.archive/2024/Sources/rw/📰 Breadcrumbs - Everything You Need to Know.md
-.archive/2024/Sources/rw/📰 ChatGPT can now generate high-quality logos.md
-.archive/2024/Sources/rw/📰 Color Coding.md
-.archive/2024/Sources/rw/📰 Dashboard++ — A Simple Organization and Navigation Method for Obsidian Vaults.md
-.archive/2024/Sources/rw/📰 Day 4 You Don't Have the Complete Picture Yet💡.md
-.archive/2024/Sources/rw/📰 From Things 3 to GoodTask With Reminders.md
-.archive/2024/Sources/rw/📰 Google Unveils Gemini.md
-.archive/2024/Sources/rw/📰 Halp Universal Help for Fish.md
-.archive/2024/Sources/rw/📰 How I Import My Meetings Into My Obsidian Daily Note.md
-.archive/2024/Sources/rw/📰 How We’re Experimenting With LLMs to Evolve GitHub Copilot.md
-.archive/2024/Sources/rw/📰 How to Build the Ultimate Productivity System.md
-.archive/2024/Sources/rw/📰 How to Community.md
-.archive/2024/Sources/rw/📰 How to Summarize Books Using ChatGPT 7 Experiments in AI Distillation.md
-.archive/2024/Sources/rw/📰 I Tried 137 Productivity Tools. These Are the Best..md
-.archive/2024/Sources/rw/📰 IRB Adds Type-Based Completions.md
-.archive/2024/Sources/rw/📰 Incremental note-taking.md
-.archive/2024/Sources/rw/📰 It's Not You - It's Your Knowledge Base.md
-.archive/2024/Sources/rw/📰 I’ve Created a Custom ChatGPT That Scrapes Data From Websites.md
-.archive/2024/Sources/rw/📰 Landmarks.md
-.archive/2024/Sources/rw/📰 Mac Essentials  Featuring Lungo, OpenIn and Quickshade  5th Ed..md
-.archive/2024/Sources/rw/📰 Multi-Layered Calendars.md
-.archive/2024/Sources/rw/📰 Notion Quick Capture Hacks.md
-.archive/2024/Sources/rw/📰 Objects as Reference Toward Robust First Principles of Digital Organization.md
-.archive/2024/Sources/rw/📰 Obsidian 1.5.0 Desktop.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 23.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 24.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 25.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 26.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 27.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 28.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 29.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 30.md
-.archive/2024/Sources/rw/📰 Obsidian Plugins Review — 31.md
-.archive/2024/Sources/rw/📰 Oh God, It's Raining Newsletters.md
-.archive/2024/Sources/rw/📰 OpenAI Announces Leadership Transition.md
-.archive/2024/Sources/rw/📰 OpenAI Researchers Warned Board of AI Breakthrough Ahead of CEO Ouster, Sources Say.md
-.archive/2024/Sources/rw/📰 Patterns of Organization.md
-.archive/2024/Sources/rw/📰 Quickly Insert Links in Your Markdown Documents With Brett Terpstra’s SearchLink — Our Partner of the Month.md
-.archive/2024/Sources/rw/📰 Rails 7.1 Allows Passing Options to ActiveRecord Explain.md
-.archive/2024/Sources/rw/📰 Rails 7.1 Expands Its Support for ActiveRecord Asynchronous Queries.md
-.archive/2024/Sources/rw/📰 Reader Frequently Asked Questions.md
-.archive/2024/Sources/rw/📰 Security Best Practices for Authors of GitHub Actions.md
-.archive/2024/Sources/rw/📰 Spell Check.md
-.archive/2024/Sources/rw/📰 Synchronous and Asynchronous Query Execution.md
-.archive/2024/Sources/rw/📰 The 7 best time blocking apps in 2023.md
-.archive/2024/Sources/rw/📰 The Dark Side of Dark Mode.md
-.archive/2024/Sources/rw/📰 Tmux Has Forever Changed the Way I Write Code..md
-.archive/2024/Sources/rw/📰 Turbo 8 in 8 Minutes.md
-.archive/2024/Sources/rw/📰 Turbocharge Your Rails App A Comprehensive Guide to Async Queries.md
-.archive/2024/Sources/rw/📰 Universe 2023 Copilot Transforms GitHub Into the AI-powered Developer Platform.md
-.archive/2024/Sources/rw/📰 Universe’s Key Takeaway Innovate Better With AI-powered Workflows on a Single, Unified Platform.md
-.archive/2024/Sources/rw/📰 Useful Github Search to Find All PRS in All Your Repos.md
-.archive/2024/Sources/rw/📰 Using I3-Like Tiling Window Managers in MacOS With Yabai..md
-.archive/2024/Sources/rw/📰 You Can Use Obsidian to Replace Todoist. Here’s How….md
-.archive/2024/Sources/rw/📰 macOS Sonoma Web Apps Save Me From Constant Discord Updates.md
-.archive/2024/Sources/rw/📰 packer.nvim Is Unmaintained With pckr.nvim as a Spiritual Successor, Treesitter Query Editor Added to Neovim Core, and Floating Windows Can Have a Footer.md
-.archive/2024/Sources/rw/📰 🧙🏼‍♂️ OpenAI's GPT Store Delayed.md
-.archive/2024/Sources/🎙️ Remote Ruby.md
-.archive/2024/Sources/🎙️ Ruby for All.md
-.archive/2024/Sources/🎙️ The Ruby on Rails Podcast.md
-.archive/2024/Sources/📖 How to Make People Like You in 90 Seconds or Less.md
-.archive/2024/Sources/📖 How to Take Smart Notes.md
-.archive/2024/Sources/📖 Learn Better.md
-.archive/2024/Sources/📖 Practical Vim.md
-.archive/2024/Sources/📖 Radical Candor.md
-.archive/2024/Sources/📖 The PARA Method.md
-.archive/2024/Sources/📺 Obsidian - Supercharged Links - 2 multiple props.md
-.archive/2024/objects/Apps/1Password.app.md
-.archive/2024/objects/Apps/Aiko.app.md
-.archive/2024/objects/Apps/Alfred.app.md
-.archive/2024/objects/Apps/Amazon Kindle.app.md
-.archive/2024/objects/Apps/Apple Books.app.md
-.archive/2024/objects/Apps/Apps.md
-.archive/2024/objects/Apps/Arc.app.md
-.archive/2024/objects/Apps/Beam.app.md
-.archive/2024/objects/Apps/BetterTouchTool.app.md
-.archive/2024/objects/Apps/Blinkist.app.md
-.archive/2024/objects/Apps/Calendar.app.md
-.archive/2024/objects/Apps/Capacities.app.md
-.archive/2024/objects/Apps/ChatGPT.app.md
-.archive/2024/objects/Apps/Clay.app.md
-.archive/2024/objects/Apps/Contacts.app.md
-.archive/2024/objects/Apps/Dash.app.md
-.archive/2024/objects/Apps/Discord.app.md
-.archive/2024/objects/Apps/Gmail.app.md
-.archive/2024/objects/Apps/GoodTask.app.md
-.archive/2024/objects/Apps/Google Calendar.app.md
-.archive/2024/objects/Apps/Google Drive.app.md
-.archive/2024/objects/Apps/Google Sheets.app.md
-.archive/2024/objects/Apps/Gumroad.app.md
-.archive/2024/objects/Apps/Home.app.md
-.archive/2024/objects/Apps/Hookmark.app.md
-.archive/2024/objects/Apps/IFTTT.app.md
-.archive/2024/objects/Apps/Nanoleaf.app.md
-.archive/2024/objects/Apps/News Explorer.app.md
-.archive/2024/objects/Apps/NotePlan.app.md
-.archive/2024/objects/Apps/Notion.app.md
-.archive/2024/objects/Apps/Obsidian.app.md
-.archive/2024/objects/Apps/Paste.app.md
-.archive/2024/objects/Apps/Pieces.app.md
-.archive/2024/objects/Apps/Privacy.app.md
-.archive/2024/objects/Apps/Product Hunt.app.md
-.archive/2024/objects/Apps/Proton Mail.app.md
-.archive/2024/objects/Apps/Raindrop.app.md
-.archive/2024/objects/Apps/Readwise Reader.app.md
-.archive/2024/objects/Apps/Readwise.app.md
-.archive/2024/objects/Apps/Reddit.app.md
-.archive/2024/objects/Apps/Reminders.app.md
-.archive/2024/objects/Apps/Rocket.app.md
-.archive/2024/objects/Apps/Scrap.app.md
-.archive/2024/objects/Apps/Session.app.md
-.archive/2024/objects/Apps/Shortcuts.app.md
-.archive/2024/objects/Apps/Slack.app.md
-.archive/2024/objects/Apps/Spark Mail.app.md
-.archive/2024/objects/Apps/Structured.app.md
-.archive/2024/objects/Apps/Taskade.app.md
-.archive/2024/objects/Apps/Tripsy.app.md
-.archive/2024/objects/Apps/Warp.app.md
-.archive/2024/objects/Apps/Welltory.app.md
-.archive/2024/objects/Apps/Wemo.app.md
-.archive/2024/objects/Apps/Writers brew.app.md
-.archive/2024/objects/Apps/X.app.md
-.archive/2024/objects/Apps/YouTube.app.md
-.archive/2024/objects/Apps/Zoom.app.md
-.archive/2024/objects/Apps/one sec.app.md
-.archive/2024/objects/Apps/vscode.app.md
-.archive/2024/objects/Areas/Areas.md
-.archive/2024/objects/Areas/Communication &amp; Collaboration.md
-.archive/2024/objects/Areas/Creative Design.md
-.archive/2024/objects/Areas/Goals.md
-.archive/2024/objects/Areas/Health.md
-.archive/2024/objects/Areas/Knowledge Management.md
-.archive/2024/objects/Areas/Podcasting.md
-.archive/2024/objects/Areas/Research &amp; Exploration.md
-.archive/2024/objects/Areas/Ruby Radar.md
-.archive/2024/objects/Areas/Software Development.md
-.archive/2024/objects/Areas/Travel.md
-.archive/2024/objects/Areas/VIM.md
-.archive/2024/objects/Areas/Work.md
-.archive/2024/objects/Areas/Workflow.md
-.archive/2024/objects/Collections/Articles/Articles.md
-.archive/2024/objects/Collections/Books/Books.md
-.archive/2024/objects/Collections/Conference Talks/Conference Talks.md
-.archive/2024/objects/Collections/Conferences/Conferences.md
-.archive/2024/objects/Collections/Docs/Docs.md
-.archive/2024/objects/Collections/Gems/Gems.md
-.archive/2024/objects/Collections/Ideas/Ideas.md
-.archive/2024/objects/Collections/NPM Packages/NPM Packages.md
-.archive/2024/objects/Collections/Obsidian Plugins/Obsidian Plugins.md
-.archive/2024/objects/Collections/Organizations/Organizations.md
-.archive/2024/objects/Collections/People/People.md
-.archive/2024/objects/Collections/Podcast Episodes/Podcast Episodes.md
-.archive/2024/objects/Collections/Podcasts/Podcasts.md
-.archive/2024/objects/Collections/Resources/Neovim.md
-.archive/2024/objects/Collections/Resources/Resources.md
-.archive/2024/objects/Collections/Snippets/Snippets.md
-.archive/2024/objects/Collections/Tmux Plugins/Tmux Plugins.md
-.archive/2024/objects/Collections/Tutorials/Tutorials.md
-.archive/2024/objects/Collections/Tweets/Tweets.md
-.archive/2024/objects/Collections/VSCode Extensions/VSCode Extensions.md
-.archive/2024/objects/Collections/Videos/Videos.md
-.archive/2024/objects/Collections/cli/cli.md
-.archive/2024/objects/Contacts/Adrian Marin.md
-.archive/2024/objects/Contacts/Amanda Perino.md
-.archive/2024/objects/Contacts/Andrew Culver.md
-.archive/2024/objects/Contacts/Andrew Mason.md
-.archive/2024/objects/Contacts/Apple.md
-.archive/2024/objects/Contacts/Ben Hong.md
-.archive/2024/objects/Contacts/Ben Wood.md
-.archive/2024/objects/Contacts/Brett Terpstra.md
-.archive/2024/objects/Contacts/Brian Loomis.md
-.archive/2024/objects/Contacts/Brittany Martin.md
-.archive/2024/objects/Contacts/Bryan Jenks.md
-.archive/2024/objects/Contacts/CodeFund.md
-.archive/2024/objects/Contacts/Collin Jilbert.md
-.archive/2024/objects/Contacts/Contacts.md
-.archive/2024/objects/Contacts/Danny Hatcher.md
-.archive/2024/objects/Contacts/Dave Paola.md
-.archive/2024/objects/Contacts/Davide Santangelo.md
-.archive/2024/objects/Contacts/Drew Bragg.md
-.archive/2024/objects/Contacts/Eileen Uchitelle.md
-.archive/2024/objects/Contacts/Eric Halverson.md
-.archive/2024/objects/Contacts/GitHub.md
-.archive/2024/objects/Contacts/Guilherme Rambo.md
-.archive/2024/objects/Contacts/Harry Llewelyn.md
-.archive/2024/objects/Contacts/Jade Philippe.md
-.archive/2024/objects/Contacts/Jamie Lawrence.md
-.archive/2024/objects/Contacts/Jason Charnes.md
-.archive/2024/objects/Contacts/Jason Meller.md
-.archive/2024/objects/Contacts/Jason Swett.md
-.archive/2024/objects/Contacts/Jessica Pruitt.md
-.archive/2024/objects/Contacts/Joe Masilotti.md
-.archive/2024/objects/Contacts/Joel Hawksley.md
-.archive/2024/objects/Contacts/John Mavrick.md
-.archive/2024/objects/Contacts/John Nunemaker.md
-.archive/2024/objects/Contacts/Josh Branchaud.md
-.archive/2024/objects/Contacts/Kevin Murphy.md
-.archive/2024/objects/Contacts/Kevin Newton.md
-.archive/2024/objects/Contacts/Konnor Rogers.md
-.archive/2024/objects/Contacts/Maggie Appleton.md
-.archive/2024/objects/Contacts/Nathan Hopkins.md
-.archive/2024/objects/Contacts/Nick Milo.md
-.archive/2024/objects/Contacts/Nicole Van Der Hooven.md
-.archive/2024/objects/Contacts/OpenAI.md
-.archive/2024/objects/Contacts/Paul Bahr.md
-.archive/2024/objects/Contacts/Pedro Gaspar.md
-.archive/2024/objects/Contacts/Podia.md
-.archive/2024/objects/Contacts/Rustem Mussabekov.md
-.archive/2024/objects/Contacts/Sindre Sorhus.md
-.archive/2024/objects/Contacts/Stephanie Wiggins.md
-.archive/2024/objects/Contacts/TfTHacker.md
-.archive/2024/objects/Contacts/Ufuk Kayserilioglu.md
-.archive/2024/objects/Events/Events.md
-.archive/2024/objects/Extensions/Extensions.md
-.archive/2024/objects/Extensions/app.vscode.ext.copilot.md
-.archive/2024/objects/Extensions/ext.obsidian.actions-uri.md
-.archive/2024/objects/Extensions/ext.obsidian.advanced-uri.md
-.archive/2024/objects/Extensions/ext.obsidian.dataview.md
-.archive/2024/objects/Extensions/ext.obsidian.day-planner.md
-.archive/2024/objects/Extensions/ext.obsidian.helpmate.md
-.archive/2024/objects/Extensions/ext.obsidian.new-tab-default-page.md
-.archive/2024/objects/Extensions/ext.obsidian.nldates.md
-.archive/2024/objects/Extensions/ext.obsidian.obsidian-projects.md
-.archive/2024/objects/Extensions/ext.obsidian.quickadd.md
-.archive/2024/objects/Extensions/ext.obsidian.sets.md
-.archive/2024/objects/Extensions/ext.obsidian.templater.md
-.archive/2024/objects/Extensions/ext.tmux.tpm.md
-.archive/2024/objects/Meetings/2023-11-17-Dev Team Chat-meeting.md
-.archive/2024/objects/Meetings/2023-11-21-1-1 Andrew-Pedro-meeting.md
-.archive/2024/objects/Meetings/2023-12-05-Jason-Blog-Conversation-meeting.md
-.archive/2024/objects/Meetings/20231122-Blog-meeting.md
-.archive/2024/objects/Meetings/20231122-Harry Llewelyn and Andrew Mason-meeting.md
-.archive/2024/objects/Meetings/20231122-Sync Before Project Meeting-meeting.md
-.archive/2024/objects/Meetings/20231205-1-1 Andrew-Pedro-meeting.md
-.archive/2024/objects/Meetings/20231205-Blog-meeting.md
-.archive/2024/objects/Meetings/20240102-1-1 Andrew-Pedro-meeting.md
-.archive/2024/objects/Meetings/20240102-Blog-meeting.md
-.archive/2024/objects/Meetings/Meetings.md
-.archive/2024/objects/Notes/Best Terminal App of 2023.md
-.archive/2024/objects/Notes/Contacts and Calendar Integration Challenges.md
-.archive/2024/objects/Notes/Debugging Issues Syncing Blinkist Highlights to Readwise.md
-.archive/2024/objects/Notes/Effective Documentation for Developer Tools.md
-.archive/2024/objects/Notes/Ergonomic Tips for UHK.md
-.archive/2024/objects/Notes/Get Brand Information.md
-.archive/2024/objects/Notes/How to Download YouTube Videos.md
-.archive/2024/objects/Notes/Inlinks and Outlinks in Obsidian.md
-.archive/2024/objects/Notes/Notes.md
-.archive/2024/objects/Notes/Programming Fonts.md
-.archive/2024/objects/Notes/Questions Quick Capture App Idea.md
-.archive/2024/objects/Notes/Rails Guides Learning Workflow.md
-.archive/2024/objects/Notes/Remove Markdown Headers with VIM.md
-.archive/2024/objects/Notes/Thoughts vs Intentions.md
-.archive/2024/objects/Notes/Time Management.md
-.archive/2024/objects/Notes/Top Level Disciplines and Professions.md
-.archive/2024/objects/Notes/Transcribing Audio Solutions.md
-.archive/2024/objects/Notes/Using ASDF for Rails Development.md
-.archive/2024/objects/Notes/Using Daily Notes.md
-.archive/2024/objects/Notes/Using MOCs in Obsidian.md
-.archive/2024/objects/Notes/Using Sets Plugin in Obsidian.md
-.archive/2024/objects/Notes/What are Maps of Content.md
-.archive/2024/objects/Notes/When to Use Unless in Ruby.md
-.archive/2024/objects/Notes/Why I Use Warp.md
-.archive/2024/objects/Notes/iOS Apps I Use For Work.md
-.archive/2024/objects/Notes/iOS Apps I use for Work in 2023.md
-.archive/2024/objects/Notes/macOS Apps I Use the Most in 2023.md
-.archive/2024/objects/Packages/Packages.md
-.archive/2024/objects/Packages/gem.flipper.md
-.archive/2024/objects/Packages/gem.pry.md
-.archive/2024/objects/Packages/gem.rails.md
-.archive/2024/objects/Packages/gem.rspec.md
-.archive/2024/objects/Packages/gem.ruby-lsp-rspec.md
-.archive/2024/objects/Packages/npm.prettier.md
-.archive/2024/objects/Pages/Authors.md
-.archive/2024/objects/Pages/Common Network Ports.md
-.archive/2024/objects/Pages/Communication Protocol.md
-.archive/2024/objects/Pages/Pages.md
-.archive/2024/objects/Pages/Programming Languages.md
-.archive/2024/objects/Pages/Programming.md
-.archive/2024/objects/Pages/READMEs.md
-.archive/2024/objects/Pages/Task Management.md
-.archive/2024/objects/Pages/cli.asdf.md
-.archive/2024/objects/Pages/cli.brew.md
-.archive/2024/objects/Pages/cli.duti.md
-.archive/2024/objects/Pages/cli.fzf.md
-.archive/2024/objects/Pages/cli.git.md
-.archive/2024/objects/Pages/cli.jq.md
-.archive/2024/objects/Pages/cli.mackup.md
-.archive/2024/objects/Pages/cli.mdfind.md
-.archive/2024/objects/Pages/cli.mdls.md
-.archive/2024/objects/Pages/cli.skhd.md
-.archive/2024/objects/Pages/cli.tmux.md
-.archive/2024/objects/Pages/cli.yabai.md
-.archive/2024/objects/Pages/gem.activesupport.md
-.archive/2024/objects/Pages/google.bard.md
-.archive/2024/objects/Pages/lang.C++.md
-.archive/2024/objects/Pages/lang.css.md
-.archive/2024/objects/Pages/lang.html.md
-.archive/2024/objects/Pages/lang.java.md
-.archive/2024/objects/Pages/lang.js.md
-.archive/2024/objects/Pages/lang.json.md
-.archive/2024/objects/Pages/lang.lua.md
-.archive/2024/objects/Pages/lang.md
-.archive/2024/objects/Pages/lang.python.md
-.archive/2024/objects/Pages/lang.ruby.md
-.archive/2024/objects/Pages/lang.shell.md
-.archive/2024/objects/Pages/lang.sql.md
-.archive/2024/objects/Projects/BLOG-Page-Sections.md
-.archive/2024/objects/Projects/Christmas Holiday 2023.md
-.archive/2024/objects/Projects/Create Digital Brain Areas.md
-.archive/2024/objects/Projects/Create Podcast Helper GPT.md
-.archive/2024/objects/Projects/Create SOP Object Type.md
-.archive/2024/objects/Projects/Digital Brain.md
-.archive/2024/objects/Projects/Document Capture Workflow.md
-.archive/2024/objects/Projects/Dotfiles.md
-.archive/2024/objects/Projects/Organize Protonmail Folders.md
-.archive/2024/objects/Projects/Organize Protonmail Labels.md
-.archive/2024/objects/Projects/Podia Blog Project.md
-.archive/2024/objects/Projects/Podia DX.md
-.archive/2024/objects/Projects/Prepare for Rails Wrapped Episode.md
-.archive/2024/objects/Projects/Projects.md
-.archive/2024/objects/Projects/Raindrop.io API Testing.md
-.archive/2024/objects/Projects/Set Recurring Tasks.md
-.archive/2024/objects/Projects/Setup Sets Plugin.md
-.archive/2024/objects/Projects/System Organization.md
-.archive/2024/objects/Projects/Track time in Obsidian.md
-.archive/2024/objects/Projects/Update Obsidian PARA Templates.md
-.archive/2024/objects/Projects/Update Zi Setup.md
-.archive/2024/objects/Projects/Update shortcuts for digital brain.md
-.archive/2024/objects/Projects/Update timing app projects.md
-.archive/2024/objects/Resources/Current Interests.md
-.archive/2024/objects/Resources/Custom Web Searches.md
-.archive/2024/objects/Resources/December 2023 App Review.md
-.archive/2024/objects/Resources/Digital Brain Automation.md
-.archive/2024/objects/Resources/Dynamically render properties with dataview.md
-.archive/2024/objects/Resources/Example Daily Schedule.md
-.archive/2024/objects/Resources/Flipper Testimonial.md
-.archive/2024/objects/Resources/GitHub Copilot Usage.md
-.archive/2024/objects/Resources/Global Keybindings.md
-.archive/2024/objects/Resources/How To Setup Dockhunt.md
-.archive/2024/objects/Resources/How to add a new page section to the site editor.md
-.archive/2024/objects/Resources/IFTTT Automation Ideas.md
-.archive/2024/objects/Resources/My Email Addresses.md
-.archive/2024/objects/Resources/My Life Events.md
-.archive/2024/objects/Resources/NFC Usage Ideas.md
-.archive/2024/objects/Resources/Obsidian Sets Plugin Documentation.md
-.archive/2024/objects/Resources/Packing List.md
-.archive/2024/objects/Resources/Podia 2024 Product Roadmap.md
-.archive/2024/objects/Resources/Radix Colors.md
-.archive/2024/objects/Resources/Rails Tooling.md
-.archive/2024/objects/Resources/Resources.md
-.archive/2024/objects/Resources/SearchLink System Service.md
-.archive/2024/objects/Resources/Shortcuts Styleguide.md
-.archive/2024/objects/Resources/Spotlight Search Keywords.md
-.archive/2024/objects/Resources/Styleguides.md
-.archive/2024/objects/Resources/Vault Overview.md
-.archive/2024/objects/Resources/app.Alfred.workflows.md
-.archive/2024/objects/Sops/Blinkist Capture Workflow.md
-.archive/2024/objects/Sops/Publish Ruby for All.md
-.archive/2024/objects/Sops/Signup for Email Newsletter.md
-.archive/2024/objects/Sops/Sops.md
-.archive/2024/objects/Sources/📖 The Programmers Brain.md
-.archive/2024/objects/Tickets/AMC-Add Vim Shortcuts for VS Code GitHub.md
-.archive/2024/objects/Tickets/AMC-Associate Dev Files to VS Code Insiders.md
-.archive/2024/objects/Tickets/AMC-Check SEO items are appropriately set for posts.md
-.archive/2024/objects/Tickets/AMC-Document all capture sources.md
-.archive/2024/objects/Tickets/AMC-Install TPM.md
-.archive/2024/objects/Tickets/AMC-Rename all app notes to end with app.md
-.archive/2024/objects/Tickets/AMC-Test out ruby-lsp-rspec.md
-.archive/2024/objects/Tickets/Rename all app notes to end with app.md
-.archive/2024/objects/Tickets/Tickets.md
-.archive/2024/objects/Types/AppType.md
-.archive/2024/objects/Types/AreaType.md
-.archive/2024/objects/Types/ContactType.md
-.archive/2024/objects/Types/EventType.md
-.archive/2024/objects/Types/ExtensionType.md
-.archive/2024/objects/Types/MeetingType.md
-.archive/2024/objects/Types/NoteType.md
-.archive/2024/objects/Types/PackageType.md
-.archive/2024/objects/Types/PageType.md
-.archive/2024/objects/Types/ProjectType.md
-.archive/2024/objects/Types/ResourceType.md
-.archive/2024/objects/Types/SOPType.md
-.archive/2024/objects/Types/SourceType.md
-.archive/2024/objects/Types/TicketType.md
-.markdownlint.jsonc
-.obsidian/workspace.json
-publish.css
-util/attachments/Archive/2023-12-05T0901-CleanShot@2x.png
-util/attachments/Archive/2023-12-05T2102-CleanShot@2x.png
-util/attachments/Archive/2023-12-05T2104-CleanShot@2x.png
-util/attachments/Archive/2023-12-05T2106-CleanShot@2x.png
-util/qa_scripts/BookFinder.js
-util/qa_scripts/GemPluginImport.js
-util/qa_scripts/NpmImport.js
-util/qa_scripts/ObsidianPluginImporter.js
-util/qa_scripts/archive/BrewCaskImport.js
-util/qa_scripts/archive/BrewFormulaImport.js
-util/qa_scripts/archive/buildNote.js
-util/qa_scripts/archive/gdata
-util/qa_scripts/archive/vscedata
-util/qa_scripts/untitledNote.js
-util/tr_templates/App Body Template.md
-util/tr_templates/CLI Note Body Template.md
-util/tr_templates/Contact Body Template.md
-util/tr_templates/Daily Note Template.md
-util/tr_templates/Untitled Note Template.md
-util/tr_templates/Weekly Note Template.md
-~Index.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -4494,7 +4047,7 @@ util/tr_templates/Weekly Note Template.md
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 138k out of 45.1m repositories</span>
+                                    <span class="gh">ranked 138k out of 54.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 296 stars</div>
                             </div>
@@ -4579,7 +4132,7 @@ util/tr_templates/Weekly Note Template.md
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 611k out of 45.1m repositories</span>
+                                    <span class="gh">ranked 611k out of 54.9m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 19 times</div>
                             </div>
@@ -4834,7 +4387,7 @@ util/tr_templates/Weekly Note Template.md
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jan 2024, 04:01:22 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 3 Jan 2024, 05:01:21 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
