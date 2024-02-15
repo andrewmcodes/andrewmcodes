@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#30a14e" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#9be9a8" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8488 Commits
+                            8491 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    3.19m added, 2.80m removed
+                                    3.60m added, 2.86m removed
                                 </div>
                             </section>
                             <section>
@@ -437,12 +437,12 @@
                         <path fill-rule="evenodd" d="M8 1.5c-2.363 0-4 1.69-4 3.75 0 .984.424 1.625.984 2.304l.214.253c.223.264.47.556.673.848.284.411.537.896.621 1.49a.75.75 0 01-1.484.211c-.04-.282-.163-.547-.37-.847a8.695 8.695 0 00-.542-.68c-.084-.1-.173-.205-.268-.32C3.201 7.75 2.5 6.766 2.5 5.25 2.5 2.31 4.863 0 8 0s5.5 2.31 5.5 5.25c0 1.516-.701 2.5-1.328 3.259-.095.115-.184.22-.268.319-.207.245-.383.453-.541.681-.208.3-.33.565-.37.847a.75.75 0 01-1.485-.212c.084-.593.337-1.078.621-1.489.203-.292.45-.584.673-.848.075-.088.147-.173.213-.253.561-.679.985-1.32.985-2.304 0-2.06-1.637-3.75-4-3.75zM6 15.25a.75.75 0 01.75-.75h2.5a.75.75 0 010 1.5h-2.5a.75.75 0 01-.75-.75zM5.75 12a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5z"/>
                     </svg>
                     Recent coding habits
-                    <small class="h-details">(computed from last 104 commits)</small>
+                    <small class="h-details">(computed from last 106 commits)</small>
                 </h2>
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.1 characters per line of code written</li>
+                        <li>Has approximately 41.3 characters per line of code written</li>
                         <li>Mostly pushes code around 13:00</li>
                         <li>Mostly active on Friday</li>
                     </ul>
@@ -528,8 +528,8 @@
                             14
                         </div>
                         <div class="entry">
-                            <span class="value">7</span>
-                            <div class="bar" style="height: 29.166666666666668px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">9</span>
+                            <div class="bar" style="height: 37.5px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             15
                         </div>
                         <div class="entry">
@@ -599,8 +599,8 @@
                                 Wed
                             </div>
                             <div class="entry">
-                                <span class="value">18</span>
-                                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">20</span>
+                                <div class="bar" style="height: 37.03703703703704px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                                 Thu
                             </div>
                             <div class="entry">
@@ -620,27 +620,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 1.6890592336314607%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.538078614527549%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.607391396884438%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5530982570619588%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.1104126415684793%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.10054314223477823%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.03495878023801741%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.03183390564607926%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haml</span>
-                                <div class="bar" style="width: 0.01072440668656311%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.009765779819713558%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3400,6 +3400,99 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#6d63cf5</div>
+                                        <div class="message">chore: mac backup on 2024-02-15 15:56:40
+
+Affected files:
+.obsidian/appearance.json
+.obsidian/plugins/folder-notes/main.js
+.obsidian/plugins/folder-notes/manifest.json
+.obsidian/plugins/ical/main.js
+.obsidian/plugins/ical/manifest.json
+.obsidian/plugins/linked-data-vocabularies/main.js
+.obsidian/plugins/linked-data-vocabularies/manifest.json
+.obsidian/plugins/links/main.js
+.obsidian/plugins/links/manifest.json
+.obsidian/plugins/note-gallery/main.js
+.obsidian/plugins/note-gallery/manifest.json
+.obsidian/plugins/note-gallery/styles.css
+.obsidian/plugins/obsidian-excalidraw-plugin/data.json
+.obsidian/plugins/obsidian-minimal-settings/data.json
+.obsidian/plugins/obsidian-style-settings/data.json
+.obsidian/plugins/obsidian42-brat/manifest.json
+.obsidian/plugins/quickadd/data.json
+.obsidian/plugins/quickadd/main.js
+.obsidian/plugins/quickadd/manifest.json
+.obsidian/plugins/smart-connections/main.js
+.obsidian/plugins/smart-connections/manifest.json
+.obsidian/plugins/templater-obsidian/main.js
+.obsidian/plugins/templater-obsidian/manifest.json
+.obsidian/themes/Border/manifest.json
+.obsidian/themes/Border/theme.css
+.obsidian/themes/Minimal/manifest.json
+.obsidian/themes/Minimal/theme.css
+.obsidian/themes/Shimmering Focus/manifest.json
+.obsidian/themes/Shimmering Focus/theme.css
+.obsidian/themes/Things/manifest.json
+.obsidian/themes/Things/theme.css
+.obsidian/themes/iB Writer/manifest.json
+.obsidian/themes/iB Writer/theme.css
+.obsidian/workspace.json
+CRM/Organizations/Organizations.md
+Notes/How to display outlink count in Obsidian properties.md
+Notes/Manipulating JSON with JQ.md
+Notes/Overview of Essential Developer Tools.md
+Pages/Devdocs is a great resource of developer documentation.md
+Pages/HTML.md
+Pages/PostgreSQL.md
+Pages/Software Development.md
+Resources/My Current Interests.md
+Tools/Obsidian Metadata Menu.md
+Tools/jq.cli.md
+log/daily/2024-02-14.md
+log/daily/2024-02-15.md
+schema/note.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#ecf557d</div>
+                                        <div class="message">chore: mac backup on 2024-02-15 15:01:07
+
+Affected files:
+.obsidian/workspace.json</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#13416ac</div>
                                         <div class="message">chore: mac manual backup on 2024-02-14 15:29:34
 
@@ -3554,87 +3647,6 @@ readwise/podcast_episodes/🎙 E37 R.J. Nestor —  Action Powered Productivity 
 schema/source.md
 util/tr_templates/App - Body Template.md
 util/tr_templates/Library - Body Template.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#44abb7b</div>
-                                        <div class="message">chore: mac backup on 2024-02-14 11:35:34
-
-Affected files:
-+inbox/SOP - Capturing YouTube Video Notes.md
-.obsidian/plugins/quickadd/data.json
-.obsidian/workspace.json
-Notes/How to Take Meeting Notes.md
-Pages/Framework.md
-Pages/Knowledge Management.md
-Pages/Meeting Notes.md
-Pages/Note-Taking.md
-Pages/Obsidian Appearance and Themes.md
-Pages/Software Development.md
-Pages/Understanding Quick Capture in Knowledge Management.md
-Pages/Zettelkasten.md
-Projects/Implement TR Template for Tools.md
-Projects/Save YouTube Videos in Digital Brain.md
-Projects/Update ChatGPT Custom Instructions.md
-Resources/AI Tone Library.md
-Resources/Alfred Script Filter JSON Format.md
-Resources/Colorplay.md
-Resources/Get App Details By Bundle ID.md
-Resources/How I Track Goals.md
-Resources/My Capture Tools.md
-Resources/My Current Interests.md
-Resources/Obsidian Current Theme Viewer.md
-Resources/Play App API.md
-Resources/Social Media Resources.md
-Resources/YouTube Template For ChatGPT.md
-log/daily/2024-02-14.md
-schema/resource.md
-util/tr_templates/Project - Body Template.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#e4eb609</div>
-                                        <div class="message">chore: mac backup on 2024-02-14 08:43:09
-
-Affected files:
-.obsidian/types.json
-.obsidian/workspace.json
-Apps/Apps.md
-Apps/Medium.app.md
-Apps/Spark Mail.app.md
-Notes/List Apps Downloaded from the App Store.md
-Resources/My Capture Tools.md
-log/daily/2024-02-14.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -4204,7 +4216,7 @@ log/daily/2024-02-14.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 136k out of 82.8m repositories</span>
+                                    <span class="gh">ranked 136k out of 73.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 305 stars</div>
                             </div>
@@ -4250,7 +4262,7 @@ log/daily/2024-02-14.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 563k out of 82.8m repositories</span>
+                                    <span class="gh">ranked 563k out of 73.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 21 times</div>
                             </div>
@@ -4505,7 +4517,7 @@ log/daily/2024-02-14.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2024, 15:01:27 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2024, 16:01:27 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
