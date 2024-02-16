@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            8491 Commits
+                            8492 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.25m added, 4.94m removed
+                                    481k added, 59.3k removed
                                 </div>
                             </section>
                             <section>
@@ -399,8 +399,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="309.26 329"/>
-                                <text x="60" y="60" dominant-baseline="central">94</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
+                                <text x="60" y="60" dominant-baseline="central">99</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -538,13 +538,13 @@
                             16
                         </div>
                         <div class="entry">
-                            <span class="value">3</span>
-                            <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">2</span>
+                            <div class="bar" style="height: 8.333333333333332px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             17
                         </div>
                         <div class="entry">
-                            <span class="value">4</span>
-                            <div class="bar" style="height: 16.666666666666664px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">5</span>
+                            <div class="bar" style="height: 20.833333333333336px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             18
                         </div>
                         <div class="entry">
@@ -620,27 +620,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 1.55253578471124%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 1.5515786182557334%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">2%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 0.5582971042178332%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.5579529039323221%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">1%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 0.1014881975163236%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.10142562820278568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.03213312844730019%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.032113317791105905%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haml</span>
-                                <div class="bar" style="width: 0.009857573268693683%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.009851495896076314%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -740,7 +740,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~5.51
+                            Average per day at ~5.52
                         </div>
                     </section>
                 </div>
@@ -1706,10 +1706,10 @@
                                 <path fill="#30a14e" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,4.571428571428571 0,3.571428571428571 z"/>
                                 <path fill="#30a14e" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,3.571428571428571 1.7,4.571428571428571 z"/>
                             </g>
-                            <g transform="translate(-6.8, 9.571428571428571)">
+                            <g transform="translate(-6.8, 9.357142857142858)">
                                 <path fill="#9be9a8" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.4285714285714284 0,1.4285714285714286 z"/>
-                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.4285714285714286 1.7,2.4285714285714284 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2.642857142857143 0,1.6428571428571428 z"/>
+                                <path fill="#9be9a8" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1.6428571428571428 1.7,2.642857142857143 z"/>
                             </g>
                         </g>
                     </g>
@@ -3368,6 +3368,33 @@
                                 <div class="details">
                                     <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
+                                        <div class="sha">#a4bf7b9</div>
+                                        <div class="message">chore: mac backup on 2024-02-15 18:11:02
+
+Affected files:
+.obsidian/workspace.json
+Areas/Digital Brain.md
+SOPs/SOP - Capturing Highlights for Physical Mediums.md
+log/daily/2024-02-15.md
+🧠 Knowledge Hub.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
                                         <div class="sha">#6d63cf5</div>
                                         <div class="message">chore: mac backup on 2024-02-15 15:56:40
 
@@ -3550,71 +3577,6 @@ log/daily/2024-02-14.md
 readwise/Readwise Syncs.md
 readwise/podcast_episodes/🎙 372 – Simone Giertz —  Queen of Shtty Robots, Innovative Engineering, and Design.md
 🧠 Knowledge Hub.md</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b4289e3</div>
-                                        <div class="message">chore: mac manual backup on 2024-02-14 12:33:50
-
-Affected files:
-+inbox/SOP - Capturing YouTube Video Notes.md
-.obsidian/plugins/readwise-official/data.json
-.obsidian/workspace.json
-.obsidian/workspaces.json
-Areas/Digital Brain.md
-Areas/Social Media.md
-Projects/Clean out Paste pinboard.md
-Projects/Create Video Capture SOP.md
-Projects/Save YouTube Videos in Digital Brain.md
-Resources/Play App API.md
-Sources/📺 Obsidian- Building the Meta-Templater from Scratch.md
-Tools/rails.gem.md
-log/daily/2024-02-14.md
-readwise/Readwise Syncs.md
-readwise/articles/📰 A Hierarchy First Approach to Note Taking.md
-readwise/articles/📰 AWS Well-Architected Framework.md
-readwise/articles/📰 Apple Introduces Transcripts for Podcasts.md
-readwise/articles/📰 Automation Academy Tips for Optimizing Your Shortcuts for macOS Monterey.md
-readwise/articles/📰 Fixing Hallucinations in LLMs.md
-readwise/articles/📰 Google Rebrands Bard to Gemini.md
-readwise/articles/📰 Google’s ImageFX AI Image Generator Is Here.md
-readwise/articles/📰 MacOS Apps to Customize Your MacBook.md
-readwise/articles/📰 MacStories Weekly Issue 403.md
-readwise/articles/📰 My Secret Sauce of Using ChatGPT.md
-readwise/articles/📰 Obsidian Plugins Review — 42.md
-readwise/articles/📰 Obsidian Time Tracking.md
-readwise/articles/📰 One-Touch to Inbox Zero How I Spend 17 Minutes Per Day on Email.md
-readwise/articles/📰 Optimizing Shortcuts for the Launcher App and Home Screen Widgets.md
-readwise/articles/📰 Q&amp;A With the Apple UX Writing Team.md
-readwise/articles/📰 Reviewing Zed The IDE of the Future.md
-readwise/articles/📰 The Future Of
-Generative AI for ITOps.md
-readwise/articles/📰 The Science of Analysis Paralysis.md
-readwise/articles/📰 This One Prompt Will Teach You How to Use ChatGPT.md
-readwise/articles/📰 Use ChatGPT to Brainstorm Ideas. And Automation to Organize Results..md
-readwise/articles/📰 Warp Terminal Emulator Review.md
-readwise/articles/📰 Why I Have 9 Workspaces Open in macOS.md
-readwise/books/📖 High Performance PostgreSQL for Rails.md
-readwise/books/📖 The Programmer's Brain.md
-readwise/podcast_episodes/🎙 E37 R.J. Nestor —  Action Powered Productivity in PKM.md
-schema/source.md
-util/tr_templates/App - Body Template.md
-util/tr_templates/Library - Body Template.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -4184,7 +4146,7 @@ util/tr_templates/Library - Body Template.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 136k out of 84.1m repositories</span>
+                                    <span class="gh">ranked 136k out of 73.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 305 stars</div>
                             </div>
@@ -4230,7 +4192,7 @@ util/tr_templates/Library - Body Template.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 563k out of 84.1m repositories</span>
+                                    <span class="gh">ranked 563k out of 73.3m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 21 times</div>
                             </div>
@@ -4485,7 +4447,7 @@ util/tr_templates/Library - Body Template.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Feb 2024, 17:01:50 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Feb 2024, 18:21:40 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
