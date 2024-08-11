@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    1.73m added, 1.15m removed
+                                    3.32m added, 2.51m removed
                                 </div>
                             </section>
                             <section>
@@ -2282,9 +2282,9 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="137.58620689655172" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="137.58620689655172" y="0" width="86.89655172413794" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="224.48275862068965" y="0" width="50.689655172413794" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="144.82758620689657" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="144.82758620689657" y="0" width="86.89655172413794" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="231.72413793103448" y="0" width="43.44827586206897" height="8" fill="#89e051"/>
                                         <rect mask="url(#languages-bar)" x="275.17241379310343" y="0" width="43.44827586206897" height="8" fill="#4f5d95"/>
                                         <rect mask="url(#languages-bar)" x="318.6206896551724" y="0" width="28.96551724137931" height="8" fill="#00add8"/>
                                         <rect mask="url(#languages-bar)" x="347.58620689655174" y="0" width="28.96551724137931" height="8" fill="#f05138"/>
@@ -2304,8 +2304,8 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>25.33%</div>
-                                                <div>19★</div>
+                                                <div>26.67%</div>
+                                                <div>20★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -2316,8 +2316,8 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>9.33%</div>
-                                                <div>7★</div>
+                                                <div>8%</div>
+                                                <div>6★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -3849,7 +3849,7 @@ log/daily/2024-08-08.md</div>
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="93.08487337440111 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -4142,7 +4142,7 @@ log/daily/2024-08-08.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 131k out of 213m repositories</span>
+                                    <span class="gh">ranked 131k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 344 stars</div>
                             </div>
@@ -4188,7 +4188,7 @@ log/daily/2024-08-08.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 537k out of 213m repositories</span>
+                                    <span class="gh">ranked 537k out of 214m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 23 times</div>
                             </div>
@@ -4443,7 +4443,7 @@ log/daily/2024-08-08.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Aug 2024, 08:01:09 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Aug 2024, 09:01:08 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
