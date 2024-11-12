@@ -333,8 +333,8 @@
                         <div class="category column">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge high">
                                 <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="325.71 329"/>
-                                <text x="60" y="60" dominant-baseline="central">99</text>
+                                <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="329 329"/>
+                                <text x="60" y="60" dominant-baseline="central">100</text>
                             </svg>
                             <span class="title">Performance</span>
                         </div>
@@ -3639,7 +3639,7 @@ Pages/Shortcuts Graveyard.md</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 41.5k out of 147m users</span>
+                                    <span class="gh">ranked 41.5k out of 148m users</span>
                                 </div>
                                 <div class="text">Published 233 public repositories</div>
                             </div>
@@ -3844,7 +3844,7 @@ Pages/Shortcuts Graveyard.md</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 32k out of 147m users</span>
+                                    <span class="gh">ranked 32k out of 148m users</span>
                                 </div>
                                 <div class="text">Followed by 303 users</div>
                             </div>
@@ -3988,7 +3988,7 @@ Pages/Shortcuts Graveyard.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 132k out of 211m repositories</span>
+                                    <span class="gh">ranked 132k out of 206m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 352 stars</div>
                             </div>
@@ -4243,7 +4243,7 @@ Pages/Shortcuts Graveyard.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Nov 2024, 03:01:24 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 12 Nov 2024, 04:01:29 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
