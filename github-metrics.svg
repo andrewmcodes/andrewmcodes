@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6656" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6639" class="">
     <defs>
         <style/>
     </defs>
@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    121k added, 51k removed
+                                    7.20m added, 5.45m removed
                                 </div>
                             </section>
                             <section>
@@ -3458,6 +3458,22 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.5 1.75a.25.25 0 01.25-.25h8.5a.25.25 0 01.25.25v7.736a.75.75 0 101.5 0V1.75A1.75 1.75 0 0011.25 0h-8.5A1.75 1.75 0 001 1.75v11.5c0 .966.784 1.75 1.75 1.75h3.17a.75.75 0 000-1.5H2.75a.25.25 0 01-.25-.25V1.75zM4.75 4a.75.75 0 000 1.5h4.5a.75.75 0 000-1.5h-4.5zM4 7.75A.75.75 0 014.75 7h2a.75.75 0 010 1.5h-2A.75.75 0 014 7.75zm11.774 3.537a.75.75 0 00-1.048-1.074L10.7 14.145 9.281 12.72a.75.75 0 00-1.062 1.058l1.943 1.95a.75.75 0 001.055.008l4.557-4.45z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Reviewed
+                                        <span class="issue">#13895 [PODIA-3715] Add `Discussion::Post` model</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by diogobeda in <span class="repo">podia/podia</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                                     </svg>
                                     <div class="content">
@@ -3606,78 +3622,6 @@ either way that was correct!)</div>
                                     <div class="commit">
                                         <div class="sha">#c262656</div>
                                         <div class="message">Update audited to version 5.8.0</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">andrewmcodes/digital-brain</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">main</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#87db864</div>
-                                        <div class="message">chore: mac backup on 2024-12-05 09:17:29
-
-Affected files:
-.obsidian/workspace.json
-.smart-env/multi/Pages_Data_formats_md.ajson
-.smart-env/multi/Pages_Developer_Tools_md.ajson
-.smart-env/multi/Pages_Information_Systems_md.ajson
-.smart-env/multi/Pages_Obsidian_-_Vim_md.ajson
-.smart-env/multi/Pages_Obsidian_Resources_md.ajson
-.smart-env/multi/Pages_Operating_Systems_md.ajson
-.smart-env/multi/Pages_Programming_Languages_&amp;_Frameworks_md.ajson
-.smart-env/multi/Pages_Shortcuts_Graveyard_md.ajson
-.smart-env/multi/Pages_Templater_Scripts_md.ajson
-.smart-env/multi/Pages_Vault_Tags_md.ajson
-.smart-env/multi/Pages_ZSH_md.ajson
-.smart-env/multi/Pages_✱_Home_md.ajson
-.smart-env/multi/areas_.ajson
-.smart-env/multi/areas_🏠_Home_&amp;_Auto_md.ajson
-.smart-env/multi/collections_.ajson
-.smart-env/multi/collections_✱_Apps_md.ajson
-.smart-env/multi/collections_✱_Organizations_md.ajson
-.smart-env/multi/collections_✱_Software_md.ajson
-.smart-env/multi/mesh_.ajson
-.smart-env/multi/notes_.ajson
-.smart-env/multi/pages_.ajson
-.smart-env/multi/pages_Note-Taking_md.ajson
-.smart-env/multi/pages_Vault_Schema_md.ajson
-.smart-env/multi/pages_✱_Computer_Science_md.ajson
-.smart-env/multi/pages_✱_Knowledge_Management_md.ajson
-.smart-env/multi/pages_✱_Productivity_md.ajson
-.smart-env/multi/projects_.ajson
-.smart-env/multi/projects_Create_Vault_Schema_Interfaces_md.ajson
-.smart-env/multi/projects_DX-39_md.ajson
-.smart-env/multi/projects_Establish_default_personal_theme_md.ajson
-.smart-env/multi/projects_Fix_Rails_Next_GitHub_Actions_md.ajson
-.smart-env/multi/projects_Obsidian_Design_Theme_md.ajson
-.smart-env/multi/projects_PODIA-3210_md.ajson
-.smart-env/multi/projects_Podia_Blog_Categories_md.ajson
-.smart-env/multi/projects_Podia_Pricing_2024_md.ajson
-.smart-env/multi/projects_Raindrop_Refactor_2024-Q4_md.ajson
-.smart-env/multi/projects_Setup_Script_to_Open_Recent_Obsidian_Files_with_FZF_md.ajson
-.smart-env/multi/projects_TECH-996_Trying_out_Selective_CI_at_Podia_md.ajson
-.smart-env/multi/projects_USAA_Credit_Card_Closure_Discrepancy_md.ajson
-.smart-env/multi/smart_chats_.ajson
-.smart-env/multi/smart_chats_UNTITLED_CHAT_2024-10-26_04_30_33_md.ajson
-.smart-env/multi/software_.ajson
-.smart-env/multi/software_Homebrew_md.ajson
-.smart-env/multi/software_Hookmark_app_md.ajson
-.smart-env/multi/software_VS_Code_app_md.ajson
-.smart-env/multi/software_chezmoi_md.ajson
-.smart-env/multi/sources_.ajson
-.smart-env/multi/~Brainstorm_md.ajson
-Notes/Object Oriented Note-Taking.md</div>
                                     </div>
                                 </div>
                             </section>
@@ -3831,7 +3775,7 @@ Notes/Object Oriented Note-Taking.md</div>
                                 <div class="title">
                                     <span class="prefix">Master</span>
                                     developer
-                                    <span class="gh">ranked 41.9k out of 150m users</span>
+                                    <span class="gh">ranked 41.9k out of 137m users</span>
                                 </div>
                                 <div class="text">Published 233 public repositories</div>
                             </div>
@@ -4103,7 +4047,7 @@ Notes/Object Oriented Note-Taking.md</div>
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 32.1k out of 150m users</span>
+                                    <span class="gh">ranked 32.1k out of 137m users</span>
                                 </div>
                                 <div class="text">Followed by 306 users</div>
                             </div>
@@ -4548,7 +4492,7 @@ Notes/Object Oriented Note-Taking.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Dec 2024, 17:02:06 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 6 Dec 2024, 18:28:33 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
