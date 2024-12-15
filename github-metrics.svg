@@ -190,7 +190,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    6.63m added, 5.20m removed
+                                    2.62m added, 2.24m removed
                                 </div>
                             </section>
                             <section>
@@ -238,14 +238,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.2185163560382" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="213.2185163560382" y="0" width="133.9683222989234" height="8" fill="#701516"/>
-                    <rect mask="url(#languages-bar)" x="347.1868386549616" y="0" width="52.26595782337102" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="399.45279647833263" y="0" width="21.12728323257142" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="420.58007971090404" y="0" width="13.342162291457875" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="433.9222420023619" y="0" width="9.728584621952427" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="443.65082662431433" y="0" width="8.280341111469053" height="8" fill="#e38c00"/>
-                    <rect mask="url(#languages-bar)" x="451.9311677357834" y="0" width="8.068832264216583" height="8" fill="#000080"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="213.2183638860593" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="213.2183638860593" y="0" width="133.96822649979853" height="8" fill="#701516"/>
+                    <rect mask="url(#languages-bar)" x="347.18659038585787" y="0" width="52.265920448617535" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="399.4525108344754" y="0" width="21.127268124707037" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="420.5797789591824" y="0" width="13.3421527506392" height="8" fill="#4F5D95"/>
+                    <rect mask="url(#languages-bar)" x="433.92193170982165" y="0" width="9.72857766515938" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="443.650509374981" y="0" width="8.280335190297402" height="8" fill="#e38c00"/>
+                    <rect mask="url(#languages-bar)" x="451.93084456527845" y="0" width="8.069155434721594" height="8" fill="#000080"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -4154,7 +4154,7 @@ Projects/PODIA-3722.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 132k out of 221m repositories</span>
+                                    <span class="gh">ranked 132k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 357 stars</div>
                             </div>
@@ -4200,7 +4200,7 @@ Projects/PODIA-3722.md</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 552k out of 221m repositories</span>
+                                    <span class="gh">ranked 552k out of 204m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 23 times</div>
                             </div>
@@ -4455,7 +4455,7 @@ Projects/PODIA-3722.md</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 15 Dec 2024, 01:01:15 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 15 Dec 2024, 02:01:15 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
