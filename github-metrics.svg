@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6508" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="6058" class="">
     <defs>
         <style/>
     </defs>
@@ -376,7 +376,7 @@
                 <div class="row">
                     <ul class="facts">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 41.3 characters per line of code written</li>
+                        <li>Has approximately 42.1 characters per line of code written</li>
                         <li>Mostly pushes code around 08:00</li>
                         <li>Mostly active on Thursday</li>
                     </ul>
@@ -418,57 +418,57 @@
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             06
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             07
                         </div>
                         <div class="entry">
-                            <span class="value">10</span>
+                            <span class="value">11</span>
                             <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             08
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             09
                         </div>
                         <div class="entry">
                             <span class="value">6</span>
-                            <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 27.27272727272727px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             10
                         </div>
                         <div class="entry">
-                            <span class="value">8</span>
-                            <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">7</span>
+                            <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             11
                         </div>
                         <div class="entry">
                             <span class="value">7</span>
-                            <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="height: 31.818181818181817px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             12
                         </div>
                         <div class="entry">
                             <span class="value">4</span>
-                            <div class="bar" style="height: 20px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 18.181818181818183px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             13
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             14
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             15
                         </div>
                         <div class="entry">
                             <span class="value">2</span>
-                            <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 9.090909090909092px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             16
                         </div>
                         <div class="entry">
@@ -498,7 +498,7 @@
                         </div>
                         <div class="entry">
                             <span class="value">1</span>
-                            <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 4.545454545454546px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             22
                         </div>
                         <div class="entry">
@@ -518,8 +518,8 @@
                                 Sun
                             </div>
                             <div class="entry">
-                                <span class="value">6</span>
-                                <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">5</span>
+                                <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                                 Mon
                             </div>
                             <div class="entry">
@@ -538,8 +538,8 @@
                                 Thu
                             </div>
                             <div class="entry">
-                                <span class="value">11</span>
-                                <div class="bar" style="height: 39.285714285714285px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">12</span>
+                                <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                                 Fri
                             </div>
                             <div class="entry">
@@ -554,27 +554,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">Ruby</span>
-                                <div class="bar" style="width: 36.909992226890125%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">46%</span>
+                                <div class="bar" style="width: 36.12276071107232%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">45%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">HTML</span>
-                                <div class="bar" style="width: 9.276435378840809%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">12%</span>
+                                <div class="bar" style="width: 9.168014300361394%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">11%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 3.21086904578271%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 3.173341065412794%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">SCSS</span>
-                                <div class="bar" style="width: 0.04210182471485995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.04160974720285051%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Haml</span>
-                                <div class="bar" style="width: 0.026616096084106866%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.026305012599503193%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3357,6 +3357,45 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Starred
+                                        <span class="repo">excid3/esbuild-rails</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">andrewmcodes/digital-brain</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6e869eb</div>
+                                        <div class="message">chore: mac backup on 2025-02-14 08:36:25
+
+Affected files:
+.obsidian/plugins/github-link/data.json
+.obsidian/workspace.json
+Projects/Upgrade Podia Esbuild Version.md
+log/daily/2025-02-14.md</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
                                     </svg>
                                     <div class="content">
@@ -3421,158 +3460,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">podia/podia</span></div>
                                     <div>32 files changed <span class="code">++147 --141</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 91 commits in
-                                        <span class="repo">podia/podia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">podia-4189-rebrand-twitter-to-x</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#4e7049b</div>
-                                        <div class="message">Fixes specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1e02a80</div>
-                                        <div class="message">Removes remaining uses of offer_id/offer_type in Upsell</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5831d91</div>
-                                        <div class="message">Updates polymorphic associations to use offerable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#514a1af</div>
-                                        <div class="message">Updates upsell form to use offerable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f231bfb</div>
-                                        <div class="message">Removes Upsell#offer association from model</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#48577f7</div>
-                                        <div class="message">Updates Upsell#offer references to Upsell#offerable</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e975e4d</div>
-                                        <div class="message">Make Product records "discountable" (#14407)
-
-* Make `Product` records "discountable"
-
-* Look up coupons by product if cart item is a sellable
-
-* Make discounted items point to product instead of course
-
-* Update coupon exported CSV to include products
-
-* Update specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b25e0dc</div>
-                                        <div class="message">Stop creating Quaderno sales for non-taxed orders</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b098de9</div>
-                                        <div class="message">Remove before_save callback to facilitate identifying if records are created without site</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#721fd53</div>
-                                        <div class="message">New flag fill icon</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6f1c4f1</div>
-                                        <div class="message">Add migration to change product_id null constraint in enrollments</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7b4f0fe</div>
-                                        <div class="message">Merge pull request #14474 from podia/2-podia-4114-move-affiliate_product_commission-to-product
-
-[Podia 4114] Remove affiliate product commission from course</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#8f35fc2</div>
-                                        <div class="message">Remove `:discussion_profiles` flag</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2e7cd9c</div>
-                                        <div class="message">Updates specs</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2045815</div>
-                                        <div class="message">Removes affiliate product commission association from course</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#400c6e6</div>
-                                        <div class="message">Removes product commission maintenance tasks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2d17f94</div>
-                                        <div class="message">Removes course affiliate product commission fallbacks</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#247e7aa</div>
-                                        <div class="message">Remove the temporary test file</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7d0d2c7</div>
-                                        <div class="message">Danger warn on block-less travel_to without travel_back</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7619f61</div>
-                                        <div class="message">Update ruby-lsp-rspec to version 0.1.22</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">podia/podia</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">podia-4189-rebrand-twitter-to-x</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#14774a5</div>
-                                        <div class="message">chore: add twitter to ignored columns so it can be dropped</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e387b7b</div>
-                                        <div class="message">fix: meta tags</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9629c60</div>
-                                        <div class="message">refactor: rename Twitter to X across the application</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cb67761</div>
-                                        <div class="message">refactor: update Twitter link to X in user mailer and routes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4767d08</div>
-                                        <div class="message">refactor: remove legacy component</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#57af34c</div>
-                                        <div class="message">refactor: remove label_for override</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9ce74cc</div>
-                                        <div class="message">refactor: temporarily allow twitter</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -4074,7 +3961,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 134k out of 233m repositories</span>
+                                    <span class="gh">ranked 134k out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 361 stars</div>
                             </div>
@@ -4329,7 +4216,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Feb 2025, 13:01:22 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2025, 14:01:17 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
