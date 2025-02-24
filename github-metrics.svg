@@ -3925,7 +3925,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.872872872872875 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="58.028028028028025 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g transform="translate(4 4)" fill="none" fill-rule="evenodd">
@@ -3950,7 +3950,7 @@
                                     Maintainer
                                     <span class="gh">ranked 130k out of 225m repositories</span>
                                 </div>
-                                <div class="text">Maintaining a repository with 374 stars</div>
+                                <div class="text">Maintaining a repository with 375 stars</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -4203,7 +4203,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Feb 2025, 00:01:12 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Feb 2025, 01:01:12 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
