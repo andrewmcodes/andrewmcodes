@@ -3941,7 +3941,7 @@ I previously missed this location in #14645 when adding `site_id` to `Blog::Post
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 127k out of 225m repositories</span>
+                                    <span class="gh">ranked 127k out of 229m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 385 stars</div>
                             </div>
@@ -4196,7 +4196,7 @@ I previously missed this location in #14645 when adding `site_id` to `Blog::Post
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Mar 2025, 00:01:24 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Mar 2025, 01:01:15 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
