@@ -3754,7 +3754,7 @@ Now that several days have gone by without a `Blog::Post` being created in produ
                                 <div class="title">
                                     <span class="prefix">Great</span>
                                     influencer
-                                    <span class="gh">ranked 32.7k out of 159m users</span>
+                                    <span class="gh">ranked 32.8k out of 159m users</span>
                                 </div>
                                 <div class="text">Followed by 316 users</div>
                             </div>
@@ -3898,7 +3898,7 @@ Now that several days have gone by without a `Blog::Post` being created in produ
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 127k out of 236m repositories</span>
+                                    <span class="gh">ranked 127k out of 226m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 385 stars</div>
                             </div>
@@ -4153,7 +4153,7 @@ Now that several days have gone by without a `Blog::Post` being created in produ
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 14 Mar 2025, 05:01:27 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Mar 2025, 06:05:51 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
