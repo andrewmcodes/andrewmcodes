@@ -2477,9 +2477,9 @@
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="328.125" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="328.125" y="0" width="26.25" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="354.375" y="0" width="26.25" height="8" fill="#663399"/>
-                                        <rect mask="url(#languages-bar)" x="380.625" y="0" width="26.25" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="328.125" y="0" width="39.375" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="367.5" y="0" width="26.25" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="393.75" y="0" width="13.125" height="8" fill="#663399"/>
                                         <rect mask="url(#languages-bar)" x="406.875" y="0" width="13.125" height="8" fill="#67b8de"/>
                                     </svg>
                                 </div>
@@ -2500,9 +2500,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                CSS
+                                                JavaScript
                                             </div>
                                             <small>
                                                 <div>6.06%</div>
@@ -2526,25 +2526,25 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                                </svg>
-                                                JavaScript
-                                            </div>
-                                            <small>
-                                                <div>6.06%</div>
-                                                <div>2★</div>
-                                            </small>
-                                        </div>
-                                        <div class="field language details">
-                                            <div class="field">
-                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                                     <path fill="#e34c26" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
                                                 HTML
                                             </div>
                                             <small>
-                                                <div>6.06%</div>
-                                                <div>2★</div>
+                                                <div>9.09%</div>
+                                                <div>3★</div>
+                                            </small>
+                                        </div>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                CSS
+                                            </div>
+                                            <small>
+                                                <div>3.03%</div>
+                                                <div>1★</div>
                                             </small>
                                         </div>
                                     </section>
@@ -3544,7 +3544,7 @@ We added `flex-grow: 1` to `ImageLink` in #15270, which caused the logo to cente
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 May 2025, 09:01:21 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 9 May 2025, 10:01:18 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
