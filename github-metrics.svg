@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 3533 repositories
+                            Starred 3534 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1989,7 +1989,7 @@
                                 </svg>
                                 🔀 Actions
                             </h2>
-                            <div class="count">27 repositories</div>
+                            <div class="count">28 repositories</div>
                             <div class="description">GitHub Actions</div>
                             <div class="languages">
                                 <div class="row">
@@ -1998,13 +1998,14 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="200.8695652173913" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="200.8695652173913" y="0" width="73.04347826086956" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="273.9130434782609" y="0" width="54.78260869565217" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="328.69565217391306" y="0" width="36.52173913043478" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="365.21739130434787" y="0" width="18.26086956521739" height="8" fill="#4f5d95"/>
-                                        <rect mask="url(#languages-bar)" x="383.47826086956525" y="0" width="18.26086956521739" height="8" fill="#844fba"/>
-                                        <rect mask="url(#languages-bar)" x="401.7391304347826" y="0" width="18.26086956521739" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="192.5" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="192.5" y="0" width="70" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="262.5" y="0" width="52.5" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="315" y="0" width="35" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="350" y="0" width="17.5" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="367.5" y="0" width="17.5" height="8" fill="#844fba"/>
+                                        <rect mask="url(#languages-bar)" x="385" y="0" width="17.5" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="402.49999999999994" y="0" width="17.5" height="8" fill="#701516"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -2017,7 +2018,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>40.74%</div>
+                                                <div>39.29%</div>
                                                 <div>11★</div>
                                             </small>
                                         </div>
@@ -2029,7 +2030,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>11.11%</div>
+                                                <div>10.71%</div>
                                                 <div>3★</div>
                                             </small>
                                         </div>
@@ -2041,7 +2042,7 @@
                                                 PHP
                                             </div>
                                             <small>
-                                                <div>3.7%</div>
+                                                <div>3.57%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2053,7 +2054,7 @@
                                                 HTML
                                             </div>
                                             <small>
-                                                <div>3.7%</div>
+                                                <div>3.57%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -2067,7 +2068,7 @@
                                                 Go
                                             </div>
                                             <small>
-                                                <div>14.81%</div>
+                                                <div>14.29%</div>
                                                 <div>4★</div>
                                             </small>
                                         </div>
@@ -2079,7 +2080,7 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>7.41%</div>
+                                                <div>7.14%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -2091,7 +2092,19 @@
                                                 HCL
                                             </div>
                                             <small>
-                                                <div>3.7%</div>
+                                                <div>3.57%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                Ruby
+                                            </div>
+                                            <small>
+                                                <div>3.57%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3615,7 +3628,7 @@ We're currently looking to see if a subscription has any failed invoices. This c
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 17 Jul 2025, 08:01:20 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 17 Jul 2025, 09:01:31 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
