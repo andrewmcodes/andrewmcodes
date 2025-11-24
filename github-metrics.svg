@@ -1470,14 +1470,15 @@
                                         <rect mask="url(#languages-bar)" x="237.54098360655735" y="0" width="34.42622950819672" height="8" fill="#3572a5"/>
                                         <rect mask="url(#languages-bar)" x="271.9672131147541" y="0" width="34.42622950819672" height="8" fill="#00add8"/>
                                         <rect mask="url(#languages-bar)" x="306.3934426229508" y="0" width="30.983606557377048" height="8" fill="#dea584"/>
-                                        <rect mask="url(#languages-bar)" x="337.37704918032784" y="0" width="24.098360655737704" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="361.4754098360655" y="0" width="13.77049180327869" height="8" fill="#663399"/>
-                                        <rect mask="url(#languages-bar)" x="375.2459016393442" y="0" width="13.77049180327869" height="8" fill="#555555"/>
-                                        <rect mask="url(#languages-bar)" x="389.0163934426229" y="0" width="10.327868852459016" height="8" fill="#f05138"/>
-                                        <rect mask="url(#languages-bar)" x="399.34426229508193" y="0" width="3.4426229508196724" height="8" fill="#a91e50"/>
-                                        <rect mask="url(#languages-bar)" x="402.7868852459016" y="0" width="3.4426229508196724" height="8" fill="#c1d026"/>
-                                        <rect mask="url(#languages-bar)" x="406.22950819672127" y="0" width="3.4426229508196724" height="8" fill="#4f5d95"/>
-                                        <rect mask="url(#languages-bar)" x="409.672131147541" y="0" width="3.4426229508196724" height="8" fill="#fcb32c"/>
+                                        <rect mask="url(#languages-bar)" x="337.37704918032784" y="0" width="20.65573770491803" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="358.03278688524586" y="0" width="13.77049180327869" height="8" fill="#663399"/>
+                                        <rect mask="url(#languages-bar)" x="371.80327868852453" y="0" width="13.77049180327869" height="8" fill="#555555"/>
+                                        <rect mask="url(#languages-bar)" x="385.57377049180326" y="0" width="10.327868852459016" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="395.90163934426226" y="0" width="3.4426229508196724" height="8" fill="#a91e50"/>
+                                        <rect mask="url(#languages-bar)" x="399.34426229508193" y="0" width="3.4426229508196724" height="8" fill="#c1d026"/>
+                                        <rect mask="url(#languages-bar)" x="402.7868852459016" y="0" width="3.4426229508196724" height="8" fill="#4f5d95"/>
+                                        <rect mask="url(#languages-bar)" x="406.22950819672127" y="0" width="3.4426229508196724" height="8" fill="#fcb32c"/>
+                                        <rect mask="url(#languages-bar)" x="409.672131147541" y="0" width="3.4426229508196724" height="8" fill="#000080"/>
                                         <rect mask="url(#languages-bar)" x="413.11475409836066" y="0" width="3.4426229508196724" height="8" fill="#da5b0b"/>
                                         <rect mask="url(#languages-bar)" x="416.55737704918033" y="0" width="3.4426229508196724" height="8" fill="#101f1f"/>
                                     </svg>
@@ -1583,9 +1584,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#101f1f" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#da5b0b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                AppleScript
+                                                Jupyter Notebook
                                             </div>
                                             <small>
                                                 <div>0.72%</div>
@@ -1638,8 +1639,8 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>5.04%</div>
-                                                <div>7★</div>
+                                                <div>4.32%</div>
+                                                <div>6★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1681,9 +1682,21 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#da5b0b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#000080" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Jupyter Notebook
+                                                Lua
+                                            </div>
+                                            <small>
+                                                <div>0.72%</div>
+                                                <div>1★</div>
+                                            </small>
+                                        </div>
+                                        <div class="field language details">
+                                            <div class="field">
+                                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                                    <path fill="#101f1f" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                </svg>
+                                                AppleScript
                                             </div>
                                             <small>
                                                 <div>0.72%</div>
@@ -3361,7 +3374,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 24 Nov 2025, 08:01:19 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 24 Nov 2025, 09:01:18 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
