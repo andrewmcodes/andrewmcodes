@@ -140,7 +140,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
                             </svg>
-                            Starred 3603 repositories
+                            Starred 3604 repositories
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2942,7 +2942,7 @@
                                 </svg>
                                 🔒 Dotfiles
                             </h2>
-                            <div class="count">49 repositories</div>
+                            <div class="count">50 repositories</div>
                             <div class="description">Dotfiles examples &amp; tools</div>
                             <div class="languages">
                                 <div class="row">
@@ -2951,19 +2951,19 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="274.2857142857143" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="274.2857142857143" y="0" width="42.85714285714286" height="8" fill="#000080"/>
-                                        <rect mask="url(#languages-bar)" x="317.1428571428571" y="0" width="17.142857142857142" height="8" fill="#199f4b"/>
-                                        <rect mask="url(#languages-bar)" x="334.2857142857143" y="0" width="8.571428571428571" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="342.8571428571429" y="0" width="8.571428571428571" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="351.42857142857144" y="0" width="8.571428571428571" height="8" fill="#0298c3"/>
-                                        <rect mask="url(#languages-bar)" x="360" y="0" width="8.571428571428571" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="368.5714285714286" y="0" width="8.571428571428571" height="8" fill="#f05138"/>
-                                        <rect mask="url(#languages-bar)" x="377.14285714285717" y="0" width="8.571428571428571" height="8" fill="#663399"/>
-                                        <rect mask="url(#languages-bar)" x="385.7142857142858" y="0" width="8.571428571428571" height="8" fill="#ecdebe"/>
-                                        <rect mask="url(#languages-bar)" x="394.28571428571433" y="0" width="8.571428571428571" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="402.85714285714295" y="0" width="8.571428571428571" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="411.4285714285715" y="0" width="8.571428571428571" height="8" fill="#5e5086"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="277.2" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="277.2" y="0" width="42" height="8" fill="#000080"/>
+                                        <rect mask="url(#languages-bar)" x="319.2" y="0" width="16.8" height="8" fill="#199f4b"/>
+                                        <rect mask="url(#languages-bar)" x="336" y="0" width="8.4" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="344.40000000000003" y="0" width="8.4" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="352.8" y="0" width="8.4" height="8" fill="#0298c3"/>
+                                        <rect mask="url(#languages-bar)" x="361.20000000000005" y="0" width="8.4" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="369.6" y="0" width="8.4" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="378.00000000000006" y="0" width="8.4" height="8" fill="#663399"/>
+                                        <rect mask="url(#languages-bar)" x="386.4000000000001" y="0" width="8.4" height="8" fill="#ecdebe"/>
+                                        <rect mask="url(#languages-bar)" x="394.80000000000007" y="0" width="8.4" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="403.2000000000001" y="0" width="8.4" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="411.6000000000001" y="0" width="8.4" height="8" fill="#5e5086"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -2976,8 +2976,8 @@
                                                 Shell
                                             </div>
                                             <small>
-                                                <div>65.31%</div>
-                                                <div>32★</div>
+                                                <div>66%</div>
+                                                <div>33★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -2988,7 +2988,7 @@
                                                 Vim Script
                                             </div>
                                             <small>
-                                                <div>4.08%</div>
+                                                <div>4%</div>
                                                 <div>2★</div>
                                             </small>
                                         </div>
@@ -3000,7 +3000,7 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3012,7 +3012,7 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3024,7 +3024,7 @@
                                                 CSS
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3036,7 +3036,7 @@
                                                 HTML
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3048,7 +3048,7 @@
                                                 Haskell
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3062,7 +3062,7 @@
                                                 Lua
                                             </div>
                                             <small>
-                                                <div>10.2%</div>
+                                                <div>10%</div>
                                                 <div>5★</div>
                                             </small>
                                         </div>
@@ -3074,7 +3074,7 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3086,7 +3086,7 @@
                                                 Perl
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3098,7 +3098,7 @@
                                                 Swift
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3110,7 +3110,7 @@
                                                 Roff
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3122,7 +3122,7 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>2.04%</div>
+                                                <div>2%</div>
                                                 <div>1★</div>
                                             </small>
                                         </div>
@@ -3408,7 +3408,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 4 Dec 2025, 14:01:15 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 4 Dec 2025, 15:01:25 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
