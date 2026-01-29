@@ -1904,8 +1904,8 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="140" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="140" y="0" width="112" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="130.66666666666666" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="130.66666666666666" y="0" width="121.33333333333333" height="8" fill="#3572a5"/>
                                         <rect mask="url(#languages-bar)" x="252" y="0" width="56" height="8" fill="#00add8"/>
                                         <rect mask="url(#languages-bar)" x="308" y="0" width="28" height="8" fill="#f1e05a"/>
                                         <rect mask="url(#languages-bar)" x="336" y="0" width="28" height="8" fill="#701516"/>
@@ -1927,8 +1927,8 @@
                                                 TypeScript
                                             </div>
                                             <small>
-                                                <div>30%</div>
-                                                <div>15★</div>
+                                                <div>28%</div>
+                                                <div>14★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -2001,8 +2001,8 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>24%</div>
-                                                <div>12★</div>
+                                                <div>26%</div>
+                                                <div>13★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -3486,7 +3486,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 29 Jan 2026, 07:12:04 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 29 Jan 2026, 08:09:00 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
