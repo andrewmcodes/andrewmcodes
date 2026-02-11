@@ -82,7 +82,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            10142 Commits
+                            10143 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -2814,14 +2814,14 @@
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="277.2" height="8" fill="#89e051"/>
                                         <rect mask="url(#languages-bar)" x="277.2" y="0" width="42" height="8" fill="#000080"/>
-                                        <rect mask="url(#languages-bar)" x="319.2" y="0" width="16.8" height="8" fill="#199f4b"/>
-                                        <rect mask="url(#languages-bar)" x="336" y="0" width="8.4" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="344.40000000000003" y="0" width="8.4" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="352.8" y="0" width="8.4" height="8" fill="#0298c3"/>
-                                        <rect mask="url(#languages-bar)" x="361.20000000000005" y="0" width="8.4" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="369.6" y="0" width="8.4" height="8" fill="#f05138"/>
-                                        <rect mask="url(#languages-bar)" x="378.00000000000006" y="0" width="8.4" height="8" fill="#663399"/>
-                                        <rect mask="url(#languages-bar)" x="386.4000000000001" y="0" width="8.4" height="8" fill="#ecdebe"/>
+                                        <rect mask="url(#languages-bar)" x="319.2" y="0" width="16.8" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="336" y="0" width="8.4" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="344.40000000000003" y="0" width="8.4" height="8" fill="#0298c3"/>
+                                        <rect mask="url(#languages-bar)" x="352.8" y="0" width="8.4" height="8" fill="#3178c6"/>
+                                        <rect mask="url(#languages-bar)" x="361.20000000000005" y="0" width="8.4" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="369.6" y="0" width="8.4" height="8" fill="#663399"/>
+                                        <rect mask="url(#languages-bar)" x="378.00000000000006" y="0" width="8.4" height="8" fill="#ecdebe"/>
+                                        <rect mask="url(#languages-bar)" x="386.4000000000001" y="0" width="8.4" height="8" fill="#199f4b"/>
                                         <rect mask="url(#languages-bar)" x="394.80000000000007" y="0" width="8.4" height="8" fill="#e34c26"/>
                                         <rect mask="url(#languages-bar)" x="403.2000000000001" y="0" width="8.4" height="8" fill="#f1e05a"/>
                                         <rect mask="url(#languages-bar)" x="411.6000000000001" y="0" width="8.4" height="8" fill="#5e5086"/>
@@ -2844,9 +2844,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Vim Script
+                                                Python
                                             </div>
                                             <small>
                                                 <div>4%</div>
@@ -2856,9 +2856,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#0298c3" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Ruby
+                                                Perl
                                             </div>
                                             <small>
                                                 <div>2%</div>
@@ -2868,9 +2868,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                TypeScript
+                                                Swift
                                             </div>
                                             <small>
                                                 <div>2%</div>
@@ -2880,9 +2880,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#ecdebe" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                CSS
+                                                Roff
                                             </div>
                                             <small>
                                                 <div>2%</div>
@@ -2930,9 +2930,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#3572a5" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Python
+                                                Ruby
                                             </div>
                                             <small>
                                                 <div>2%</div>
@@ -2942,9 +2942,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#0298c3" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#3178c6" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Perl
+                                                TypeScript
                                             </div>
                                             <small>
                                                 <div>2%</div>
@@ -2954,9 +2954,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Swift
+                                                CSS
                                             </div>
                                             <small>
                                                 <div>2%</div>
@@ -2966,9 +2966,9 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#ecdebe" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#199f4b" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Roff
+                                                Vim Script
                                             </div>
                                             <small>
                                                 <div>2%</div>
@@ -3481,7 +3481,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 11 Feb 2026, 07:20:31 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 11 Feb 2026, 08:17:23 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
