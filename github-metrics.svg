@@ -1880,16 +1880,16 @@
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="154.2857142857143" height="8" fill="#3178c6"/>
-                                        <rect mask="url(#languages-bar)" x="154.2857142857143" y="0" width="111.42857142857143" height="8" fill="#3572a5"/>
-                                        <rect mask="url(#languages-bar)" x="265.7142857142857" y="0" width="42.85714285714286" height="8" fill="#00add8"/>
-                                        <rect mask="url(#languages-bar)" x="308.5714285714286" y="0" width="25.714285714285715" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="334.2857142857143" y="0" width="25.714285714285715" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="154.2857142857143" y="0" width="120" height="8" fill="#3572a5"/>
+                                        <rect mask="url(#languages-bar)" x="274.28571428571433" y="0" width="42.85714285714286" height="8" fill="#00add8"/>
+                                        <rect mask="url(#languages-bar)" x="317.14285714285717" y="0" width="25.714285714285715" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="342.8571428571429" y="0" width="17.142857142857142" height="8" fill="#f1e05a"/>
                                         <rect mask="url(#languages-bar)" x="360" y="0" width="17.142857142857142" height="8" fill="#da5b0b"/>
                                         <rect mask="url(#languages-bar)" x="377.14285714285717" y="0" width="8.571428571428571" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="385.7142857142857" y="0" width="8.571428571428571" height="8" fill="#000080"/>
-                                        <rect mask="url(#languages-bar)" x="394.2857142857143" y="0" width="8.571428571428571" height="8" fill="#fcb32c"/>
-                                        <rect mask="url(#languages-bar)" x="402.8571428571429" y="0" width="8.571428571428571" height="8" fill="#89e051"/>
-                                        <rect mask="url(#languages-bar)" x="411.42857142857144" y="0" width="8.571428571428571" height="8" fill="#f05138"/>
+                                        <rect mask="url(#languages-bar)" x="385.7142857142858" y="0" width="8.571428571428571" height="8" fill="#000080"/>
+                                        <rect mask="url(#languages-bar)" x="394.28571428571433" y="0" width="8.571428571428571" height="8" fill="#fcb32c"/>
+                                        <rect mask="url(#languages-bar)" x="402.85714285714295" y="0" width="8.571428571428571" height="8" fill="#89e051"/>
+                                        <rect mask="url(#languages-bar)" x="411.4285714285715" y="0" width="8.571428571428571" height="8" fill="#f05138"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -1921,13 +1921,13 @@
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                Ruby
+                                                JavaScript
                                             </div>
                                             <small>
-                                                <div>5.56%</div>
-                                                <div>3★</div>
+                                                <div>3.7%</div>
+                                                <div>2★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -1976,16 +1976,16 @@
                                                 Python
                                             </div>
                                             <small>
-                                                <div>24.07%</div>
-                                                <div>13★</div>
+                                                <div>25.93%</div>
+                                                <div>14★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
                                             <div class="field">
                                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                                    <path fill="#f1e05a" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                                    <path fill="#701516" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                                 </svg>
-                                                JavaScript
+                                                Ruby
                                             </div>
                                             <small>
                                                 <div>5.56%</div>
@@ -3474,7 +3474,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 2 Mar 2026, 01:07:38 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 2 Mar 2026, 02:11:54 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
