@@ -2320,11 +2320,11 @@
                                             <rect x="0" y="0" width="420" height="8" fill="white" rx="5"/>
                                         </mask>
                                         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                                        <rect mask="url(#languages-bar)" x="0" y="0" width="328.125" height="8" fill="#701516"/>
-                                        <rect mask="url(#languages-bar)" x="328.125" y="0" width="39.375" height="8" fill="#e34c26"/>
-                                        <rect mask="url(#languages-bar)" x="367.5" y="0" width="26.25" height="8" fill="#f1e05a"/>
-                                        <rect mask="url(#languages-bar)" x="393.75" y="0" width="13.125" height="8" fill="#663399"/>
-                                        <rect mask="url(#languages-bar)" x="406.875" y="0" width="13.125" height="8" fill="#67b8de"/>
+                                        <rect mask="url(#languages-bar)" x="0" y="0" width="347.58620689655174" height="8" fill="#701516"/>
+                                        <rect mask="url(#languages-bar)" x="347.58620689655174" y="0" width="28.96551724137931" height="8" fill="#e34c26"/>
+                                        <rect mask="url(#languages-bar)" x="376.55172413793105" y="0" width="14.482758620689655" height="8" fill="#f1e05a"/>
+                                        <rect mask="url(#languages-bar)" x="391.0344827586207" y="0" width="14.482758620689655" height="8" fill="#663399"/>
+                                        <rect mask="url(#languages-bar)" x="405.5172413793103" y="0" width="14.482758620689655" height="8" fill="#67b8de"/>
                                     </svg>
                                 </div>
                                 <div class="row">
@@ -2337,8 +2337,8 @@
                                                 Ruby
                                             </div>
                                             <small>
-                                                <div>75.76%</div>
-                                                <div>25★</div>
+                                                <div>72.73%</div>
+                                                <div>24★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -2349,8 +2349,8 @@
                                                 JavaScript
                                             </div>
                                             <small>
-                                                <div>6.06%</div>
-                                                <div>2★</div>
+                                                <div>3.03%</div>
+                                                <div>1★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -2375,8 +2375,8 @@
                                                 HTML
                                             </div>
                                             <small>
-                                                <div>9.09%</div>
-                                                <div>3★</div>
+                                                <div>6.06%</div>
+                                                <div>2★</div>
                                             </small>
                                         </div>
                                         <div class="field language details">
@@ -3480,7 +3480,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Mar 2026, 00:09:40 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 8 Mar 2026, 01:01:58 (timezone America/Phoenix) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
