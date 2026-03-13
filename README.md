@@ -1,1 +1,44 @@
-![Metrics](https://metrics.lecoq.io/andrewmcodes?template=classic&repositories.forks=true&isocalendar=1&languages=1&habits=1&reactions=1&people=1&activity=1&achievements=1&notable=1&lines=1&repositories=1&gists=1&sponsors=1&starlists=1&pagespeed=1&screenshot=1&rss=1&introduction=1&repositories=100&repositories.batch=100&repositories.forks=true&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&habits.from=200&habits.days=14&habits.facts=true&habits.charts=true&habits.trim=false&reactions.limit=200&reactions.limit.issues=100&reactions.limit.discussions=100&reactions.limit.discussions.comments=100&reactions.days=0&reactions.display=absolute&people.limit=8&people.identicons=false&people.size=18&people.types=followers%2C%20following&people.shuffle=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&notable.from=organization&notable.repositories=false&notable.indepth=false&notable.types=commit&introduction.title=true&sponsors.sections=goal%2C%20about&starlists.limit=15&starlists.limit.repositories=0&starlists.languages=true&starlists.limit.languages=0&starlists.shuffle.repositories=true&pagespeed.url=.user.website&pagespeed.detailed=false&pagespeed.screenshot=false&rss.source=https%3A%2F%2Fandrewm.codes%2Ffeed.xml&rss.limit=4&screenshot.title=Screenshot&screenshot.url=https%3A%2F%2Fandrewm.codes%2F&screenshot.selector=body&screenshot.background=true&config.timezone=America%2FPhoenix&config.octicon=true)
+# hey, i'm andrew 👋
+
+> **builder · tinkerer · recovering perfectionist**
+
+I write code, break things on purpose, and occasionally ship something worth talking about. Currently building at [Podia](https://www.podia.com) — helping creators make a living doing what they love. I also co-host [Remote Ruby](https://remoteruby.com), a podcast about Ruby, Rails, and the people who build with them.
+
+```ruby
+andrew = {
+  pronouns:  "he/him",
+  location:  "🌎 remote",
+  day_job:   "Software Engineer @ Podia",
+  podcast:   "co-host @ Remote Ruby",
+  side_quests: ["open source", "dev tooling", "finding the perfect keyboard"],
+  currently: "deep in a Rails codebase and loving it",
+}
+```
+
+
+## find me
+
+[![Website](https://img.shields.io/badge/andrewm.codes-000000?style=for-the-badge&logo=safari&logoColor=white)](https://andrewm.codes)
+[![Remote Ruby](https://img.shields.io/badge/Remote_Ruby_Podcast-CC342D?style=for-the-badge&logo=ruby&logoColor=white)](https://remoteruby.com)
+[![GitHub](https://img.shields.io/badge/@andrewmcodes-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andrewmcodes)
+[![Twitter](https://img.shields.io/badge/@andrewmcodes-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/andrewmcodes)
+[![Bluesky](https://img.shields.io/badge/@andrewm.codes-0085FF?style=for-the-badge&logo=bluesky&logoColor=white)](https://bsky.app/profile/andrewm.codes)
+[![LinkedIn](https://img.shields.io/badge/andrewmcodes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrewmcodes/)
+[![YouTube](https://img.shields.io/badge/@andrewmcodes-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@andrewmcodes)
+
+## my tech stack
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Hotwire](https://img.shields.io/badge/Hotwire-9353D3?style=for-the-badge&logo=hotwire&logoColor=white)
+
+## github activity
+
+<div >
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=andrewmcodes&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Andrew's GitHub Stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmcodes&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" />
+
+</div>
