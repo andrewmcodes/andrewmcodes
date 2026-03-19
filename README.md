@@ -1,33 +1,25 @@
 # andrew mason 👋
 
-> senior rails engineer · developer tooling · ai workflows
+Senior fullstack Rails engineer focused on developer tooling, performance, and AI-assisted workflows.
 
-I build systems that improve developer velocity and product reliability.
+I work on systems that improve how teams build, test, and ship software.
 
-- software engineer @ [Podia](https://www.podia.com), building a creator platform
-- co-host @ [Remote Ruby](https://remoteruby.com), rails, tooling, and dev culture
-- focused on CI performance, test systems, and agentic workflows
+- 🏗 engineer @ [Podia](https://www.podia.com)
+- 🎙 co-host @ [Remote Ruby](https://remoteruby.com)
 
-```ruby
-andrew = {
-  role:       "Senior Fullstack Rails Engineer",
-  strengths:  ["systems thinking", "developer experience", "performance"],
-  focus:      ["rails", "ci optimization", "ai tooling"],
-  building:   ["scalable systems", "dev tooling", "agent workflows"],
-  principle:  "leverage > perfection"
-}
-```
+## what i do
 
-## impact
+- ⚡ improve CI and test performance in large Rails applications
+- 🛠 design developer tooling that reduces friction and increases velocity
+- 🚀 ship product features with a focus on reliability and maintainability
+- 🤖 build AI-powered workflows for real-world development use
 
-- CI and test performance
-  - improved build and test efficiency through parallelization, caching, and workflow design
-- developer tooling
-  - built and refined internal tools that streamline development and reduce friction
-- product engineering
-  - shipped features in large Rails codebases with an emphasis on reliability and maintainability
-- AI and prompt systems
-  - designed structured prompt systems and agent workflows for real-world usage
+## areas of focus
+
+- 🧱 Rails architecture and large codebases
+- ⚙️ CI systems, GitHub Actions, and test optimization
+- 🧪 developer experience and internal tooling
+- 🧠 prompt design and agent-based workflows
 
 ## stack
 
